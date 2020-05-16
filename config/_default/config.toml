@@ -1,0 +1,22 @@
+baseURL = "https://develotters.com/"
+title = "DevelOtters"
+description = "A tech blog from develotters to develotters"
+author = "Jonatan Ivanov"
+copyright = "Jonatan Ivanov"
+languageCode = "en-us"
+theme = "ananke"
+
+canonifyURLs = true
+enableRobotsTXT = true
+enableEmoji = true
+enableGitInfo = true
+enableInlineShortcodes = true
+# googleAnalytics = "UA-111111111111-1"
+
+[permalinks]
+  posts = "/:section/:slug/"
+  pages = "/:slug/"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
