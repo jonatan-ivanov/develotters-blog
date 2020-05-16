@@ -4,7 +4,7 @@ all: clean build
 
 clean:
 	@echo 'Cleaning...'
-	rm -rf "$(PUBLISH_DIR)"
+	find "$(PUBLISH_DIR)" ! -name 'CNAME' -delete
 
 server:
 	@echo 'Starting local dev webserver...'
