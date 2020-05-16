@@ -1,6 +1,5 @@
 baseURL = "https://develotters.com/"
 title = "DevelOtters"
-description = "A tech blog from develotters to develotters"
 author = "Jonatan Ivanov"
 copyright = "Jonatan Ivanov"
 languageCode = "en-us"
