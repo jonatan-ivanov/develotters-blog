@@ -15,7 +15,7 @@ build:
 	hugo --gc --minify -d "$(PUBLISH_DIR)"
 
 gitcheck:
-	$(if "$(shell git status -s)", @echo 'Please commit your changes first'; exit 1)
+	git diff-index --quiet HEAD
 
 deploy: gitcheck clean build
 	@echo 'Commiting changes...'
