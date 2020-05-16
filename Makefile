@@ -14,8 +14,11 @@ build:
 	@echo 'Generating site...'
 	hugo --gc --minify -d "$(PUBLISH_DIR)"
 
-deploy: clean build
-	@echo 'Comminting changes site...'
+gitcheck:
+	$(if "$(shell git status -s)", @echo 'Please commit your changes first'; exit 1)
+
+deploy: gitcheck clean build
+	@echo 'Commiting changes...'
 	git add "$(PUBLISH_DIR)"
 	git commit -m 'Regenerating the site'
 	@echo 'Pushing changes site...'
