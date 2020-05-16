@@ -13,3 +13,7 @@ server:
 build:
 	@echo "Generating site..."
 	hugo --gc --minify -d "$(PUBLISH_DIR)"
+
+update:
+	@echo "Updating submodules..."
+	git submodule update --recursive --remote
