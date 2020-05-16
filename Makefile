@@ -16,6 +16,7 @@ build:
 
 deploy: clean build
 	@echo 'Comminting changes site...'
+	git add "$(PUBLISH_DIR)"
 	git commit -m 'Regenerating the site'
 	@echo 'Pushing changes site...'
 	git push
