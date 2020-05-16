@@ -10,7 +10,7 @@ enableRobotsTXT = true
 enableEmoji = true
 enableGitInfo = true
 enableInlineShortcodes = true
-# googleAnalytics = "UA-111111111111-1"
+googleAnalytics = "UA-166903607-1"
 
 [permalinks]
   posts = "/:section/:slug/"
