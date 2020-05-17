@@ -1,8 +1,9 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+lead: ""
 description: "{{ replace .Name "-" " " | title }}"
 
-date: {{ now.Format "2006-01-02" }}
+date: {{ .Date }}
 author: "Jonatan Ivanov"
 type: post
 
