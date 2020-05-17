@@ -1,15 +1,15 @@
-baseURL = "https://develotters.com/"
-title = "DevelOtters"
+baseurl = "https://develotters.com/"
+title = "DevelOtters.com"
 author = "Jonatan Ivanov"
-copyright = "Jonatan Ivanov"
 languageCode = "en-us"
-theme = "ananke"
+theme = "mainroad"
 
 canonifyURLs = true
 enableRobotsTXT = true
 enableEmoji = true
 enableGitInfo = true
 enableInlineShortcodes = true
+# disqusShortname = ""
 googleAnalytics = "UA-166903607-1"
 
 [permalinks]
@@ -19,3 +19,20 @@ googleAnalytics = "UA-166903607-1"
 [sitemap]
   changefreq = "weekly"
   priority = 0.5
+
+[[menu.main]]
+  name = "home"
+  weight = -1
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "rss"
+  weight = 0
+  identifier = "rss"
+  url = "/index.xml"
+
+# [Author]
+#   name = "John Doe"
+#   bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+#   avatar = "img/avatar.png"

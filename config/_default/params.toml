@@ -1,4 +1,34 @@
+subtitle = "A tech blog from develotters to develotters"
 description = "A tech blog from develotters to develotters"
-twitter = "https://twitter.com/jonatan_ivanov"
-github = "https://github.com/jonatan-ivanov"
-linkedin = "https://www.linkedin.com/in/jonatan-ivanov/"
+copyright = "Jonatan Ivanov"
+opengraph = true
+schema = true
+twitter_cards = true
+readmore = true
+# authorbox = true # Show authorbox at bottom of pages if true
+# toc = true # Enable Table of Contents
+pager = true
+post_meta = ["date", "categories"]
+mainSections = ["post"]
+dateformat = "2006-01-02"
+# mathjax = true
+# mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js"
+# mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
+highlightColor = "#80151a"
+# customCSS = ["css/custom.css"] # Include custom CSS files
+# customJS = ["js/custom.js"] # Include custom JS files
+
+[sidebar]
+  home = "right"
+  list = "right"
+  single = true
+  widgets = ["search", "recent", "categories", "taglist", "social"]
+
+[widgets]
+  recent_num = 3
+  tags_counter = false
+
+[widgets.social]
+  twitter = "jonatan_ivanov"
+  github = "jonatan-ivanov"
+  linkedin = "jonatan-ivanov"
