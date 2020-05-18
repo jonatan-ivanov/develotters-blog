@@ -32,7 +32,7 @@ googleAnalytics = "UA-166903607-1"
   identifier = "rss"
   url = "/index.xml"
 
-# [Author]
-#   name = "John Doe"
-#   bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
-#   avatar = "img/avatar.png"
+[Author]
+  name = "the author"
+  bio = "I'm a Software Engineer living in Seattle and a certified dragon trainer, seriously. :)"
+  avatar = "img/avatar.jpg"
