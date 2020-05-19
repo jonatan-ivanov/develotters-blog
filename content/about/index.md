@@ -14,4 +14,4 @@ tags: []
 
 Hi,
 
-I'm Joni, and this is my techblog from develotters to develotters.
+I'm Joni, and this is my tech blog from develotters to develotters.
