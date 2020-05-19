@@ -7,7 +7,15 @@ date: {{ .Date }}
 author: "Jonatan Ivanov"
 type: post
 
-categories: []
+categories:
+  ["dev"]
+  ["devops"]
+  ["learning"]
+  ["management"]
+  ["news"]
+  ["qa-minutes"]
+  ["random"]
+  ["security"]
 tags: []
 draft: true
 ---

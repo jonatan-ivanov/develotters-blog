@@ -7,7 +7,7 @@ date: 2020-05-16T13:48:39-07:00
 author: "Jonatan Ivanov"
 type: post
 
-categories: []
+categories: ["random"]
 tags: []
 ---
 
