@@ -9,7 +9,7 @@ author: "Jonatan Ivanov"
 type: post
 
 categories: ["dev"]
-tags: ["hugo", "blog", "make", "editorconfig", "howto", "jam-stack", "github", "github-pages"]
+tags: ["hugo", "blog", "make", "editorconfig", "howto", "jam-stack", "git", "github", "github-pages"]
 ---
 
 The whole thing started with: *"I think I want to create a blog"*. I had a few ones before, those were either all-in-one hosted solutions or self-installed [WordPress](https://wordpress.org/) sites. WordPress was a tempting pick this time (as always) but I've played a little with [Jekyll](https://jekyllrb.com/) and [Hugo](https://gohugo.io/) recently and I liked them. So I negligently threw the red button with the text *"Deploy WordPress"* back to the shelf and I brought up a little toolbox that has the text [JAM Stack](https://jamstack.org/) on it from my shed (not [*bikeshed*](https://www.freebsd.org/doc/en_US.ISO8859-1/articles/mailing-list-faq/bikeshed.html)), also I liked the idea of hosting the blog on [GitHub Pages](https://pages.github.com/).
