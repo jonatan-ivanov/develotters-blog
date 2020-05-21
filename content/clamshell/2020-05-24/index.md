@@ -22,7 +22,7 @@ Check out the [Moved by Java campaign](https://www.oracle.com/java/moved-by-java
 
 # Windows Package Manager
 
-The [Windows Package Manager](https://github.com/microsoft/winget-cli) is a tool creted to help you discover and install those your favorite tools: `winget install <tool>`
+The [Windows Package Manager](https://github.com/microsoft/winget-cli) is a tool creted to help you discover and install those your favorite tools: `winget install <tool>`. Check out this post by Microsoft: [Use the winget tool to install and manage applications](https://docs.microsoft.com/en-us/windows/package-manager/winget/)
 
 # Ubuntu Touch OTA Release
 
