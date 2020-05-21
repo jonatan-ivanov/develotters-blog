@@ -8,7 +8,7 @@ author: "Jonatan Ivanov"
 type: post
 
 categories: ["clamshell"]
-tags: []
+tags: ["java", "windows", "miscrosoft", "ubuntu", "ubuntu touch", "mobile", "Unreal", "Unreal Engine", "cloud", "cdk8s"]
 draft: true
 ---
 
