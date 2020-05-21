@@ -81,3 +81,8 @@ I wrote a few [targets](https://github.com/jonatan-ivanov/develotters-blog/blob/
 - Deploy the site: `make deploy`
 
 After these, nothing prevents you to work on your site efficiently, in the next post I'm going to explain how to proceed.
+
+# Posts in this series
+
+- [Intro](/posts/how-to-build-a-blog-intro/)
+- [Content](/posts/how-to-build-a-blog-content/)
