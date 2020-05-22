@@ -86,3 +86,4 @@ After these, nothing prevents you to work on your site efficiently, in the next 
 
 - [Intro](/posts/how-to-build-a-blog-intro/)
 - [Content](/posts/how-to-build-a-blog-content/)
+- [Deploy](/posts/how-to-build-a-blog-deploy/)

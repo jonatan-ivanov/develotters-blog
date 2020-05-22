@@ -85,3 +85,4 @@ What I'm doing (and why):
 
 - [Intro](/posts/how-to-build-a-blog-intro/)
 - [Content](/posts/how-to-build-a-blog-content/)
+- [Deploy](/posts/how-to-build-a-blog-deploy/)
