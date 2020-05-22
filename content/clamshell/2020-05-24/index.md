@@ -14,22 +14,33 @@ draft: true
 
 # Java is 25 years old!
 
-Check out the [Moved by Java campaign](https://www.oracle.com/java/moved-by-java/) an these hashtags: [#Java25](https://twitter.com/hashtag/Java25), [#MovedbyJava](https://twitter.com/hashtag/MovedbyJava)
+{{< youtube KA8gI5e16L0 >}}
+<br>
 
-# inside.java
-
-[Inside.java](https://inside.java/about/) is a collection of curated content produced by the Java Platform Group at Oracle.
+Check out the [Moved by Java campaign](https://www.oracle.com/java/moved-by-java/) and these hashtags: [#Java25](https://twitter.com/hashtag/Java25), [#MovedbyJava](https://twitter.com/hashtag/MovedbyJava).  
+Also, check out [inside.java](https://inside.java/about/), it is a collection of curated content produced by the Java Platform Group at Oracle.
 
 # Windows Package Manager
 
-The [Windows Package Manager](https://github.com/microsoft/winget-cli) is a tool creted to help you discover and install those your favorite tools: `winget install <tool>`. Check out this post by Microsoft: [Use the winget tool to install and manage applications](https://docs.microsoft.com/en-us/windows/package-manager/winget/)
+{{< figure src="https://docs.microsoft.com/en-us/windows/package-manager/winget/images/install.png" >}}
+
+The [Windows Package Manager](https://github.com/microsoft/winget-cli) is a tool creted to help you discover and install your favorite tools: `winget install <tool>`. Check out this post by Microsoft: [Use the winget tool to install and manage applications](https://docs.microsoft.com/en-us/windows/package-manager/winget/)
+
+# Windows Terminal 1.0
+
+{{< figure src="https://devblogs.microsoft.com/commandline/wp-content/uploads/sites/33/2020/05/background-image-1.0-1.gif" >}}
+
+{{< youtube 8gw0rXPMMPE >}}
+<br>
+
+Check out the [Announcement](https://devblogs.microsoft.com/commandline/windows-terminal-1-0/) and the [GitHub Repo](https://github.com/microsoft/terminal).
 
 # Ubuntu Touch OTA Release
 
 {{< tweet 1260684739201175556 >}}
 Ubuntu Touch Home: https://ubuntu-touch.io/  
 Supported Devices: https://devices.ubuntu-touch.io/  
-Check out the [post about the release](https://ubports.com/blog/ubports-blog-1/post/ubuntu-touch-ota-12-release-276)
+Check out the [Announcement](https://ubports.com/blog/ubports-blog-1/post/ubuntu-touch-ota-12-release-276)
 
 # Unreal Engine 5 Revealed
 
