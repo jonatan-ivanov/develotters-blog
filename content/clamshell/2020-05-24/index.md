@@ -1,14 +1,14 @@
 ---
 title: "Clamshell: 2020-05-24"
-lead: ""
+lead: "Recent things in a clamshell"
 description: "Brief news 2020-05-24"
 
-date: 2020-05-24T18:52:49-07:00
+date: 2020-05-24T15:52:49-07:00
 author: "Jonatan Ivanov"
 type: post
 
 categories: ["clamshell"]
-tags: ["java", "windows", "miscrosoft", "ubuntu", "ubuntu touch", "mobile", "Unreal", "Unreal Engine", "cloud", "cdk8s"]
+tags: ["java", "windows", "windows terminal", "windows package manager", "microsoft", "ubuntu", "ubuntu touch", "mobile", "Unreal", "Unreal Engine", "cloud", "cdk8s"]
 draft: true
 ---
 
@@ -45,7 +45,11 @@ Check out the [Announcement](https://ubports.com/blog/ubports-blog-1/post/ubuntu
 # Unreal Engine 5 Revealed
 
 {{< youtube qC5KtatMcUw >}}
+<br>
 
 # CDK8s
 
 You know the [AWS CKD](https://aws.amazon.com/cdk/), right? [CDK8s](https://cdk8s.io/) is a CDK for Kubernetes [see on GitHub](https://github.com/awslabs/cdk8s).
+
+
+https://www.blog.google/products/chrome/manage-tabs-with-google-chrome/
