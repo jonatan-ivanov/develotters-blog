@@ -9,7 +9,6 @@ type: post
 
 categories: ["clamshell"]
 tags: ["java", "windows", "windows terminal", "windows package manager", "microsoft", "ubuntu", "ubuntu touch", "mobile", "Unreal", "Unreal Engine", "cloud", "cdk8s"]
-draft: true
 ---
 
 # Java is 25 years old!
