@@ -11,6 +11,9 @@ categories: ["clamshell"]
 tags: ["java", "windows", "windows terminal", "windows package manager", "microsoft", "ubuntu", "ubuntu touch", "mobile", "Unreal", "Unreal Engine", "cloud", "cdk8s"]
 ---
 
+Including 25th Birthday of Java, Windows Terminal, Unreal Engine 5 and more.
+<!--more-->
+
 # Java is 25 years old!
 
 {{< youtube KA8gI5e16L0 >}}

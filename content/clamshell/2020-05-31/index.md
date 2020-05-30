@@ -8,9 +8,12 @@ author: "Jonatan Ivanov"
 type: post
 
 categories: ["clamshell"]
-tags: ["java", "openjdk", "jdk", "java magazine" "WAT", "javascript", "bash", "ebook", "springer", "jnation", "cloudflare", "jaeger", "zipkin", "distributed tracing", "spring", "spring-boot", "raspberry pi", "appget", "stack overflow", "survey"]
+tags: ["java", "openjdk", "jdk", "java magazine", "WAT", "javascript", "bash", "ebook", "springer", "jnation", "cloudflare", "jaeger", "zipkin", "distributed tracing", "spring", "spring-boot", "raspberry pi", "appget", "stack overflow", "survey"]
 draft: true
 ---
+
+Including The Best of the JDK Face-Off, Java Magazine 2020 May, Free eBooks from Springer, Spring Boot 2.3, Raspberry Pi 4 and more.
+<!--more-->
 
 # The Best of the JDK Face-Off
 
@@ -71,9 +74,9 @@ Check out the [Release Notes](https://github.com/spring-projects/spring-boot/wik
 
 {{< tweet 1262952005963780099 >}}
 
-# The Pragmatic Engineer’s Developer Culture Test
+# Developer Culture Test
 
-[https://blog.pragmaticengineer.com/the-developer-culture-test/](https://blog.pragmaticengineer.com/the-developer-culture-test/)
+[The Pragmatic Engineer’s Developer Culture Test](https://blog.pragmaticengineer.com/the-developer-culture-test/)
 
 # Raspberry Pi 4
 
