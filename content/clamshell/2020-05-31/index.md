@@ -43,6 +43,9 @@ If you don't know what does WAT mean, check out this lightning talk: [Wat by Gar
 Here are a few more WATs (JavaScript):
 {{< tweet 1234536343478423552 >}}
 
+JavaScript again:
+{{< tweet 1266351559610433536 >}}
+
 Or this one is in bash: [Take care editing bash scripts](https://thomask.sdf.org/blog/2019/11/09/take-care-editing-bash-scripts.html)
 
 # Free eBooks from Springer
