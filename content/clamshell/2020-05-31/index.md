@@ -102,3 +102,7 @@ Check out the [Release Notes](https://github.com/spring-projects/spring-boot/wik
 # Stack Overflow Developer Survey 2020
 
 Nearly 65,000 took [Stack Overflow's annual survey](https://insights.stackoverflow.com/survey/2020).
+
+# A Quarter of a Century of Java
+
+[A Quarter of a Century of Java](https://www.azul.com/a-quarter-of-a-century-of-java/) by [Simon Ritter](https://twitter.com/Speakjava)
