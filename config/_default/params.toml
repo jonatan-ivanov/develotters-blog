@@ -26,7 +26,7 @@ highlightColor = "#80151a"
   widgets = ["search", "recent", "categories", "taglist", "social"]
 
 [widgets]
-  recent_num = 3
+  recent_num = 5
   tags_counter = false
 
 [widgets.social]

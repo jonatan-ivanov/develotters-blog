@@ -17,7 +17,7 @@ googleAnalytics = "UA-166903607-1"
   pages = "/:slug/"
 
 [sitemap]
-  changefreq = "weekly"
+  changefreq = "daily"
   priority = 0.5
 
 [[menu.main]]
