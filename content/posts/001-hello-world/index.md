@@ -11,4 +11,4 @@ categories: ["random"]
 tags: []
 ---
 
-Hi, this is a tech blog from develotters to develotters. :)
+Hi, this is a tech blog for develotters by develotters. :)
