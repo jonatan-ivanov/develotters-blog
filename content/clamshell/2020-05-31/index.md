@@ -9,7 +9,6 @@ type: post
 
 categories: ["clamshell"]
 tags: ["java", "openjdk", "jdk", "java magazine", "WAT", "javascript", "bash", "ebook", "springer", "jnation", "cloudflare", "jaeger", "zipkin", "distributed tracing", "spring", "spring-boot", "raspberry pi", "appget", "stack overflow", "survey"]
-draft: true
 ---
 
 Including The Best of the JDK Face-Off, Java Magazine 2020 May, Free eBooks from Springer, Spring Boot 2.3, Raspberry Pi 4 and more.
