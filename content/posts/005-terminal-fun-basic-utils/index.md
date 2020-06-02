@@ -66,7 +66,7 @@ alias ls='exa'
 [MultiTail](https://vanheusden.com/multitail/) is like tail but it allows you to print multiple files in multiple windows (with ncurses). It can colorize, filter and merge, check out the [list of features](https://vanheusden.com/multitail/features.php), you can install it via `homebrew`.
 
 
-# diff-so-fancy
+# diff-so-fancy and delta
 
 [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) makes git diffs human readable.
 
@@ -80,6 +80,19 @@ alias ls='exa'
 {{< /highlight >}}
 
 Check out the [readme](https://github.com/so-fancy/diff-so-fancy), and the [pro tips](https://github.com/so-fancy/diff-so-fancy/blob/master/pro-tips.md), you can install it via `homebrew`.
+
+[ManikMagar](https://twitter.com/ManikMagar) suggested [delta](https://github.com/dandavison/delta) which seems even better.
+
+**Setup tip (`.gitconfig`):**  
+First, run `delta --list-themes` to see the themes, then:
+{{< highlight shell >}}
+[core]
+    pager = delta --theme='ansi-dark'
+[interactive]
+    diffFilter = delta --color-only
+{{< /highlight >}}
+
+Check out the [readme](https://github.com/dandavison/delta), so that you can see how to choose a theme (and also the potential issue with `bat`), you can install it via `homebrew`.
 
 # prettyping instead of ping
 
