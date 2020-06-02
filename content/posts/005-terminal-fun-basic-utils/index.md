@@ -8,7 +8,7 @@ author: "Jonatan Ivanov"
 type: post
 
 categories: ["dev"]
-tags: ["terminal", "cli", "linux", "mac os", "unix", "bash", "zsh", "bat", "cat", "exa", "ls", "multitail", "tail", "diff-so-fancy", "diff", "git", "prettyping", "ping", "htop", "top"]
+tags: ["terminal", "cli", "linux", "mac os", "unix", "bash", "zsh", "bat", "cat", "exa", "ls", "multitail", "tail", "diff-so-fancy", "delta", "diff", "git", "prettyping", "ping", "htop", "top"]
 ---
 
 This is the first post of a series where I want to give tips and trick for the Terminal/CLI, have fun:
@@ -16,7 +16,7 @@ This is the first post of a series where I want to give tips and trick for the T
 - `bat` and `cat`
 - `exa` and `ls`
 - `multitail` and `tail`
-- `diff-so-fancy` and `git diff`
+- `diff-so-fancy`, delta and `git diff`
 - `prettyping` and `ping`
 - `htop`/`gtop`/`vtop` and `top`
 <!--more-->
