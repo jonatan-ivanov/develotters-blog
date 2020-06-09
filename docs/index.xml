@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DevelOtters.com</title><link>https://develotters.com/</link><description>Recent content on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 31 May 2020 12:18:18 -0700</lastBuildDate><atom:link href="https://develotters.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Clamshell: 2020-05-31</title><link>https://develotters.com/clamshell/2020-05-31/</link><pubDate>Sun, 31 May 2020 12:18:18 -0700</pubDate><guid>https://develotters.com/clamshell/2020-05-31/</guid><description>&lt;p>Including The Best of the JDK Face-Off, Java Magazine 2020 May, Free eBooks from Springer, Spring Boot 2.3, Raspberry Pi 4 and more.&lt;/p></description></item><item><title>Terminal Fun: Basic Utils</title><link>https://develotters.com/posts/terminal-fun-basic-utils/</link><pubDate>Sat, 30 May 2020 16:38:53 -0700</pubDate><guid>https://develotters.com/posts/terminal-fun-basic-utils/</guid><description>&lt;p>This is the first post of a series where I want to give tips and trick for the Terminal/CLI, have fun:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DevelOtters.com</title><link>https://develotters.com/</link><description>Recent content on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 07 Jun 2020 12:22:18 -0700</lastBuildDate><atom:link href="https://develotters.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Clamshell: 2020-06-07</title><link>https://develotters.com/clamshell/2020-06-07/</link><pubDate>Sun, 07 Jun 2020 12:22:18 -0700</pubDate><guid>https://develotters.com/clamshell/2020-06-07/</guid><description>&lt;p>Including:&lt;/p>
+&lt;ul>
+&lt;li>GitHub Design Updates&lt;/li>
+&lt;li>How to write a (toy) JVM&lt;/li>
+&lt;li>Love it or Hate it, Java Continues to Evolve&lt;/li>
+&lt;li>Architecting Low-Latency Java Systems at Massive Scale&lt;/li>
+&lt;li>Java at Speed&lt;/li>
+&lt;li>Haveibeenpwned.com pwned our helpdesk: GLPI 9.4.5 SQL Injection&lt;/li>
+&lt;li>JetBrains Technology Day for Java&lt;/li>
+&lt;li>97 Things Every Java Programmer Should Know&lt;/li>
+&lt;li>Migrating Spring Boot&amp;rsquo;s Build to Gradle&lt;/li>
+&lt;li>scan.nmap.me&lt;/li>
+&lt;li>TIL: break, const, goto in Java&lt;/li>
+&lt;li>asserted.io&lt;/li>
+&lt;li>Mob Programming&lt;/li>
+&lt;li>Don&amp;rsquo;t Do Microservices If You Can&lt;/li>
+&lt;/ul></description></item><item><title>Clamshell: 2020-05-31</title><link>https://develotters.com/clamshell/2020-05-31/</link><pubDate>Sun, 31 May 2020 12:18:18 -0700</pubDate><guid>https://develotters.com/clamshell/2020-05-31/</guid><description>&lt;p>Including The Best of the JDK Face-Off, Java Magazine 2020 May, Free eBooks from Springer, Spring Boot 2.3, Raspberry Pi 4 and more.&lt;/p></description></item><item><title>Terminal Fun: Basic Utils</title><link>https://develotters.com/posts/terminal-fun-basic-utils/</link><pubDate>Sat, 30 May 2020 16:38:53 -0700</pubDate><guid>https://develotters.com/posts/terminal-fun-basic-utils/</guid><description>&lt;p>This is the first post of a series where I want to give tips and trick for the Terminal/CLI, have fun:&lt;/p>
 &lt;ul>
 &lt;li>&lt;code>bat&lt;/code> and &lt;code>cat&lt;/code>&lt;/li>
 &lt;li>&lt;code>exa&lt;/code> and &lt;code>ls&lt;/code>&lt;/li>

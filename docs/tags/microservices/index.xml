@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>microservices on DevelOtters.com</title><link>https://develotters.com/tags/microservices/</link><description>Recent content in microservices on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 07 Jun 2020 12:22:18 -0700</lastBuildDate><atom:link href="https://develotters.com/tags/microservices/index.xml" rel="self" type="application/rss+xml"/><item><title>Clamshell: 2020-06-07</title><link>https://develotters.com/clamshell/2020-06-07/</link><pubDate>Sun, 07 Jun 2020 12:22:18 -0700</pubDate><guid>https://develotters.com/clamshell/2020-06-07/</guid><description>&lt;p>Including:&lt;/p>
+&lt;ul>
+&lt;li>GitHub Design Updates&lt;/li>
+&lt;li>How to write a (toy) JVM&lt;/li>
+&lt;li>Love it or Hate it, Java Continues to Evolve&lt;/li>
+&lt;li>Architecting Low-Latency Java Systems at Massive Scale&lt;/li>
+&lt;li>Java at Speed&lt;/li>
+&lt;li>Haveibeenpwned.com pwned our helpdesk: GLPI 9.4.5 SQL Injection&lt;/li>
+&lt;li>JetBrains Technology Day for Java&lt;/li>
+&lt;li>97 Things Every Java Programmer Should Know&lt;/li>
+&lt;li>Migrating Spring Boot&amp;rsquo;s Build to Gradle&lt;/li>
+&lt;li>scan.nmap.me&lt;/li>
+&lt;li>TIL: break, const, goto in Java&lt;/li>
+&lt;li>asserted.io&lt;/li>
+&lt;li>Mob Programming&lt;/li>
+&lt;li>Don&amp;rsquo;t Do Microservices If You Can&lt;/li>
+&lt;/ul></description></item></channel></rss>
