@@ -16,7 +16,7 @@ This is the first post of a series where I want to give tips and trick for the T
 - `bat` and `cat`
 - `exa` and `ls`
 - `multitail` and `tail`
-- `diff-so-fancy`, delta and `git diff`
+- `diff-so-fancy`, `delta` and `git diff`
 - `prettyping` and `ping`
 - `htop`/`gtop`/`vtop` and `top`
 <!--more-->
