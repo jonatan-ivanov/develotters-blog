@@ -8,7 +8,7 @@ author: "Jonatan Ivanov"
 type: post
 
 categories: ["dev"]
-tags: ["terminal", "cli", "linux", "mac os", "unix", "bash", "zsh", "fd", "ack", "broot", "peco", "nnn", "ranger", "vimv", "vi", "vim", "nvim", "neovim", "json", "jq", "fx"]
+tags: ["terminal", "cli", "linux", "mac os", "unix", "bash", "zsh", "fd", "ack", "broot", "peco", "nnn", "ranger", "vimv", "ncdu", "duc" "vi", "vim", "nvim", "neovim", "json", "jq", "fx"]
 ---
 
 This is the second post of a series where I want to give some tips and tricks for the Terminal/CLI.  
@@ -92,6 +92,10 @@ Check out the official [Ncdu site](https://dev.yorhel.nl/ncdu) and also the [scr
 
 [![ncdu-demo](https://asciinema.org/a/340665.svg)](https://asciinema.org/a/340665)
 
+### Duc
+
+You might also want to check [Duc](https://duc.zevv.nl/). It is a collection of tools for indexing, inspecting and visualizing disk usage. Duc maintains a database of accumulated sizes of directories of the file system, and allows you to query this database with some tools, or create fancy graphs showing you where your bytes are.
+
 ## neovim
 
 `neovim` is Vim-based text editor which that seeks to aggressively refactor Vim source code to make it better and make it easier to maintain. Check out the [project page](https://neovim.io/).
@@ -127,3 +131,5 @@ You might have already known [`jq`](https://stedolan.github.io/jq/) but I think 
 
 - [Terminal Fun: Basic Utils](/posts/terminal-fun-basic-utils/)
 - [Terminal Fun: Basic Utils Part 2](/posts/terminal-fun-basic-utils-part-2/)
+
+Thanks for [Peter](https://github.com/gwelican), who let me know about some of these tools.

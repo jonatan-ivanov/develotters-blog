@@ -97,3 +97,10 @@ Please notice that `3.x` is a complete rewrite of the project and it is not read
 You might noticed that some of your demos above were recorded in a seemingly weird but pretty nice way. With [`asciinema`](https://asciinema.org/) you can record and share your terminal sessions, the right way. :) You can forget screen recording apps and blurry videos. It's a lightweight, purely text-based approach to terminal recording.
 
 [![asciicast](https://asciinema.org/a/335480.svg)](https://asciinema.org/a/335480)
+
+# Posts in this series
+
+- [Terminal Fun: Basic Utils](/posts/terminal-fun-basic-utils/)
+- [Terminal Fun: Basic Utils Part 2](/posts/terminal-fun-basic-utils-part-2/)
+
+Thanks for [Peter](https://github.com/gwelican), who let me know about some of these tools.
