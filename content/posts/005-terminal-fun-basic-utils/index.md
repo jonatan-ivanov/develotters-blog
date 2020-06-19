@@ -122,3 +122,8 @@ Have you heard about [gtop](https://www.npmjs.com/package/gtop) or [vtop](https:
 {{< figure src="https://raw.githubusercontent.com/aksakalli/gtop/master/img/demo.gif" title="gtop" >}}
 
 {{< figure src="https://raw.githubusercontent.com/MrRio/vtop/master/docs/example.gif" title="vtop" >}}
+
+# Posts in this series
+
+- [Terminal Fun: Basic Utils](/posts/terminal-fun-basic-utils/)
+- [Terminal Fun: Basic Utils Part 2](/posts/terminal-fun-basic-utils-part-2/)
