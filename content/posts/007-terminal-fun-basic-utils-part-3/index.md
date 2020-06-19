@@ -8,7 +8,7 @@ author: "Jonatan Ivanov"
 type: post
 
 categories: ["dev"]
-tags: ["terminal", "cli", "linux", "mac os", "unix", "bash", "zsh"]
+tags: ["terminal", "cli", "linux", "mac os", "unix", "bash", "zsh", "httpie", "curl", "httpstat", "sslscan", "ssl", "tls", "mitmproxy", "mtr", "traceroute", "ping", "tldr", "navi", "up", "hhighlighter", "mainframer", "ssh", "rsync", "asciinema", "ascii"]
 draft: true
 ---
 
