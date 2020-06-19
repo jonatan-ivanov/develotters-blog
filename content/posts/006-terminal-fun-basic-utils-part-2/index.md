@@ -8,7 +8,7 @@ author: "Jonatan Ivanov"
 type: post
 
 categories: ["dev"]
-tags: ["terminal", "cli", "linux", "mac os", "unix", "bash", "zsh", "fd", "ack", "broot", "peco", "nnn", "ranger", "vimv", "ncdu", "duc" "vi", "vim", "nvim", "neovim", "json", "jq", "fx"]
+tags: ["terminal", "cli", "linux", "mac os", "unix", "bash", "zsh", "fd", "ack", "broot", "peco", "nnn", "ranger", "vimv", "ncdu", "duc", "vi", "vim", "nvim", "neovim", "json", "jq", "fx"]
 ---
 
 This is the second post of a series where I want to give some tips and tricks for the Terminal/CLI.  
