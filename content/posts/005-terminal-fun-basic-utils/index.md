@@ -127,3 +127,4 @@ Have you heard about [gtop](https://www.npmjs.com/package/gtop) or [vtop](https:
 
 - [Terminal Fun: Basic Utils Part 1](/posts/terminal-fun-basic-utils/)
 - [Terminal Fun: Basic Utils Part 2](/posts/terminal-fun-basic-utils-part-2/)
+- [Terminal Fun: Basic Utils Part 3](/posts/terminal-fun-basic-utils-part-3/)

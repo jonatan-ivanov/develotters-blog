@@ -12,32 +12,34 @@ tags: ["terminal", "cli", "linux", "mac os", "unix", "bash", "zsh"]
 draft: true
 ---
 
-intro
+This is the third post of a series where I want to give some tips and tricks for the Terminal/CLI.  
+You might want to check out the [first](/posts/terminal-fun-basic-utils/) and the [second](/posts/terminal-fun-basic-utils-part-2/) posts.
+As previously, buckle-up, put your helmet on, grab a ... frying pan and have fun.
 <!--more-->
 
 # Network Tools
 
 ## httpie
 
-`httpie` is a command-line HTTP client (like `scurl` or `wget`) for the API era. It comes with JSON support, syntax highlighting, persistent sessions, wget-like downloads, plugins, and more. See the features on the [Official Site](https://httpie.org/) or the [readme](https://github.com/jakubroztocil/httpie).
+`httpie` is a command-line HTTP client (like `curl` or `wget`) for the API era. It comes with JSON support, syntax highlighting, persistent sessions, wget-like downloads, plugins, and more. See the features on the [Official Site](https://httpie.org/) or the [readme](https://github.com/jakubroztocil/httpie).
 
 ![httpie-demo](https://raw.githubusercontent.com/jakubroztocil/httpie/b7c8bf08002b48b5c82df61f5aec09a556f91b74/httpie.gif)
 
 ## httpstat
 
-`httpstat` visualizes `curl` statistics. It tells you where did your request spent time.
+`httpstat` visualizes `curl` statistics. It tells you where did your request spend time.
 
 ![httpstat-demo](https://raw.githubusercontent.com/reorx/httpstat/f95b2e9da3b2e8448541871dd173e50ea18600a0/screenshot.png)
 
 ## sslscan
 
-`sslscan` is a test util which tells you information about SSL/TLS enabled services and discovers supported cipher suites. Check the [readme](https://github.com/rbsec/sslscan).
+`sslscan` is a test utility that tells you information about SSL/TLS enabled services and discovers supported cipher suites. Check the [readme](https://github.com/rbsec/sslscan).
 
 [![sslscan-demo](https://asciinema.org/a/341018.svg)](https://asciinema.org/a/341018)
 
 ## mitmproxy
 
-[`mitmproxy`](https://mitmproxy.org/) is your swiss-army knife for debugging, testing, privacy measurements, and penetration testing. It can be used to intercept, inspect, modify and replay web traffic such as HTTP/1, HTTP/2, WebSockets, or any other SSL/TLS-protected protocols.
+[`mitmproxy`](https://mitmproxy.org/) is your swiss-army knife for debugging, testing, privacy measurements, and penetration testing. It can be used to intercept, inspect, modify, and replay web traffic such as HTTP/1, HTTP/2, WebSockets, or any other SSL/TLS-protected protocols.
 
 ![mitmproxy-demo](https://raw.githubusercontent.com/mitmproxy/mitmproxy/982508d30f887b4fe8b2a855792ae1e33f378222/docs/src/static/screenshots/mitmproxy.png)
 
@@ -66,7 +68,7 @@ As `mtr` starts, it investigates the network connection between the host mtr run
 
 ## up
 
-[`up`](https://github.com/akavel/up) stands for Ultimate Plumber, it's a tool for writing Linux pipes interactively, with instant live preview of command results.
+[`up`](https://github.com/akavel/up) stands for Ultimate Plumber, it's a tool for writing Linux pipes interactively, with a live preview of command results.
 
 It helps interactively and incrementally explore textual data by making it easier to quickly build complex pipelines, thanks to a fast feedback loop. This is achieved by boosting any typical text-processing utils such as grep, sort, cut, paste, awk, wc, perl, etc. by providing a quick, interactive, scrollable preview of their results.
 
@@ -84,9 +86,9 @@ and you can do: `cat logs/service.log | hl`
 
 ## mainframer
 
-[`mainframer`](https://github.com/buildfoundation/mainframer) was created to allow you to move your build process from a local machine to a remote one. Since it is a nice combo of `ssh` + `rsync`, it supports basically anything you can execute as a command. It will sync files to a remote machine, execute a command and sync files back.
+[`mainframer`](https://github.com/buildfoundation/mainframer) was created to allow you to move your build process from a local machine to a remote one. Since it is a nice combo of `ssh` + `rsync`, it supports anything you can execute as a command. It will sync files to a remote machine, execute a command, and sync files back.
 
-I found it very handy for performance testing, where the test suite is on you local box which will be copied (`rsync`) to a remote machine, then the tests will be executed (`ssh`) and the report will be synced back (`rsync`). It's very simple solutions to run heavy operations on remote machines.
+I found it very handy for performance testing, where the test suite is on your local box which will be copied (`rsync`) to a remote machine, then the tests will be executed (`ssh`) and the report will be synced back (`rsync`). It's very simple solutions to run heavy operations on remote machines.
 
 Please notice that `3.x` is a complete rewrite of the project and it is not ready yet, the current version that you can use is [`2.x`](https://github.com/buildfoundation/mainframer/tree/2.x).
 
@@ -94,13 +96,14 @@ Please notice that `3.x` is a complete rewrite of the project and it is not read
 
 ## asciinema
 
-You might noticed that some of your demos above were recorded in a seemingly weird but pretty nice way. With [`asciinema`](https://asciinema.org/) you can record and share your terminal sessions, the right way. :) You can forget screen recording apps and blurry videos. It's a lightweight, purely text-based approach to terminal recording.
+You might have noticed that some of your demos above were recorded in a seemingly weird but pretty nice way. With [`asciinema`](https://asciinema.org/) you can record and share your terminal sessions, the right way. :) You can forget screen recording apps and blurry videos. It's a lightweight, purely text-based approach to terminal recording.
 
 [![asciicast](https://asciinema.org/a/335480.svg)](https://asciinema.org/a/335480)
 
 # Posts in this series
 
-- [Terminal Fun: Basic Utils](/posts/terminal-fun-basic-utils/)
+- [Terminal Fun: Basic Utils Part 1](/posts/terminal-fun-basic-utils/)
 - [Terminal Fun: Basic Utils Part 2](/posts/terminal-fun-basic-utils-part-2/)
+- [Terminal Fun: Basic Utils Part 3](/posts/terminal-fun-basic-utils-part-3/)
 
-Thanks for [Peter](https://github.com/gwelican), who let me know about some of these tools.
+Thanks to [Peter](https://github.com/gwelican), who let me know about some of these tools.
