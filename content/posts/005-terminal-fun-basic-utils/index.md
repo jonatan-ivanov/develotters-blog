@@ -79,7 +79,7 @@ alias ls='exa'
     show = diff-so-fancy | less --tabs=4 -RFX
 {{< /highlight >}}
 
-Check out the [readme](https://github.com/so-fancy/diff-so-fancy), and the [pro tips](https://github.com/so-fancy/diff-so-fancy/blob/master/pro-tips.md), you can install it via `homebrew`.
+Check out the [readme](https://github.com/so-fancy/diff-so-fancy), and the [pro tips](https://github.com/so-fancy/diff-so-fancy/blob/5cf50ae3a72ec29f1d3fd528be40e95be13d80b7/pro-tips.md), you can install it via `homebrew`.
 
 [ManikMagar](https://twitter.com/ManikMagar) suggested [delta](https://github.com/dandavison/delta) which seems even better.
 
@@ -119,9 +119,9 @@ alias top='sudo htop'
 
 Have you heard about [gtop](https://www.npmjs.com/package/gtop) or [vtop](https://www.npmjs.com/package/vtop)?
 
-{{< figure src="https://raw.githubusercontent.com/aksakalli/gtop/master/img/demo.gif" title="gtop" >}}
+{{< figure src="https://raw.githubusercontent.com/aksakalli/gtop/49f462d434837abdfe1cfa95050c4679b99cc117/img/demo.gif" title="gtop" >}}
 
-{{< figure src="https://raw.githubusercontent.com/MrRio/vtop/master/docs/example.gif" title="vtop" >}}
+{{< figure src="https://raw.githubusercontent.com/MrRio/vtop/7e90e4716d82ad6b770722f60b0685a13ccae38b/docs/example.gif" title="vtop" >}}
 
 # Posts in this series
 

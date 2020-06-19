@@ -51,11 +51,11 @@ I picked [Hugo](https://gohugo.io/) because it is blazing fast, very simple, als
 [Hugo](https://gohugo.io/) has great documentation, just check it's [Quick Start](https://gohugo.io/getting-started/quick-start/) guide and nothing will save you from having a static site in a few minutes from ground zero.
 Adding themes as git submodules is a pretty convenient way to download and update them later.
 
-Right after I generated the site, I created an [`.editorconfig`](https://github.com/jonatan-ivanov/develotters-blog/blob/master/.editorconfig) file because ([EditorConfig](https://editorconfig.org/) is awesome) I like to keep things tidy even if they are just a few config files and some [markdown](https://daringfireball.net/projects/markdown/). Also, I immediately added a [`Makefile`](https://github.com/jonatan-ivanov/develotters-blog/blob/master/Makefile) so that I can automate a few things and have a simple *"build system"* (check out [GNU Make](https://www.gnu.org/software/make/)).
+Right after I generated the site, I created an [`.editorconfig`](https://github.com/jonatan-ivanov/develotters-blog/blob/85a55fae2d24a9b7819fe2829c8eb3d395c9af49/.editorconfig) file because ([EditorConfig](https://editorconfig.org/) is awesome) I like to keep things tidy even if they are just a few config files and some [markdown](https://daringfireball.net/projects/markdown/). Also, I immediately added a [`Makefile`](https://github.com/jonatan-ivanov/develotters-blog/blob/5cb856df20cea406008be8e68fa955dd0f246ba9/Makefile) so that I can automate a few things and have a simple *"build system"* (check out [GNU Make](https://www.gnu.org/software/make/)).
 
 ## EditorConfig
 
-Other than setting the basics, there are two important parts in my [`.editorconfig`](https://github.com/jonatan-ivanov/develotters-blog/blob/master/.editorconfig) file:
+Other than setting the basics, there are two important parts in my [`.editorconfig`](https://github.com/jonatan-ivanov/develotters-blog/blob/85a55fae2d24a9b7819fe2829c8eb3d395c9af49/.editorconfig) file:
 
 `Makefile` is indented with `tab`:
 ```
@@ -71,7 +71,7 @@ trim_trailing_whitespace = false
 
 ## Makefile
 
-I wrote a few [targets](https://github.com/jonatan-ivanov/develotters-blog/blob/master/Makefile) so that I can:
+I wrote a few [targets](https://github.com/jonatan-ivanov/develotters-blog/blob/5cb856df20cea406008be8e68fa955dd0f246ba9/Makefile) so that I can:
 
 - Start the dev server: `make server`
 - Produce the static files: `make build`

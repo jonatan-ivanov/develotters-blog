@@ -39,7 +39,7 @@ Archetypes are *"content templates"*. When you create a new content file using `
 
 This is very handy if you want to create multiple types of content but even if you have just the default archetype, it saves time and produces consistent content across documents.
 
-I highly recommend to check out the [documentation](https://gohugo.io/content-management/archetypes/), also feel free to check out my [archetypes](https://github.com/jonatan-ivanov/develotters-blog/tree/master/archetypes).
+I highly recommend to check out the [documentation](https://gohugo.io/content-management/archetypes/), also feel free to check out my [archetypes](https://github.com/jonatan-ivanov/develotters-blog/tree/2bb357105a9d8d667df5f5f210f3d31c9d538691/archetypes).
 
 **WARNING:**
 >The posts archetype generates invalid content because of the categories (I always keep one and delete the rest).
@@ -53,7 +53,7 @@ The config files can be TOML, YAML or JSON placed as `config.toml`, `config.yaml
 **WARNING:**
 >The *Ananke* theme, which is used by the Quick Start guide, needs `env = "production"` to generate the `robots.txt` file correctly. To do this correctly, you need to use the `config` folder and hade different config for `development` and `production` environments.
 
-I highly recommend to check out the [documentation](https://gohugo.io/getting-started/configuration/), also feel free to check out [my config](https://github.com/jonatan-ivanov/develotters-blog/tree/master/config).
+I highly recommend to check out the [documentation](https://gohugo.io/getting-started/configuration/), also feel free to check out [my config](https://github.com/jonatan-ivanov/develotters-blog/tree/234310ca7029ab0445fcb3f9c06fe040a8f165bd/config).
 
 # Content
 
