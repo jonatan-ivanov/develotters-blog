@@ -8,7 +8,7 @@ author: "Jonatan Ivanov"
 type: post
 
 categories: ["clamshell"]
-tags: ["spring", "spring-boot", "java", "openjdk", "adoptopenjdk", "eclipse", "mozilla", "firefox", "VPN", "java", "groovy", "security", "gc", "graalvm", "tornadovm", "chrome", "performance", "feature flags", "piranha", "AWS", "cloud", "cloud formation"]
+tags: ["spring", "spring-boot", "java", "openjdk", "adoptopenjdk", "eclipse", "mozilla", "firefox", "VPN", "groovy", "security", "gc", "graalvm", "tornadovm", "chrome", "performance", "feature flags", "piranha", "AWS", "cloud", "cloud formation"]
 ---
 
 Including:
