@@ -131,5 +131,6 @@ You might have already known [`jq`](https://stedolan.github.io/jq/) but I think 
 
 - [Terminal Fun: Basic Utils Part 1](/posts/terminal-fun-basic-utils/)
 - [Terminal Fun: Basic Utils Part 2](/posts/terminal-fun-basic-utils-part-2/)
+- [Terminal Fun: Basic Utils Part 3](/posts/terminal-fun-basic-utils-part-3/)
 
 Thanks to [Peter](https://github.com/gwelican), who let me know about some of these tools.
