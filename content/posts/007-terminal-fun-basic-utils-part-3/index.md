@@ -3,7 +3,7 @@ title: "Terminal Fun: Basic Utils Part 3"
 lead: ""
 description: "Terminal Fun: Basic Utils Part 3"
 
-date: 2020-06-24T17:13:11-07:00
+date: 2020-06-24T12:13:11-07:00
 author: "Jonatan Ivanov"
 type: post
 
