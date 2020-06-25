@@ -8,7 +8,7 @@ author: "Jonatan Ivanov"
 type: post
 
 categories: ["dev"]
-tags: ["terminal", "cli", "linux", "mac os", "unix", "bash", "zsh", "httpie", "curl", "httpstat", "sslscan", "ssl", "tls", "mitmproxy", "mtr", "traceroute", "ping", "tldr", "navi", "up", "hhighlighter", "mainframer", "ssh", "rsync", "asciinema", "ascii"]
+tags: ["terminal", "cli", "linux", "mac os", "unix", "bash", "zsh", "httpie", "curl", "httpstat", "sslscan", "ssl", "tls", "mitmproxy", "mtr", "traceroute", "ping", "tldr", "navi", "up", "hhighlighter", "mainframer", "gnu", "datamash" "ssh", "rsync", "asciinema", "ascii"]
 ---
 
 This is the third post of a series where I want to give some tips and tricks for the Terminal/CLI.  
@@ -92,6 +92,27 @@ I found it very handy for performance testing, where the test suite is on your l
 Please notice that `3.x` is a complete rewrite of the project and it is not ready yet, the current version that you can use is [`2.x`](https://github.com/buildfoundation/mainframer/tree/2.x).
 
 [![mainframer-demo](https://asciinema.org/a/101327.svg)](https://asciinema.org/a/101327)
+
+## GNU datamash
+
+[`GNU datamash`](https://www.gnu.org/software/datamash/) is a command-line program which performs basic numeric, textual and statistical operations on input textual data files (e.g.: count, sum, min, max, mean, stdev, string coalescing).
+
+Example: sum the values in the first column
+
+{{< highlight shell >}}
+$ seq 10 | datamash sum 1
+55
+{{< /highlight >}}
+
+Example: calculating basic statistics like mean, 1st quartile, median, 3rd quartile, IQR, sample-standard-deviation, and p-value of Jarque-Bera test for normal distribution:
+
+{{< highlight shell >}}
+$ datamash -H mean 1 q1 1 median 1 q3 1 iqr 1 sstdev 1 jarque 1 < FILE.TXT
+mean(x)   q1(x)  median(x)  q3(x)   iqr(x)  sstdev(x)  jarque(x)
+45.32     23     37         61.5    38.5    30.4487    8.0113e-09
+{{< /highlight >}}
+
+Thanks for the tip to [Daniel Hinojosa](https://twitter.com/dhinojosa)
 
 ## asciinema
 
