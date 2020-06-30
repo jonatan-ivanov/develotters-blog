@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OracleJDK on DevelOtters.com</title><link>https://develotters.com/tags/oraclejdk/</link><description>Recent content in OracleJDK on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 28 Jun 2020 21:24:13 -0700</lastBuildDate><atom:link href="https://develotters.com/tags/oraclejdk/index.xml" rel="self" type="application/rss+xml"/><item><title>Clamshell: 2020-06-28</title><link>https://develotters.com/clamshell/2020-06-28/</link><pubDate>Sun, 28 Jun 2020 21:24:13 -0700</pubDate><guid>https://develotters.com/clamshell/2020-06-28/</guid><description>&lt;ul>
+&lt;li>Guide to Java 15&lt;/li>
+&lt;li>IntelliJ IDEA 2020.2 EAP 5: Java 15&lt;/li>
+&lt;li>Background: how we got the generics we have&lt;/li>
+&lt;li>OracleJDK? OpenJDK?, Zulu? Corretto?&lt;/li>
+&lt;li>Introduction to Micronaut - Ultra Lightweight Java Microservices&lt;/li>
+&lt;li>Super-Linter&lt;/li>
+&lt;li>htmx&lt;/li>
+&lt;li>Validating Kubernetes YAML for best practice and policies&lt;/li>
+&lt;li>Dependency-Check&lt;/li>
+&lt;/ul></description></item></channel></rss>
