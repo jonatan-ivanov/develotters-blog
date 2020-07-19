@@ -3,7 +3,7 @@ title: "Clamshell: 2020-07-19"
 lead: "Recent things in a clamshell"
 description: "brief news 2020-07-19"
 
-date: 2020-07-19T12:00:00-07:00
+date: 2020-07-19T11:20:00-07:00
 author: "Jonatan Ivanov"
 type: post
 
