@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ClamShell on DevelOtters.com</title><link>https://develotters.com/clamshell/</link><description>Recent content in ClamShell on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://develotters.com/clamshell/index.xml" rel="self" type="application/rss+xml"/><item><title>Clamshell: 2020-07-19</title><link>https://develotters.com/clamshell/2020-07-19/</link><pubDate>Sun, 19 Jul 2020 11:20:00 -0700</pubDate><guid>https://develotters.com/clamshell/2020-07-19/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ClamShell on DevelOtters.com</title><link>https://develotters.com/clamshell/</link><description>Recent content in ClamShell on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://develotters.com/clamshell/index.xml" rel="self" type="application/rss+xml"/><item><title>Clamshell: 2020-07-26</title><link>https://develotters.com/clamshell/2020-07-22/</link><pubDate>Sun, 26 Jul 2020 17:20:00 -0700</pubDate><guid>https://develotters.com/clamshell/2020-07-22/</guid><description>&lt;ul>
+&lt;li>debuild&lt;/li>
+&lt;li>Force Good Habits by Venkat Subramaniam&lt;/li>
+&lt;li>Java&amp;rsquo;s CompletableFuture&lt;/li>
+&lt;li>12 Ways of the Cloud Native Warrior&lt;/li>
+&lt;li>The Illustrated Children’s Guide to Kubernetes&lt;/li>
+&lt;li>Better APIs, faster tests and more resilient systems with Spring Cloud Contract&lt;/li>
+&lt;li>The Regular Expression Denial of Service (ReDoS) cheat-sheet&lt;/li>
+&lt;li>Tiny XSS Payloads&lt;/li>
+&lt;li>Gitpod&lt;/li>
+&lt;li>SpringOne&lt;/li>
+&lt;/ul></description></item><item><title>Clamshell: 2020-07-19</title><link>https://develotters.com/clamshell/2020-07-19/</link><pubDate>Sun, 19 Jul 2020 11:20:00 -0700</pubDate><guid>https://develotters.com/clamshell/2020-07-19/</guid><description>&lt;ul>
 &lt;li>The Story of the Twitter Attack&lt;/li>
 &lt;li>Signs Your Software is Rotting&lt;/li>
 &lt;li>StackOverflow cli&lt;/li>
