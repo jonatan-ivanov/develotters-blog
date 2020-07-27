@@ -1,20 +1,20 @@
 ---
-title: "Clamshell: 2020-07-22"
+title: "Clamshell: 2020-07-26"
 lead: "Recent things in a clamshell"
-description: "brief news 2020-07-22"
+description: "brief news 2020-07-26"
 
-date: 2020-07-22T12:00:00-07:00
+date: 2020-07-26T17:20:00-07:00
 author: "Jonatan Ivanov"
 type: post
 
 categories: ["clamshell"]
 tags: ["ai", "habits", "Java", "JDK", "Kubernetes", "Spring", "Spring Cloud", "ReDoS", "security", "XSS"]
-draft: true
 ---
 
 - debuild
 - Force Good Habits by Venkat Subramaniam
 - Java's CompletableFuture
+- 12 Ways of the Cloud Native Warrior
 - The Illustrated Children’s Guide to Kubernetes
 - Better APIs, faster tests and more resilient systems with Spring Cloud Contract
 - The Regular Expression Denial of Service (ReDoS) cheat-sheet
@@ -40,6 +40,11 @@ Just describe what your app should do in plain English, then start using it with
 Java's `CompletableFuture` is the Swiss Army Knife of concurrency. Join Java Champion Victor Grazi for an interactive coding session covering all of its capabilities at the NYJavaSIG.
 
 {{< youtube Mvis0zdNyBc >}}
+<br>
+
+# 12 Ways of the Cloud Native Warrior
+
+{{< youtube PZOs0BsB7-E >}}
 <br>
 
 # The Illustrated Children’s Guide to Kubernetes
