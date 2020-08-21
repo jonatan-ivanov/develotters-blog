@@ -23,7 +23,7 @@ highlightColor = "#80151a"
   home = "right"
   list = "right"
   single = true
-  widgets = ["search", "recent", "categories", "taglist", "social"]
+  widgets = ["search", "recent", "categories", "social", "taglist"]
 
 [widgets]
   recent_num = 5
