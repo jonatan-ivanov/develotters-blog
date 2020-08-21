@@ -33,6 +33,6 @@ googleAnalytics = "UA-166903607-1"
   url = "/index.xml"
 
 [Author]
-  name = "the author"
-  bio = "I'm a Software Engineer living in Seattle and a certified dragon trainer, seriously. :)"
+  name = "Jonatan Ivanov"
+  bio = "I'm a Software Engineer from Hungary, living in Seattle, also a certified dragon trainer, seriously. :)"
   avatar = "img/avatar.jpg"
