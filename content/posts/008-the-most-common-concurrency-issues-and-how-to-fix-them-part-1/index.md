@@ -56,3 +56,8 @@ public class UnsafeCounter implements Counter {
 
 Believe it, or not, these few lines demonstrate all the three issues. Can you spot all of them?
 I'm going to post the description of the first issue soon. :)
+
+# Posts in this series
+
+- [The Most Common Concurrency Issues and How to Fix Them: Part 1](../the-most-common-concurrency-issues-and-how-to-fix-them-part-1)
+- [The Most Common Concurrency Issues and How to Fix Them: Part 2](../the-most-common-concurrency-issues-and-how-to-fix-them-part-2)
