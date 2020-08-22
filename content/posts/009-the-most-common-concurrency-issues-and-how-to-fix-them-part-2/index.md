@@ -3,7 +3,7 @@ title: "The Most Common Concurrency Issues and How to Fix Them: Part 2"
 lead: ""
 description: "The Most Common Concurrency Issues and How to Fix Them"
 
-date: 2020-08-22T13:00:00-07:00
+date: 2020-08-22T12:00:00-07:00
 author: "Jonatan Ivanov"
 type: post
 
