@@ -1,5 +1,6 @@
 subtitle = "A tech blog for develotters by develotters"
 description = "A tech blog for develotters by develotters"
+images = ["img/develOtter.png"]
 copyright = "Jonatan Ivanov"
 opengraph = true
 schema = true
