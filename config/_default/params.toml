@@ -19,6 +19,9 @@ highlightColor = "#80151a"
 # customCSS = ["css/custom.css"] # Include custom CSS files
 # customJS = ["js/custom.js"] # Include custom JS files
 
+[logo]
+  image = "img/develOtter.png"
+
 [sidebar]
   home = "right"
   list = "right"
