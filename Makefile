@@ -23,6 +23,7 @@ deploy: gitcheck clean build
 	git commit -m 'Regenerating the site'
 	@echo 'Pushing changes site...'
 	git push
+	open https://github.com/jonatan-ivanov/develotters-blog/deployments
 
 update:
 	@echo 'Updating submodules...'
