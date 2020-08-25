@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>github on DevelOtters.com</title><link>https://develotters.com/tags/github/</link><description>Recent content in github on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 16 Aug 2020 20:20:28 -0700</lastBuildDate><atom:link href="https://develotters.com/tags/github/index.xml" rel="self" type="application/rss+xml"/><item><title>Clamshell: 2020-08-16</title><link>https://develotters.com/clamshell/2020-08-16/</link><pubDate>Sun, 16 Aug 2020 20:20:28 -0700</pubDate><guid>https://develotters.com/clamshell/2020-08-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>github on DevelOtters.com</title><link>https://develotters.com/tags/github/</link><description>Recent content in github on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 24 Aug 2020 22:18:57 -0700</lastBuildDate><atom:link href="https://develotters.com/tags/github/index.xml" rel="self" type="application/rss+xml"/><item><title>Clamshell: 2020-08-23</title><link>https://develotters.com/clamshell/2020-08-23/</link><pubDate>Mon, 24 Aug 2020 22:18:57 -0700</pubDate><guid>https://develotters.com/clamshell/2020-08-23/</guid><description>&lt;ul>
+&lt;li>Stack Overflow 2020 Developer Survey&lt;/li>
+&lt;li>Beyond Java 8&lt;/li>
+&lt;li>Patterns of Distributed Systems&lt;/li>
+&lt;li>Microsoft OSS&lt;/li>
+&lt;li>Java at 25: Features that made an impact and a look to the future&lt;/li>
+&lt;li>25 Years of Java: the past to the present&lt;/li>
+&lt;li>Java 15 - Innovating for modern application development&lt;/li>
+&lt;li>Researchers Exploited A Bug in Emotet to Stop the Spread of Malware&lt;/li>
+&lt;li>Groovy Podcast&lt;/li>
+&lt;li>The ReadME Project&lt;/li>
+&lt;/ul></description></item><item><title>Clamshell: 2020-08-16</title><link>https://develotters.com/clamshell/2020-08-16/</link><pubDate>Sun, 16 Aug 2020 20:20:28 -0700</pubDate><guid>https://develotters.com/clamshell/2020-08-16/</guid><description>&lt;ul>
 &lt;li>OpenJDK is moving to GitHub&lt;/li>
 &lt;li>A peek at the roadmap for pattern matching and more&lt;/li>
 &lt;li>Serializable Records&lt;/li>
