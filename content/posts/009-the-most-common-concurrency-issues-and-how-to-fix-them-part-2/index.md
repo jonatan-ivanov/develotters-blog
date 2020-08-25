@@ -11,7 +11,7 @@ categories: ["dev"]
 tags: ["concurrency", "java"]
 ---
 
-In the [first part](../the-most-common-concurrency-issues-and-how-to-fix-them-part-1) of the series, I showed you a simple class which has three concurrency issues. In this post, I would like to explain the first issue.
+In the [first part](/posts/the-most-common-concurrency-issues-and-how-to-fix-them-part-1) of the series, I showed you a simple class which has three concurrency issues. In this post, I would like to explain the first issue.
 By the end of the series, you will understand their basic mechanism, you will be able to identify them and I will give you a couple of advice on how to fix them.
 
 <!--more-->
@@ -58,7 +58,7 @@ As you can see, the result of the increment method is based on "luck" so we can 
 
 # How to spot and fix Race Conditions
 
-**First**, look for **shared mutability** (something that is shared between threads and also can be modified). E.g.: if you see that a class has a field (static or non-static) which is modified in a method (in a non-atomic way) and the method can be invoked from multiple threads, I might have bad news. This is exactly the case with the `value` field in the `UnsafeCounter` class (see the [first post](../the-most-common-concurrency-issues-and-how-to-fix-them-part-1)).
+**First**, look for **shared mutability** (something that is shared between threads and also can be modified). E.g.: if you see that a class has a field (static or non-static) which is modified in a method (in a non-atomic way) and the method can be invoked from multiple threads, I might have bad news. This is exactly the case with the `value` field in the `UnsafeCounter` class (see the [first post](/posts/the-most-common-concurrency-issues-and-how-to-fix-them-part-1)).
 
 To fix this type of issue, you can either **eliminate shared mutability** (by making your objects immutable or not shared) or **make the operations atomic**. Since usually immutability is the safest path and since ["shared mutability is devil's work"](http://blog.agiledeveloper.com/2015/11/the-power-and-practicality-of.html) I would try to go for immutability first. I intentionally picked an example where this is not possible and we need to take the *hard* path (later) but please always use immutable objects wherever you can, you will make everyone's life easier.
 
@@ -145,5 +145,6 @@ The `UnsafeCounter` and the `SafeCounter` classes in this post are also availabl
 
 # Posts in this series
 
-- [The Most Common Concurrency Issues and How to Fix Them: Part 1](../the-most-common-concurrency-issues-and-how-to-fix-them-part-1)
-- [The Most Common Concurrency Issues and How to Fix Them: Part 2](../the-most-common-concurrency-issues-and-how-to-fix-them-part-2)
+- [The Most Common Concurrency Issues and How to Fix Them: Part 1](/posts/the-most-common-concurrency-issues-and-how-to-fix-them-part-1)
+- [The Most Common Concurrency Issues and How to Fix Them: Part 2](/posts/the-most-common-concurrency-issues-and-how-to-fix-them-part-2)
+- [The Most Common Concurrency Issues and How to Fix Them: Part 3](/posts/the-most-common-concurrency-issues-and-how-to-fix-them-part-3)

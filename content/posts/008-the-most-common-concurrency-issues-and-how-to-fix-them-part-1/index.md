@@ -59,5 +59,6 @@ I'm going to post the description of the first issue soon. :)
 
 # Posts in this series
 
-- [The Most Common Concurrency Issues and How to Fix Them: Part 1](../the-most-common-concurrency-issues-and-how-to-fix-them-part-1)
-- [The Most Common Concurrency Issues and How to Fix Them: Part 2](../the-most-common-concurrency-issues-and-how-to-fix-them-part-2)
+- [The Most Common Concurrency Issues and How to Fix Them: Part 1](/posts/the-most-common-concurrency-issues-and-how-to-fix-them-part-1)
+- [The Most Common Concurrency Issues and How to Fix Them: Part 2](/posts/the-most-common-concurrency-issues-and-how-to-fix-them-part-2)
+- [The Most Common Concurrency Issues and How to Fix Them: Part 3](/posts/the-most-common-concurrency-issues-and-how-to-fix-them-part-3)
