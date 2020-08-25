@@ -1,7 +1,7 @@
 ---
 title: "Clamshell: {{ .Name }}"
 lead: "Recent things in a clamshell"
-description: "brief news {{ .Name }}"
+description: "Brief News: {{ .Name }}"
 
 date: {{ .Date }}
 author: "Jonatan Ivanov"
