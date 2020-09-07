@@ -8,7 +8,7 @@ author: "Jonatan Ivanov"
 type: post
 
 categories: ["clamshell"]
-tags: ["OpenJDK", "JDK", "Java", "Spring", "GitHub", "Docker", "JetBrains", "Fonts", "vscode", "Kotlin", "Security", "Jackson", "Testing", "Data", "JUnit", "JetBrains", "IntelliJ IDEA", "MacOS"]
+tags: ["OpenJDK", "JDK", "Java", "Spring", "GitHub", "Docker", "JetBrains", "Fonts", "vscode", "Kotlin", "Security", "Jackson", "Testing", "Data", "JUnit", "IntelliJ IDEA", "MacOS"]
 ---
 
 - OpenJDK was transitioned to GitHub
