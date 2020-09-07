@@ -8,7 +8,7 @@ author: "Jonatan Ivanov"
 type: post
 
 categories: ["clamshell"]
-tags: ["OpenJDK", "JDK", "Java", "Spring", "GitHub", "Docker", "JetBrains", "Fonts", "vscode", "Kotlin", "Security", "Jackson", "Testing", "Data", "JUnit", "JetBrains", "IntelliJ IDEA"]
+tags: ["OpenJDK", "JDK", "Java", "Spring", "GitHub", "Docker", "JetBrains", "Fonts", "vscode", "Kotlin", "Security", "Jackson", "Testing", "Data", "JUnit", "JetBrains", "IntelliJ IDEA", "MacOS"]
 ---
 
 - OpenJDK was transitioned to GitHub
@@ -26,6 +26,7 @@ tags: ["OpenJDK", "JDK", "Java", "Spring", "GitHub", "Docker", "JetBrains", "Fon
 - Migrating from JUnit 4 to JUnit 5
 - How 4 lines of Java code end up in 518772 lines in production
 - Oracle Developer Live - Java
+- Pock
 
 <!--more-->
 
@@ -101,3 +102,7 @@ See his original article: [How 4 lines of Java code end up in 518772 lines in pr
 # Oracle Developer Live - Java
 
 As Java turns 25 this year, you can continue to advance your developer skills by joining Oracle on the journey to learn more about Java from subject matter experts: [Oracle Developer Live - Java](https://developer.oracle.com/developer-live/java/).
+
+# Pock
+
+Display macOS Dock in Touch Bar: [pock.dev](https://pock.dev/), GitHub repo: [pigigaldi/Pock](https://github.com/pigigaldi/Pock).
