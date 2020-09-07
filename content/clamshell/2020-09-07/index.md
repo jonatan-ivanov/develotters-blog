@@ -9,7 +9,6 @@ type: post
 
 categories: ["clamshell"]
 tags: ["OpenJDK", "JDK", "Java", "Spring", "GitHub", "Docker", "JetBrains", "Fonts", "vscode", "Kotlin", "Security", "Jackson", "Testing", "Data", "JUnit", "JetBrains", "IntelliJ IDEA"]
-draft: true
 ---
 
 - OpenJDK was transitioned to GitHub
