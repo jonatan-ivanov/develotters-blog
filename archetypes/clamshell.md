@@ -1,6 +1,6 @@
 ---
 title: "Clamshell: {{ .Name }}"
-lead: "Recent things in a clamshell"
+lead: "Recent news in tech in a clamshell"
 description: "Brief News: {{ .Name }}"
 
 date: {{ .Date }}

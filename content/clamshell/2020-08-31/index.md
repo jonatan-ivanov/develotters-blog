@@ -1,6 +1,6 @@
 ---
 title: "Clamshell: 2020-08-31"
-lead: "Recent things in a clamshell"
+lead: "Recent news in tech in a clamshell"
 description: "Brief News: 2020-08-31"
 
 date: 2020-08-31T08:00:00-07:00
