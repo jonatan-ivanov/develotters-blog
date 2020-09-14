@@ -3,7 +3,7 @@ title: "Clamshell: 2020-09-14"
 lead: "Recent news in tech in a clamshell"
 description: "Brief News: 2020-09-14"
 
-date: 2020-09-14T09:00:00-07:00
+date: 2020-09-13T09:00:00-07:00
 author: "Jonatan Ivanov"
 type: post
 
@@ -12,6 +12,7 @@ tags: ["Java", "JDK", "OpenJDK", "lazy", "Functional Programming", "OOP", "JetBr
 ---
 
 - Java 15 GA Release
+- NYJavaSIG 25th Anniversary Event
 - foojay — a place for friends of OpenJDK
 - Let's Get Lazy by Venkat Subramaniam
 - Vector API is proposed to target JDK 16
@@ -32,6 +33,30 @@ tags: ["Java", "JDK", "OpenJDK", "lazy", "Functional Programming", "OOP", "JetBr
 
 Java 15 General Availability Release will go out in 2020-09-15: [JDK 15](https://openjdk.java.net/projects/jdk/15/).  
 [Check out the new features in Java 15](https://www.infoworld.com/article/3534133/jdk-15-the-new-features-in-java-15.html).
+
+# NYJavaSIG 25th Anniversary Event
+
+NYJavaSIG announced that they are hosting their 25th Anniversary with the help of:
+
+- [Sharat Chander](https://www.linkedin.com/in/sharatchander/) - Leader of Java developer outreach program
+- [Brian Goetz](https://www.linkedin.com/in/briangoetz/) - Java language architect
+- [James Gosling](https://www.linkedin.com/in/jamesgosling/) - Father of Java
+- [Venkat Subramaniam](https://www.linkedin.com/in/vsubramaniam/) - Mentor/instructor for software devs
+
+**WHAT:** NYJavaSIG 25th Anniversary Epic Event!
+**WHEN:** WED Sept 23, 2020 6:30-8:30pm EDT
+**WHERE:** Youtube Live ([REGISTER](https://www.eventbrite.com/e/119193108797))
+
+They are also hosting a panel discussion:
+
+>Please join us and have an opportunity to ask this elite panel your burning Java questions. We'll select the most frequently asked, most thoughtful, most controversial, and of course the funniest ones.
+>
+>Submit your questions to our elite panel (mention which panelist):
+>
+>In the Eventbrite registration (you'll see it)  
+>Via Twitter [@NYJavaSIG](https://twitter.com/nyjavasig)  
+>Email the NYJavaSIG mailing list: nyjavasig@groups.io  
+>Email: questions25@javasig.com
 
 # foojay — a place for friends of OpenJDK
 
