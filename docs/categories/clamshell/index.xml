@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>clamshell on DevelOtters.com</title><link>https://develotters.com/categories/clamshell/</link><description>Recent content in clamshell on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 07 Sep 2020 09:00:00 -0700</lastBuildDate><atom:link href="https://develotters.com/categories/clamshell/index.xml" rel="self" type="application/rss+xml"/><item><title>Clamshell: 2020-09-07</title><link>https://develotters.com/clamshell/2020-09-07/</link><pubDate>Mon, 07 Sep 2020 09:00:00 -0700</pubDate><guid>https://develotters.com/clamshell/2020-09-07/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>clamshell on DevelOtters.com</title><link>https://develotters.com/categories/clamshell/</link><description>Recent content in clamshell on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 13 Sep 2020 09:00:00 -0700</lastBuildDate><atom:link href="https://develotters.com/categories/clamshell/index.xml" rel="self" type="application/rss+xml"/><item><title>Clamshell: 2020-09-14</title><link>https://develotters.com/clamshell/2020-09-14/</link><pubDate>Sun, 13 Sep 2020 09:00:00 -0700</pubDate><guid>https://develotters.com/clamshell/2020-09-14/</guid><description>&lt;ul>
+&lt;li>Java 15 GA Release&lt;/li>
+&lt;li>NYJavaSIG 25th Anniversary Event&lt;/li>
+&lt;li>foojay — a place for friends of OpenJDK&lt;/li>
+&lt;li>Let&amp;rsquo;s Get Lazy by Venkat Subramaniam&lt;/li>
+&lt;li>Vector API is proposed to target JDK 16&lt;/li>
+&lt;li>Developing Micronaut Applications With IntelliJ IDEA&lt;/li>
+&lt;li>Bootiful Testing by Josh Long&lt;/li>
+&lt;li>21 Books Java Developers Should Read in 2020&lt;/li>
+&lt;li>Kubernetes YAML Generator&lt;/li>
+&lt;li>Design Bonos&lt;/li>
+&lt;li>Elastic Metaspace proposed to target JDK 16&lt;/li>
+&lt;li>JDK 15 G1/Parallel GC changes&lt;/li>
+&lt;li>Cognitive Biases in Software Development&lt;/li>
+&lt;li>Changelog CI?&lt;/li>
+&lt;li>K9s - Kubernetes CLI To Manage Your Clusters In Style&lt;/li>
+&lt;/ul></description></item><item><title>Clamshell: 2020-09-07</title><link>https://develotters.com/clamshell/2020-09-07/</link><pubDate>Mon, 07 Sep 2020 09:00:00 -0700</pubDate><guid>https://develotters.com/clamshell/2020-09-07/</guid><description>&lt;ul>
 &lt;li>OpenJDK was transitioned to GitHub&lt;/li>
 &lt;li>Spring One highlights are online&lt;/li>
 &lt;li>Introducing GitHub Container Registry&lt;/li>
