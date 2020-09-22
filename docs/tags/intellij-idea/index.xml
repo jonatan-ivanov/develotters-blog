@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>intellij idea on DevelOtters.com</title><link>https://develotters.com/tags/intellij-idea/</link><description>Recent content in intellij idea on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 13 Sep 2020 09:00:00 -0700</lastBuildDate><atom:link href="https://develotters.com/tags/intellij-idea/index.xml" rel="self" type="application/rss+xml"/><item><title>Clamshell: 2020-09-14</title><link>https://develotters.com/clamshell/2020-09-14/</link><pubDate>Sun, 13 Sep 2020 09:00:00 -0700</pubDate><guid>https://develotters.com/clamshell/2020-09-14/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>intellij idea on DevelOtters.com</title><link>https://develotters.com/tags/intellij-idea/</link><description>Recent content in intellij idea on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2020 09:00:00 -0700</lastBuildDate><atom:link href="https://develotters.com/tags/intellij-idea/index.xml" rel="self" type="application/rss+xml"/><item><title>Clamshell: 2020-09-21</title><link>https://develotters.com/clamshell/2020-09-21/</link><pubDate>Mon, 21 Sep 2020 09:00:00 -0700</pubDate><guid>https://develotters.com/clamshell/2020-09-21/</guid><description>&lt;ul>
+&lt;li>The Arrival of Java 15&lt;/li>
+&lt;li>Announcing Tribuo, a Java Machine Learning library&lt;/li>
+&lt;li>GitHub CLI 1.0&lt;/li>
+&lt;li>Microsoft reveals findings from their experimental undersea datacenter&lt;/li>
+&lt;li>OpenJDK: In the new age of Concurrent Garbage Collectors&lt;/li>
+&lt;li>Four common pitfalls of the BigDecimal class and how to avoid them&lt;/li>
+&lt;li>Venkat Subramaniam: Java is changing in a responsible manner&lt;/li>
+&lt;li>Why and when you should use JPA&lt;/li>
+&lt;li>Best Intellij IDEA Plugins&lt;/li>
+&lt;li>Security by Obscurity is Underrated&lt;/li>
+&lt;li>Never Skip Retros&lt;/li>
+&lt;/ul></description></item><item><title>Clamshell: 2020-09-14</title><link>https://develotters.com/clamshell/2020-09-14/</link><pubDate>Sun, 13 Sep 2020 09:00:00 -0700</pubDate><guid>https://develotters.com/clamshell/2020-09-14/</guid><description>&lt;ul>
 &lt;li>Java 15 GA Release&lt;/li>
 &lt;li>NYJavaSIG 25th Anniversary Event&lt;/li>
 &lt;li>foojay — a place for friends of OpenJDK&lt;/li>
