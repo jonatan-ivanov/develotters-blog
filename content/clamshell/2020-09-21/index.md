@@ -8,7 +8,7 @@ author: "Jonatan Ivanov"
 type: post
 
 categories: ["clamshell"]
-tags: ["Java", "OpenJDK", "JDK", "MAchine Learning", "git", "GitHub", "Microsoft", "GC", "JPA", "JDBC", "Persistence", "Database", "Intellij IDEA", "JetBrains", "Security", "Scrum", "Agile"]
+tags: ["Java", "OpenJDK", "JDK", "Machine Learning", "git", "GitHub", "Microsoft", "GC", "JPA", "JDBC", "Persistence", "Database", "Intellij IDEA", "JetBrains", "Security", "Scrum", "Agile"]
 ---
 
 - The Arrival of Java 15
