@@ -23,7 +23,7 @@ deploy: gitcheck clean build
 	git commit -m 'Regenerating the site'
 	@echo 'Pushing changes site...'
 	git push
-	@echo 'Giving some time to GH to start tthe deployment...'
+	@echo 'Giving some time to GH to start the deployment...'
 	sleep 5
 	open https://github.com/jonatan-ivanov/develotters-blog/deployments
 
