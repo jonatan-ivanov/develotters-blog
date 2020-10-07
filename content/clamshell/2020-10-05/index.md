@@ -107,4 +107,4 @@ Ben Evans looks into the bytecode to show how Java handles lambdas: [Behind the 
 
 # diagrams
 
-[diagrams](https://github.com/mingrammer/diagrams)is a Diagram as Code tool for prototyping cloud system architectures.
+[diagrams](https://github.com/mingrammer/diagrams) is a Diagram as Code tool for prototyping cloud system architectures.
