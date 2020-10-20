@@ -22,7 +22,6 @@ tags: ["FSF", "git", "Distributed Tracing", "Java", "JDK", "Collections", "secur
 - Java Magazine: Quiz yourself
 - bit
 - nb
-
 <!--more-->
 
 # FSF is 35
