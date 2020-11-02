@@ -1,9 +1,9 @@
 ---
-title: "Clamshell: 2020-11-01"
+title: "Clamshell: 2020-11-02"
 lead: "Recent news in tech in a clamshell"
-description: "Brief News: 2020-11-01"
+description: "Brief News: 2020-11-02"
 
-date: 2020-11-01T09:00:00-08:00
+date: 2020-11-02T09:00:00-08:00
 author: "Jonatan Ivanov"
 type: post
 
