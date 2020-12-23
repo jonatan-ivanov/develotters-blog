@@ -16,7 +16,7 @@ In this article, I would like to show you a couple of confusing things in connec
 
 # Quiz
 
-I order to demonstrate this, let me invite you for a little quiz:  
+In order to demonstrate this, let me invite you for a little quiz:  
 What do you think, what is the `length` of the following `String`s in Java?
 
 - Java
