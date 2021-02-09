@@ -8,7 +8,7 @@ author: "Jonatan Ivanov"
 type: post
 
 categories: ["clamshell"]
-tags: ["Java", "OpenJDK" "GitHub", "monitoring", "books", "security", "Wasm"]
+tags: ["Java", "OpenJDK", "GitHub", "monitoring", "books", "security", "Wasm"]
 ---
 
 - Java 16 Is Coming!
