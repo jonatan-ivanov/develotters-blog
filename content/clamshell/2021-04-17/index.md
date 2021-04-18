@@ -8,7 +8,7 @@ author: "Jonatan Ivanov"
 type: post
 
 categories: ["clamshell"]
-tags: ["Java", "JDK", "Gradle", "Git", "security", "GraalVM", "cognitive biases", "XOR, "fuzzing", "testing"]
+tags: ["Java", "JDK", "Gradle", "Git", "security", "GraalVM", "cognitive biases", "XOR", "fuzzing", "testing"]
 ---
 
 - Proposed schedule for JDK 17
