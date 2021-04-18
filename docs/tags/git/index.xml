@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>git on DevelOtters.com</title><link>https://develotters.com/tags/git/</link><description>Recent content in git on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 16 Mar 2021 08:13:39 -0800</lastBuildDate><atom:link href="https://develotters.com/tags/git/index.xml" rel="self" type="application/rss+xml"/><item><title>Clamshell: 2021-03-16</title><link>https://develotters.com/clamshell/2021-03-16/</link><pubDate>Tue, 16 Mar 2021 08:13:39 -0800</pubDate><guid>https://develotters.com/clamshell/2021-03-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>git on DevelOtters.com</title><link>https://develotters.com/tags/git/</link><description>Recent content in git on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 17 Apr 2021 17:49:57 -0700</lastBuildDate><atom:link href="https://develotters.com/tags/git/index.xml" rel="self" type="application/rss+xml"/><item><title>Clamshell: 2021-04-17</title><link>https://develotters.com/clamshell/2021-04-17/</link><pubDate>Sat, 17 Apr 2021 17:49:57 -0700</pubDate><guid>https://develotters.com/clamshell/2021-04-17/</guid><description>&lt;ul>
+&lt;li>Proposed schedule for JDK 17&lt;/li>
+&lt;li>Gradle 7.0&lt;/li>
+&lt;li>Announcing Spring Native Beta&lt;/li>
+&lt;li>Gradle Test Logger Plugin&lt;/li>
+&lt;li>Git clone vulnerability&lt;/li>
+&lt;li>security.txt&lt;/li>
+&lt;li>Ubiquitous Speakers 2019&lt;/li>
+&lt;li>Episode 95. Ludicruos speed! Practical GraalVM&lt;/li>
+&lt;li>OffHeap 60. JDK 16, Spring Native, Micronaut, Microprofile and GraalVM have new releases!&lt;/li>
+&lt;li>The Backfire Effect&lt;/li>
+&lt;li>XOR Tricks&lt;/li>
+&lt;li>OSS-Fuzz: Continuous Fuzzing for Open Source Software&lt;/li>
+&lt;/ul></description></item><item><title>Clamshell: 2021-03-16</title><link>https://develotters.com/clamshell/2021-03-16/</link><pubDate>Tue, 16 Mar 2021 08:13:39 -0800</pubDate><guid>https://develotters.com/clamshell/2021-03-16/</guid><description>&lt;ul>
 &lt;li>Java 16 is now available!&lt;/li>
 &lt;li>Java Recognized as the Favorite Programming Language&lt;/li>
 &lt;li>Dolt&lt;/li>
