@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ClamShell on DevelOtters.com</title><link>https://develotters.com/clamshell/</link><description>Recent content in ClamShell on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://develotters.com/clamshell/index.xml" rel="self" type="application/rss+xml"/><item><title>Clamshell: 2021-04-17</title><link>https://develotters.com/clamshell/2021-04-17/</link><pubDate>Sat, 17 Apr 2021 17:49:57 -0700</pubDate><guid>https://develotters.com/clamshell/2021-04-17/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ClamShell on DevelOtters.com</title><link>https://develotters.com/clamshell/</link><description>Recent content in ClamShell on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://develotters.com/clamshell/index.xml" rel="self" type="application/rss+xml"/><item><title>Clamshell: 2021-05-08</title><link>https://develotters.com/clamshell/2021-05-08/</link><pubDate>Sat, 08 May 2021 12:50:54 -0700</pubDate><guid>https://develotters.com/clamshell/2021-05-08/</guid><description>&lt;ul>
+&lt;li>Java Support Roadmap&lt;/li>
+&lt;li>Java Pub House - Episode 96. Micrometer&lt;/li>
+&lt;li>University duo thought it would be cool to sneak bad code into Linux as an experiment&lt;/li>
+&lt;li>Write a Good Dockerfile in 19 &amp;lsquo;Easy&amp;rsquo; Steps&lt;/li>
+&lt;li>CodeCov Security Breach&lt;/li>
+&lt;li>Crypto miners are killing free CI&lt;/li>
+&lt;li>WebAssembly Summit&lt;/li>
+&lt;li>Fig&lt;/li>
+&lt;li>Starship&lt;/li>
+&lt;li>skopeo&lt;/li>
+&lt;li>readme.so&lt;/li>
+&lt;/ul></description></item><item><title>Clamshell: 2021-04-17</title><link>https://develotters.com/clamshell/2021-04-17/</link><pubDate>Sat, 17 Apr 2021 17:49:57 -0700</pubDate><guid>https://develotters.com/clamshell/2021-04-17/</guid><description>&lt;ul>
 &lt;li>Proposed schedule for JDK 17&lt;/li>
 &lt;li>Gradle 7.0&lt;/li>
 &lt;li>Announcing Spring Native Beta&lt;/li>
