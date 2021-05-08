@@ -12,6 +12,6 @@ categories: []
 tags: []
 ---
 
-Hi,
-
-I'm Joni, and this is my tech blog for develotters by develotters.
+Jonatan Ivanov is an enthusiastic Software Engineer, member of the [Spring Engineering Team](https://spring.io/team), one of the leaders of the [Seattle Java User Group](https://www.seajug.org/), speaker, author, certified dragon trainer.
+He has hands-on experience in developing and shipping innovative, production-ready software for industry-leader companies. He likes Distributed Systems, Production, Open Source, Math, Linux, Cloud environments; he is passionate about the Java Ecosystem and the Java Community.
+He is an Open Source contributor, writes a "develotters"-focused blog (https://develotters.com), sometimes can be found on Twitter([@jonatan_ivanov](https://twitter.com/jonatan_ivanov)) and in the Seattle area but he is originally from Hungary.
