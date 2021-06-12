@@ -11,7 +11,7 @@ server:
 	hugo server -D
 
 build:
-	@echo 'Generating site...'
+	@echo 'Generating...'
 	hugo --gc --minify -d "$(PUBLISH_DIR)"
 
 gitcheck:
@@ -21,7 +21,7 @@ deploy: gitcheck clean build
 	@echo 'Commiting changes...'
 	git add "$(PUBLISH_DIR)"
 	git commit -m 'Regenerating the site'
-	@echo 'Pushing changes site...'
+	@echo 'Pushing changes...'
 	git push
 	@echo 'Giving some time to GH to start the deployment...'
 	sleep 5
