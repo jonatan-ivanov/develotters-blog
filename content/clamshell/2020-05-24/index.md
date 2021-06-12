@@ -18,7 +18,6 @@ Including 25th Birthday of Java, Windows Terminal, Unreal Engine 5 and more.
 
 {{< youtube KA8gI5e16L0 >}}
 <br>
-
 Check out the [Moved by Java campaign](https://www.oracle.com/java/moved-by-java/) and these hashtags: [#Java25](https://twitter.com/hashtag/Java25), [#MovedbyJava](https://twitter.com/hashtag/MovedbyJava).  
 Also, check out [inside.java](https://inside.java/about/), it is a collection of curated content produced by the Java Platform Group at Oracle and here's an article from [Brian](https://mobile.twitter.com/BrianVerm): [Java turns 25—aging like fine wine or more like milk?](https://snyk.io/blog/java-turns-25/)
 
@@ -34,7 +33,6 @@ The [Windows Package Manager](https://github.com/microsoft/winget-cli) is a tool
 
 {{< youtube 8gw0rXPMMPE >}}
 <br>
-
 Check out the [Announcement](https://devblogs.microsoft.com/commandline/windows-terminal-1-0/) and the [GitHub Repo](https://github.com/microsoft/terminal).
 
 # Ubuntu Touch OTA Release

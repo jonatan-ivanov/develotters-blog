@@ -58,7 +58,6 @@ As the market capitalization of crypto currencies grows, it's becoming profitabl
 # WebAssembly Summit
 {{< youtube qsbPLbSJ_RY >}}
 <br>
-
 See the whole [YouTube playlist](https://www.youtube.com/playlist?list=PL6ed-L7Ni0yRnaN8-l2wfA0u3ILmyJMkz).
 
 # Fig

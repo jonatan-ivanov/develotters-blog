@@ -51,7 +51,6 @@ Java Pub House covers the history of OpenJDK, and uncovers the reason of why the
 
 {{< youtube 0VmDFwi1Sto >}}
 <br>
-
 You can also listen them here: [Episode 91. OracleJDK? OpenJDK?, Zulu? Corretto? So many!](https://javapubhouse.libsyn.com/episode-91-oraclejdk-openjdk-zulu-corretto-so-many)
 
 # Introduction to Micronaut - Ultra Lightweight Java Microservices

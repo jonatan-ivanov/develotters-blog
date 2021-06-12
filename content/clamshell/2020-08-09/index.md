@@ -32,7 +32,6 @@ tags: ["time", "Spring", "Miconaut", "Quarkus", "Dropwizard", "GraalVM", "Spring
 
 {{< youtube -5wpm-gesOY >}}
 <br>
-
 Also: [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 
 # Java frameworks for the cloud: Establishing the bounds for rapid startups
