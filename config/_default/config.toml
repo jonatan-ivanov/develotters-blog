@@ -25,13 +25,13 @@ googleAnalytics = "UA-166903607-1"
 
 [[menu.main]]
   name = "home"
-  weight = -1
+  weight = 1
   identifier = "home"
   url = "/"
 
 [[menu.main]]
   name = "rss"
-  weight = 0
+  weight = 4
   identifier = "rss"
   url = "/index.xml"
 

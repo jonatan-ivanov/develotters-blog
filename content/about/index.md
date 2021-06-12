@@ -6,7 +6,9 @@ description: "About"
 date: 2020-05-16T20:06:28-07:00
 author: "Jonatan Ivanov"
 type: page
-menu: main
+menu:
+  main:
+    weight: 3
 
 categories: []
 tags: []

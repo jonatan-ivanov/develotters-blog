@@ -6,7 +6,9 @@ description: "Talks"
 date: 2021-06-09T21:40:12-07:00
 author: "Jonatan Ivanov"
 type: page
-menu: main
+menu:
+  main:
+    weight: 2
 
 categories: []
 tags: []
