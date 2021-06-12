@@ -20,6 +20,9 @@ googleAnalytics = "UA-166903607-1"
   changefreq = "daily"
   priority = 0.5
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [[menu.main]]
   name = "home"
   weight = -1
