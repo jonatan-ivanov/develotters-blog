@@ -8,7 +8,7 @@ author: "Jonatan Ivanov"
 type: page
 menu:
   main:
-    weight: 2
+    weight: 4
 
 categories: []
 tags: []
