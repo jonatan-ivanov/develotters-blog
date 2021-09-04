@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DevelOtters.com</title><link>https://develotters.com/</link><description>Recent content on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 Sep 2021 17:46:56 -0700</lastBuildDate><atom:link href="https://develotters.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Spring One 2021</title><link>https://develotters.com/posts/spring-one-2021/</link><pubDate>Fri, 03 Sep 2021 17:46:56 -0700</pubDate><guid>https://develotters.com/posts/spring-one-2021/</guid><description>&lt;p>If you did not attend Spring One, here&amp;rsquo;s a little recap for you (from my perspective).&lt;/p>
-&lt;h1 id="announcements">Announcements&lt;/h1>
+&lt;p>&lt;strong>Keynote Announcements:&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Spring Framework 6.0 and Spring Boot 3.0&lt;/li>
 &lt;li>Java 17 baseline&lt;/li>
