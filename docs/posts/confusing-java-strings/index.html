@@ -143,17 +143,17 @@ Returns the length of this string. The length is equal to the number of <a href=
 Let that sink in: this means that the <code>char</code> type (as well as the <code>Character</code> class) in Java is not what we usually mean by a <em>character</em>.</p>
 <h2 id=code-points-vs-code-units-example>Code Points vs. Code Units Example</h2>
 <p>If we go back to our quiz, we can explain some of the anomalies:</p>
-<pre><code>Java -&gt; U+004A U+0061 U+0076 U+0061    // 4 Code Points
+<pre tabindex=0><code>Java -&gt; U+004A U+0061 U+0076 U+0061    // 4 Code Points
 Java -&gt; \u004A \u0061 \u0076 \u0061    // 4 Code Units, length: 4
 </code></pre><p>Likewise:</p>
-<pre><code>我喜欢茶 -&gt; U+6211 U+559C U+6B22 U+8336    // 4 Code Points
+<pre tabindex=0><code>我喜欢茶 -&gt; U+6211 U+559C U+6B22 U+8336    // 4 Code Points
 我喜欢茶 -&gt; \u6211 \u559C \u6B22 \u8336    // 4 Code Units, length: 4
 </code></pre><p>But 𝕒, 𝕓, and 𝕔 are supplementary characters:</p>
-<pre><code>𝕒𝕓𝕔 -&gt; U+1D552      U+1D553      U+1D554       // 3 Code Points
+<pre tabindex=0><code>𝕒𝕓𝕔 -&gt; U+1D552      U+1D553      U+1D554       // 3 Code Points
 𝕒𝕓𝕔 -&gt; \uD835\uDD52 \uD835\uDD53 \uD835\uDD54  // 6 Code Units, length: 6
 </code></pre><h2 id=solution>~Solution</h2>
 <p>If you really need to, you can count the <em>Code Points</em> to get the number of characters, not the number of <em>Code Units</em>:</p>
-<pre><code>String str = &quot;𝕒𝕓𝕔&quot;;
+<pre tabindex=0><code>String str = &quot;𝕒𝕓𝕔&quot;;
 str.codePointCount(0, str.length()) // evaluates to 3
 </code></pre><h1 id=consequences>Consequences</h1>
 <p>The rest of the quiz is a bit more tricky but before I go there, let me mention a couple of things that are implied from the fact that Java is using UTF-16 under the hood; let me use the <code>"𝔸"</code> String as an example:</p>
@@ -167,7 +167,7 @@ str.codePointCount(0, str.length()) // evaluates to 3
 </ul>
 <h1 id=stringreverse>String::reverse</h1>
 <p>In Java, the <code>String</code> class does not have a <code>reverse</code> method so sometimes you can bump into methods like this:</p>
-<pre><code>String reverse(String original) {
+<pre tabindex=0><code>String reverse(String original) {
     String reversed = &quot;&quot;;
     for (int i = original.length() - 1;  0 &lt;= i; i--) {
         reversed += original.charAt(i);
@@ -176,7 +176,7 @@ str.codePointCount(0, str.length()) // evaluates to 3
     return reversed;
 }
 </code></pre><p>By now, I think you might have a good idea what&rsquo;s wrong with this method; let&rsquo;s see it in action:</p>
-<pre><code>String str = &quot;𝔸BC&quot;; // Three characters, but four chars 
+<pre tabindex=0><code>String str = &quot;𝔸BC&quot;; // Three characters, but four chars 
 System.out.println(reverse(str)); // prints CB??
 </code></pre><p>The tricky part of the <code>"𝔸BC"</code> String in the example is the <code>𝔸</code> character that consists of two Code Units: <code>\uD835\uDD38</code>.<br>
 If you execute the <code>reverse</code> method above, it will produce a <code>String</code> like this: <code>"CB\uDD38\uD835"</code>.<br>
@@ -185,20 +185,20 @@ If you execute the <code>reverse</code> method above, it will produce a <code>St
 <p>Usually, not writing code to solve problems is a good idea: <code>new StringBuilder(original).reverse().toString()</code>.</p>
 <h1 id=emojis>Emojis</h1>
 <p>The first emoji sequence (👩❤☕) in the quiz does not have anything tricky that you haven&rsquo;t known by now: the first emoji in it consists of two <em>Code Units</em> the other two consist of 1-1:</p>
-<pre><code>👩              ❤        ☕
+<pre tabindex=0><code>👩              ❤        ☕
 U+1F469        U+2764   U+2615  // 3 Code Points
 \uD83D\uDC69   \u2764   \u2615  // 4 Code Units, length: 4
 </code></pre><p>The second sequence (👩‍💻❤️🍵) has two tricks:</p>
 <p>👩‍💻 is actually two emojis joined together with a special Zero Width Joiner (<a href=https://emojipedia.org/emoji-zwj-sequence/>ZWJ</a>) character.</p>
-<pre><code>👩              ZWJ       💻              // 3 characters
+<pre tabindex=0><code>👩              ZWJ       💻              // 3 characters
 U+1F469        U+200D    U+1F4BB        // 3 Code Points
 \D83D\uDC69    \u200D    \uD83D\uDCBB   // 5 Code Units, length: 5
 </code></pre><p>❤️ is actually a ❤ plus a <a href=https://emojipedia.org/variation-selector-16/>variation selector</a> that makes it red.</p>
-<pre><code>❤         mod      // 2 characters
+<pre tabindex=0><code>❤         mod      // 2 characters
 U+2764    U+FE0F   // 2 Code Points
 \u2764    \uFE0F   // 2 Code Units, length: 2
 </code></pre><p>🍵 is <em>&ldquo;just&rdquo;</em> a supplementary character:</p>
-<pre><code>U+1F375       // 1 Code Point
+<pre tabindex=0><code>U+1F375       // 1 Code Point
 \uD83C\uDF75  // 2 Code Units, length: 2
 </code></pre><p>So the <code>length</code> of 👩‍💻❤️🍵 is 👩‍💻(5) + ❤️(2) + 🍵(2) = 9.</p>
 <h1 id=takeaway>Takeaway</h1>
