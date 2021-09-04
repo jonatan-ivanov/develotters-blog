@@ -16,7 +16,7 @@ dateformat = "2006-01-02"
 # mathjax = true
 # mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js"
 # mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
-# customCSS = ["css/custom.css"] # Include custom CSS files
+customCSS = ["style.css"] # Include custom CSS files
 # customJS = ["js/custom.js"] # Include custom JS files
 
 [style.vars]
