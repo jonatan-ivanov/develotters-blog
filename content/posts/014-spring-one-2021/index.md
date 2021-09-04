@@ -12,7 +12,7 @@ tags: ["Spring", "conference", "Spring One"]
 
 If you did not attend Spring One, here's a little recap for you (from my perspective).
 
-# Announcements
+**Keynote Announcements:**
 - Spring Framework 6.0 and Spring Boot 3.0
 - Java 17 baseline
 - JakartaEE 9
