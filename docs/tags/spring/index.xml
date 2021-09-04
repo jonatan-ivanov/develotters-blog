@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>spring on DevelOtters.com</title><link>https://develotters.com/tags/spring/</link><description>Recent content in spring on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 16 Feb 2021 23:00:46 -0800</lastBuildDate><atom:link href="https://develotters.com/tags/spring/index.xml" rel="self" type="application/rss+xml"/><item><title>Clamshell: 2021-02-16</title><link>https://develotters.com/clamshell/2021-02-16/</link><pubDate>Tue, 16 Feb 2021 23:00:46 -0800</pubDate><guid>https://develotters.com/clamshell/2021-02-16/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>spring on DevelOtters.com</title><link>https://develotters.com/tags/spring/</link><description>Recent content in spring on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 Sep 2021 17:46:56 -0700</lastBuildDate><atom:link href="https://develotters.com/tags/spring/index.xml" rel="self" type="application/rss+xml"/><item><title>Spring One 2021</title><link>https://develotters.com/posts/spring-one-2021/</link><pubDate>Fri, 03 Sep 2021 17:46:56 -0700</pubDate><guid>https://develotters.com/posts/spring-one-2021/</guid><description>&lt;p>If you did not attend Spring One, here&amp;rsquo;s a little recap for you (from my perspective).&lt;/p>
+&lt;h1 id="announcements">Announcements&lt;/h1>
+&lt;ul>
+&lt;li>Spring Framework 6.0 and Spring Boot 3.0&lt;/li>
+&lt;li>Java 17 baseline&lt;/li>
+&lt;li>JakartaEE 9&lt;/li>
+&lt;li>Spring Native&lt;/li>
+&lt;li>Spring Observability&lt;/li>
+&lt;li>&lt;a href="https://tanzu.vmware.com/content/blog/state-of-spring-2021-survey">The State of Spring 2021&lt;/a> survey results are available&lt;/li>
+&lt;/ul></description></item><item><title>Clamshell: 2021-02-16</title><link>https://develotters.com/clamshell/2021-02-16/</link><pubDate>Tue, 16 Feb 2021 23:00:46 -0800</pubDate><guid>https://develotters.com/clamshell/2021-02-16/</guid><description>&lt;ul>
 &lt;li>Devnexus&lt;/li>
 &lt;li>The new features in Java 16&lt;/li>
 &lt;li>What&amp;rsquo;s new in Spring Boot 2.4&lt;/li>
