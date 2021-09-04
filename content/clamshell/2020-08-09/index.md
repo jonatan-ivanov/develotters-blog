@@ -5,7 +5,7 @@ description: "brief news 2020-08-09"
 
 date: 2020-08-09T17:20:43-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["time", "Spring", "Miconaut", "Quarkus", "Dropwizard", "GraalVM", "Spring-Boot", "cloud", "security", "bash", "shell", "top"]

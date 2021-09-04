@@ -5,7 +5,7 @@ description: "brief news 2020-07-19"
 
 date: 2020-07-19T11:20:00-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["twitter", "hack", "security", "stack overflow", "terminal", "CLI", "Java", "JDK", "Open Source", "GitHub", "Micronaut", "ZGC"]

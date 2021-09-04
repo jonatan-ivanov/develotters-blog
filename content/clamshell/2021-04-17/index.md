@@ -5,7 +5,7 @@ description: "Brief News: 2021-04-17"
 
 date: 2021-04-17T17:49:57-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["Java", "JDK", "Gradle", "Git", "security", "GraalVM", "cognitive biases", "XOR", "fuzzing", "testing"]

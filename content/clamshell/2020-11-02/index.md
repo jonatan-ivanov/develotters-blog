@@ -5,7 +5,7 @@ description: "Brief News: 2020-11-02"
 
 date: 2020-11-02T09:00:00-08:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["Java", "JDK", "IDE", "HashiCorp", "Quality", "Security", "vi", "git"]

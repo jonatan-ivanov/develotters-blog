@@ -5,7 +5,7 @@ description: "brief news 2020-06-21"
 
 date: 2020-06-21T10:26:07-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["spring", "spring-boot", "java", "openjdk", "adoptopenjdk", "eclipse", "mozilla", "firefox", "VPN", "groovy", "security", "gc", "graalvm", "tornadovm", "chrome", "performance", "feature flags", "piranha", "AWS", "cloud", "cloud formation"]

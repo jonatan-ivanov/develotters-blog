@@ -5,7 +5,7 @@ description: "Brief news 2020-05-24"
 
 date: 2020-05-24T15:52:49-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["java", "windows", "windows terminal", "windows package manager", "microsoft", "ubuntu", "ubuntu touch", "mobile", "Unreal", "Unreal Engine", "cloud", "cdk8s"]

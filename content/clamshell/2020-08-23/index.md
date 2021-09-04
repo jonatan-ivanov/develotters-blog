@@ -5,7 +5,7 @@ description: "Brief News: 2020-08-23"
 
 date: 2020-08-24T22:18:57-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["stack overflow", "Java", "distributed systems", "patterns", "Microsoft", "Open Sourcee", "security", "Groovy", "GitHub"]

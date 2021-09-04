@@ -5,7 +5,7 @@ description: "brief news 2020-06-28"
 
 date: 2020-06-28T21:24:13-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["java", "jetbrains", "intellij idea", "generics", "OracleJDK", "OpenJDK", "Zulu", "Corretto", "AdoptOpenJDK", "micronaut", "linter", "kubernetes", "security", "owasp"]

@@ -5,7 +5,7 @@ description: "Brief News: 2020-09-21"
 
 date: 2020-09-21T09:00:00-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["Java", "OpenJDK", "JDK", "Machine Learning", "git", "GitHub", "Microsoft", "GC", "JPA", "JDBC", "Persistence", "Database", "Intellij IDEA", "JetBrains", "Security", "Scrum", "Agile"]

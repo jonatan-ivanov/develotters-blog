@@ -5,7 +5,7 @@ description: "brief news 2020-06-07"
 
 date: 2020-06-07T12:22:18-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["git", "github", "jvm", "java", "sql injection", "pwned", "JetBrains", "spring", "spring boot", "gradle", "nmap", "security", "testing", "JavaScript", "Mob Programming", "microservices"]

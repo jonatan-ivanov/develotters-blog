@@ -5,7 +5,7 @@ description: "Brief News: 2020-10-19"
 
 date: 2020-10-19T12:00:00-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["FSF", "git", "Distributed Tracing", "Java", "JDK", "Collections", "security", "Exceptions", "GC", "CLI"]

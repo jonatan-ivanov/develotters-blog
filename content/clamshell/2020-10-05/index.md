@@ -5,7 +5,7 @@ description: "Brief News: 2020-10-05"
 
 date: 2020-10-05T09:00:00-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["hacktoberfest", "git", "github", "open source", "Microsoft", "Windows", "Java", "JDK", "GC", "quality", "lambda", "cheatsheet", "security"]

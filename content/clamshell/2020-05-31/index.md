@@ -5,7 +5,7 @@ description: "brief news 2020-05-31"
 
 date: 2020-05-31T12:18:18-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["java", "openjdk", "jdk", "java magazine", "WAT", "javascript", "bash", "ebook", "springer", "jnation", "cloudflare", "jaeger", "zipkin", "distributed tracing", "spring", "spring-boot", "raspberry pi", "appget", "stack overflow", "survey"]

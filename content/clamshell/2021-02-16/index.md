@@ -5,7 +5,7 @@ description: "Brief News: 2021-02-16"
 
 date: 2021-02-16T23:00:46-08:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["GiHub", "Java", "JDK", "VS Code", "Wasm", "TeaVM", "Spring", "Spring Boot"]

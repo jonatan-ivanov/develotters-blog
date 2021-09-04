@@ -5,7 +5,7 @@ description: "brief news 2020-07-05"
 
 date: 2020-07-05T21:04:52-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["no code", "spring-boot", "distributed computing", "java", "JDK", "project loom", "vim", "performance", "lego", "github"]

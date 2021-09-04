@@ -5,7 +5,7 @@ description: "Brief News: 2020-11-17"
 
 date: 2020-11-17T20:00:00-08:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["Maven", "Java", "Docker", "Serialization", "Raspberry Pi"]

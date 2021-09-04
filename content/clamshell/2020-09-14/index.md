@@ -5,7 +5,7 @@ description: "Brief News: 2020-09-14"
 
 date: 2020-09-13T09:00:00-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["Java", "JDK", "OpenJDK", "lazy", "Functional Programming", "OOP", "JetBrains", "IntelliJ IDEA", "Micronaut", "Kubernetes", "Metaspace", "GC", "Testing", "Spring", "Spring Boot"]

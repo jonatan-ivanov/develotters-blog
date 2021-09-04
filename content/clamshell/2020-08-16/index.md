@@ -5,7 +5,7 @@ description: "brief news 2020-08-16"
 
 date: 2020-08-16T20:20:28-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["Java", "OpenJDK", "git", "GitHub", "records", "Project Loom", "RSocket", "Kafka"]

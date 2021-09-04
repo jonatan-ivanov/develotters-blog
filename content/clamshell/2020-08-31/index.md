@@ -5,7 +5,7 @@ description: "Brief News: 2020-08-31"
 
 date: 2020-08-31T08:00:00-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["Windows", "Linux", "Java", "Doker", "Spring Boot", "Configuration", "Serialization", "Architecture", "Terminal", "Shell", "Rust"]

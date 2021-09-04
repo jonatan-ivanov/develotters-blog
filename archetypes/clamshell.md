@@ -5,7 +5,7 @@ description: "Brief News: {{ .Name }}"
 
 date: {{ .Date }}
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: []

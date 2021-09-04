@@ -5,7 +5,7 @@ description: "brief news 2020-06-14"
 
 date: 2020-06-14T19:35:43-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["android", "bug", "programming languages", "kubernetes", "dropbox", "password manager", "library", "PHP", "Java", "git", "GitHub"]

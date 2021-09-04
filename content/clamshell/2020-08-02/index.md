@@ -5,7 +5,7 @@ description: "brief news 2020-08-02"
 
 date: 2020-08-02T22:45:00-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["interviewing", "conferences", "health check", "data structures", "design", "monad", "twitter", "hack", "security", "grub", "linux"]

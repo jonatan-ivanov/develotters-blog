@@ -5,7 +5,7 @@ description: "brief news 2020-07-26"
 
 date: 2020-07-26T17:20:00-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["ai", "habits", "Java", "JDK", "Kubernetes", "Spring", "Spring Cloud", "ReDoS", "security", "XSS"]

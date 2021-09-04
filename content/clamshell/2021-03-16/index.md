@@ -5,7 +5,7 @@ description: "Brief News: 2021-03-16"
 
 date: 2021-03-16T08:13:39-08:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["Java", "JDK", "OpenJDK", "SQL", "DB", "git", "GitHub", "security"]

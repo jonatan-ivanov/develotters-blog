@@ -5,7 +5,7 @@ description: "Brief News: 2021-05-08"
 
 date: 2021-05-08T12:50:54-07:00
 author: "Jonatan Ivanov"
-type: post
+type: clamshell
 
 categories: ["clamshell"]
 tags: ["Java", "Oracle", "Java 8", "Linux", "Open Source", "Terminal", "Security", "CodeCov", "Docker", "README", "crypto"]
