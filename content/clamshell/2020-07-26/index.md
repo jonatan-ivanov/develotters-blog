@@ -28,7 +28,7 @@ tags: ["ai", "habits", "Java", "JDK", "Kubernetes", "Spring", "Spring Cloud", "R
 
 Just describe what your app should do in plain English, then start using it within seconds.
 
-{{< tweet 1284380190802509826 >}}
+{{< tweet user="sudo_overflow" id="1284380190802509826">}}
 
 # Force Good Habits by Venkat Subramaniam
 

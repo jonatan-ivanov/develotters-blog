@@ -16,7 +16,7 @@ Including The Best of the JDK Face-Off, Java Magazine 2020 May, Free eBooks from
 
 # The Best of the JDK Face-Off
 
-{{< tweet 1265311257323683841 >}}
+{{< tweet user="java" id="1265311257323683841">}}
 
 >In the coming weeks, via the Java team’s Twitter [@Java](https://twitter.com/java) account, you will see matchups of key features laid out in four different brackets:
 >
@@ -36,20 +36,20 @@ Choose an OpenJDK distribution: [http://www.jchoice.eu/](http://www.jchoice.eu/)
 
 # Java WAT
 
-{{< tweet 1263510498542325762 >}}
+{{< tweet user="joshbloch" id="1263510498542325762">}}
 If you don't know what does WAT mean, check out this lightning talk: [Wat by Gary Bernhardt](https://www.destroyallsoftware.com/talks/wat).
 
 Here are a few more WATs (JavaScript):
-{{< tweet 1234536343478423552 >}}
+Twet deleted, it was originally here: https://twitter.com/gregkh/status/1234536343478423552
 
 JavaScript again:
-{{< tweet 1266351559610433536 >}}
+{{< tweet user="ravinwashere" id="1266351559610433536">}}
 
 Or this one is in bash: [Take care editing bash scripts](https://thomask.sdf.org/blog/2019/11/09/take-care-editing-bash-scripts.html)
 
 # Free eBooks from Springer
 
-{{< tweet 1257323849131134976 >}}
+{{< tweet user="MIT_CSAIL" id="1257323849131134976">}}
 
 # JNation 2020
 
@@ -74,7 +74,7 @@ With [speed.cloudflare.com](https://speed.cloudflare.com/) you can measure the s
 
 Check out the [Release Notes](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.3-Release-Notes#new-and-noteworthy)
 
-{{< tweet 1262952005963780099 >}}
+{{< tweet user="starbuxman" id="1262952005963780099">}}
 
 # Developer Culture Test
 

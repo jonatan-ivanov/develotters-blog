@@ -39,7 +39,7 @@ Computer scientists at the University of Minnesota theorized they could sneak vu
 
 [See the research paper](https://github.com/QiushiWu/QiushiWu.github.io/blob/main/papers/OpenSourceInsecurity.pdf)
 
-{{< tweet 1384785747874656257 >}}
+{{< tweet user="gregkh" id="1384785747874656257">}}
 
 # Write a Good Dockerfile in 19 'Easy' Steps
 If you write your own Dockerfile(s), please read this article: [Write a Good Dockerfile in 19 'Easy' Steps](https://jkutner.github.io/2021/04/26/write-good-dockerfile.html), this: [Write a Good Dockerfile in 0 Steps](https://jkutner.github.io/2021/04/28/write-good-dockerfile-zero-steps.html), watch this:

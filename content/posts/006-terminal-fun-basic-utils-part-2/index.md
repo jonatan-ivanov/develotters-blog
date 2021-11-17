@@ -20,9 +20,9 @@ This post is going to be a little longer so buckle-up, put your helmet on, grab 
 
 I think I should have started the [previous post](/posts/terminal-fun-basic-utils/) with these, there are pretty good guides about basic Unix tools, let me show you a couple I ran into recently: [Unix ToolBox](http://cb.vu/unixtoolbox.xhtml) is a collection of commands for advanced users, also available in a nice booklet form. Additionally, I like these tweets about the basics:
 
-{{< tweet 1268091886826213377 >}}
+{{< tweet user="javarevisited" id="1268091886826213377">}}
 
-{{< tweet 1270020178986893315 >}}
+{{< tweet user="SecurityGuill" id="1270020178986893315">}}
 
 # Search Tools
 

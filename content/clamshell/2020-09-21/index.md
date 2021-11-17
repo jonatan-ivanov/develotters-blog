@@ -35,7 +35,7 @@ Oracle has just announced [Tribuo](https://blogs.oracle.com/java/announcing-trib
 
 # GitHub CLI 1.0
 
-{{<tweet 1306586113293729795>}}
+{{< tweet user="github" id="1306586113293729795">}}
 
 With GitHub CLI 1.0, you can:
 - Run your entire GitHub workflow from the terminal, from issues through releases

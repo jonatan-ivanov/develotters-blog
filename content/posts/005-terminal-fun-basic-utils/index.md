@@ -70,7 +70,7 @@ alias ls='exa'
 
 [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) makes git diffs human readable.
 
-{{< tweet 1263079575002796039 >}}
+{{< tweet user="liran_tal" id="1263079575002796039">}}
 
 **Setup tip (`.gitconfig`):**  
 {{< highlight shell >}}
