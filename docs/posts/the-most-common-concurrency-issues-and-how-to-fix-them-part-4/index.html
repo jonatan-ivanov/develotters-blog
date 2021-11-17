@@ -98,7 +98,8 @@
 </div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2 1 2h8v11H0V2z"/></svg><span class=meta__text><a class=meta__link href=https://develotters.com/categories/dev/ rel=category>dev</a>
 </span>
 </div></div>
-</header><div class="content post__content clearfix">
+</header>
+<div class="content post__content clearfix">
 <p>In the previous parts (<a href=https://develotters.com/posts/the-most-common-concurrency-issues-and-how-to-fix-them-part-1>one</a>, <a href=https://develotters.com/posts/the-most-common-concurrency-issues-and-how-to-fix-them-part-2>two</a>, <a href=https://develotters.com/posts/the-most-common-concurrency-issues-and-how-to-fix-them-part-3>three</a>) of the series, I showed you a simple class that has three concurrency issues and I also explained these issues. In this final post, I would like to explain the tests I wrote to show the issues in action. Please let me know if you have any ideas for improving the tests.</p>
 <p>You can find the test cases in <a href=https://github.com/jonatan-ivanov/concurrency-basics/blob/master/src/test/java/org/example/concurrent/CounterTest.java><code>CounterTest.java</code></a>. Please feel free to clone/fork the repo and play with the code. You can modify the implementations (or add new ones) and watch if the tests are failing. Try to play with <code>synchronized</code>, <code>volatile</code>, and <code>Lock</code>s.</p>
 <p><strong>WARNING: Since the behavior is based on &ldquo;luck&rdquo;, the tests are not consistent, they can give false positives.</strong></p>

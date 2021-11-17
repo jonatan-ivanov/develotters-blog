@@ -98,7 +98,8 @@
 </div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2 1 2h8v11H0V2z"/></svg><span class=meta__text><a class=meta__link href=https://develotters.com/categories/dev/ rel=category>dev</a>
 </span>
 </div></div>
-</header><div class="content post__content clearfix">
+</header>
+<div class="content post__content clearfix">
 <p>The rabbit hole goes infinitely deep if you want to do latency measurements, benchmarking, and performance testing/tuning/analysis. They are very hard to do right and it is very easy to mess them up. In this post, I would like to show you a very common mistake (that is just 0.000001‰ of the tip of the iceberg) and an extremely simple solution to fix it.</p>
 <p>Let&rsquo;s say you want to record the duration of a method call. I guess most people will be able to mention at least one thing about what is wrong with this. I usually expect to hear error handling and &ldquo;misusing&rdquo; the <code>Date</code> class but there is a lot more (see below).</p>
 <div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java>Response <span style=color:#a6e22e>handleRequest</span><span style=color:#f92672>(</span>Request request<span style=color:#f92672>)</span> <span style=color:#f92672>{</span>
