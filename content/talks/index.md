@@ -16,6 +16,7 @@ tags: []
 
 | Date       | Event                        | Location       | Talk                         | Resources                    |
 |------------|------------------------------|----------------|------------------------------|------------------------------|
+| 2021-12-07 | Komputertan meetup         | Online         | Observability and<br>Distributed Tracing | [Event](https://ern0.github.io/komputertan.html) |
 | 2021-11-16 | SeaJUG                       | Online         | Observability:<br>Beyond the three pillars<br>with Spring | [Event](https://www.meetup.com/seajug/events/281076240/)<br>[Video](https://www.youtube.com/watch?v=qw_eyZ1MQJ0) |
 | 2021-09-02 | Spring One                   | Online         | Keynote: Connecting Developer<br> Experience to Production | [Event](https://springone.io/2021/schedule)<br>[Video](https://www.youtube.com/watch?v=QMCYmaPa_14) |
 | 2021-09-02 | Spring One                   | Online         | Tracing Issues in Your Application | [Event](https://springone.io/2021/sessions/tracing-issues-in-your-application)<br>[Video](https://www.youtube.com/watch?v=kGUbTQSR0jA) |
