@@ -7,15 +7,17 @@
 &lt;li>Spring Native&lt;/li>
 &lt;li>Spring Observability&lt;/li>
 &lt;li>&lt;a href="https://tanzu.vmware.com/content/blog/state-of-spring-2021-survey">The State of Spring 2021&lt;/a> survey results are available&lt;/li>
-&lt;/ul></description></item><item><title>How Not to Measure Elapsed Time</title><link>https://develotters.com/posts/how-not-to-measure-elapsed-time/</link><pubDate>Sat, 12 Jun 2021 00:00:14 -0700</pubDate><guid>https://develotters.com/posts/how-not-to-measure-elapsed-time/</guid><description>&lt;p>The rabbit hole goes infinitely deep if you want to do latency measurements, benchmarking, and performance testing/tuning/analysis. They are very hard to do right and it is very easy to mess them up. In this post, I would like to show you a very common mistake (that is just 0.000001‰ of the tip of the iceberg) and an extremely simple solution to fix it.&lt;/p></description></item><item><title>Talks</title><link>https://develotters.com/talks/</link><pubDate>Wed, 09 Jun 2021 21:40:12 -0700</pubDate><guid>https://develotters.com/talks/</guid><description>Date Event Location Talk Links 2022-04-27 SpringOne Tour Chicago Chicago,
+&lt;/ul></description></item><item><title>How Not to Measure Elapsed Time</title><link>https://develotters.com/posts/how-not-to-measure-elapsed-time/</link><pubDate>Sat, 12 Jun 2021 00:00:14 -0700</pubDate><guid>https://develotters.com/posts/how-not-to-measure-elapsed-time/</guid><description>&lt;p>The rabbit hole goes infinitely deep if you want to do latency measurements, benchmarking, and performance testing/tuning/analysis. They are very hard to do right and it is very easy to mess them up. In this post, I would like to show you a very common mistake (that is just 0.000001‰ of the tip of the iceberg) and an extremely simple solution to fix it.&lt;/p></description></item><item><title>Talks</title><link>https://develotters.com/talks/</link><pubDate>Wed, 09 Jun 2021 21:40:12 -0700</pubDate><guid>https://develotters.com/talks/</guid><description>Date Event Location Talk Links 2022-06-29 SpringOne Tour New York New York,
+NY, USA Observability:
+Beyond the three pillars
+with Spring Event 2022-06-08 SpringOne Tour Toronto Toronto,
+Canada Observability:
+Beyond the three pillars
+with Spring Event 2022-04-27 SpringOne Tour Chicago Chicago,
 IL, USA Observability:
 Beyond the three pillars
 with Spring Event 2022-04-12 DevNexus Atlanta,
-GA, USA Observability:
-Beyond the three pillars
-with Spring Event 2022-03-31 Observability Webinar Online Let&amp;rsquo;s talk Micrometer,
-Sleuth, and Tanzu Observability Event 2021-12-07 Komputertan meetup Online Observability and
-Distributed Tracing Event 2021-11-16 SeaJUG Online Observability:</description></item><item><title>Clamshell: 2021-05-08</title><link>https://develotters.com/clamshell/2021-05-08/</link><pubDate>Sat, 08 May 2021 12:50:54 -0700</pubDate><guid>https://develotters.com/clamshell/2021-05-08/</guid><description>&lt;ul>
+GA, USA Observability:</description></item><item><title>Clamshell: 2021-05-08</title><link>https://develotters.com/clamshell/2021-05-08/</link><pubDate>Sat, 08 May 2021 12:50:54 -0700</pubDate><guid>https://develotters.com/clamshell/2021-05-08/</guid><description>&lt;ul>
 &lt;li>Java Support Roadmap&lt;/li>
 &lt;li>Java Pub House - Episode 96. Micrometer&lt;/li>
 &lt;li>University duo thought it would be cool to sneak bad code into Linux as an experiment&lt;/li>
