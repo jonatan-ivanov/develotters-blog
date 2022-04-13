@@ -16,6 +16,8 @@ tags: []
 
 | Date       | Event                     | Location               | Talk                                                        | Links                                       |
 |------------|---------------------------|------------------------|-------------------------------------------------------------|---------------------------------------------|
+| 2022-06-29 | SpringOne Tour New York   | New York,<br>NY, USA   | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://tanzu.vmware.com/developer/springone-tour/2022/new-york/) |
+| 2022-06-08 | SpringOne Tour Toronto    | Toronto,<br>Canada     | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://tanzu.vmware.com/developer/springone-tour/2022/toronto/) |
 | 2022-04-27 | SpringOne Tour Chicago    | Chicago,<br>IL, USA    | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://tanzu.vmware.com/developer/springone-tour/2022/chicago/) |
 | 2022-04-12 | DevNexus                  | Atlanta,<br>GA, USA    | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://devnexus.com/speakers/2658) |
 | 2022-03-31 | Observability Webinar     | Online                 | Let's talk Micrometer,<br>Sleuth, and Tanzu Observability   | [Event](https://tanzu.vmware.com/content/webinars/mar-31-lets-talk-micrometer-sleuth-and-tanzu-observability) |
