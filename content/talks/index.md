@@ -18,6 +18,7 @@ tags: []
 |------------|---------------------------|------------------------|-------------------------------------------------------------|---------------------------------------------|
 | 2022-06-29 | SpringOne Tour New York   | New York,<br>NY, USA   | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://tanzu.vmware.com/developer/springone-tour/2022/new-york/) |
 | 2022-06-08 | SpringOne Tour Toronto    | Toronto,<br>Canada     | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://tanzu.vmware.com/developer/springone-tour/2022/toronto/) |
+| 2022-05-23 | ϟ Enlightning             | Online                 | What is Observability?                                      | [Event](https://tanzu.vmware.com/developer/tv/enlightning/) |
 | 2022-04-27 | SpringOne Tour Chicago    | Chicago,<br>IL, USA    | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://tanzu.vmware.com/developer/springone-tour/2022/chicago/) |
 | 2022-04-12 | DevNexus                  | Atlanta,<br>GA, USA    | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://devnexus.com/speakers/2658) |
 | 2022-03-31 | Observability Webinar     | Online                 | Let's talk Micrometer,<br>Sleuth, and Tanzu Observability   | [Event](https://tanzu.vmware.com/content/webinars/mar-31-lets-talk-micrometer-sleuth-and-tanzu-observability) |
@@ -29,3 +30,5 @@ tags: []
 | 2021-05-18 | Tanzu.TV                  | Online                 | Observability;<br>How I joined the Spring Team              | [Event](https://tanzu.vmware.com/developer/tv/tanzu-tuesdays/0054/)<br>[Video](https://www.youtube.com/watch?v=lTbhTvew_7A) |
 | 2021-05-13 | Spring One Tour II USA    | Online                 | Spring Boot + Kubernetes<br>Workshop                        | [Event](https://tanzu.vmware.com/developer/tv/springone-tour/0016/) |
 | 2020-12-10 | SeaJUG                    | Online                 | Confusing Java Strings                                      | [Event](https://www.meetup.com/seajug/events/274923897/) |
+
+https://tanzu.vmware.com/developer/tv/enlightning/
