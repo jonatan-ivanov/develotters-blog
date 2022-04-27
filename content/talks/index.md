@@ -30,5 +30,3 @@ tags: []
 | 2021-05-18 | Tanzu.TV                  | Online                 | Observability;<br>How I joined the Spring Team              | [Event](https://tanzu.vmware.com/developer/tv/tanzu-tuesdays/0054/)<br>[Video](https://www.youtube.com/watch?v=lTbhTvew_7A) |
 | 2021-05-13 | Spring One Tour II USA    | Online                 | Spring Boot + Kubernetes<br>Workshop                        | [Event](https://tanzu.vmware.com/developer/tv/springone-tour/0016/) |
 | 2020-12-10 | SeaJUG                    | Online                 | Confusing Java Strings                                      | [Event](https://www.meetup.com/seajug/events/274923897/) |
-
-https://tanzu.vmware.com/developer/tv/enlightning/
