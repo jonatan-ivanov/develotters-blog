@@ -16,6 +16,7 @@ tags: []
 
 | Date       | Event                     | Location               | Talk                                                        | Links                                       |
 |------------|---------------------------|------------------------|-------------------------------------------------------------|---------------------------------------------|
+| 2022-07-13 | SpringOne Tour Seattle    | Seattle,<br>WA, USA    | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://tanzu.vmware.com/developer/springone-tour/2022/seattle/) |
 | 2022-06-29 | SpringOne Tour New York   | New York,<br>NY, USA   | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://tanzu.vmware.com/developer/springone-tour/2022/new-york/) |
 | 2022-06-08 | SpringOne Tour Toronto    | Toronto,<br>Canada     | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://tanzu.vmware.com/developer/springone-tour/2022/toronto/) |
 | 2022-05-23 | ϟ Enlightning             | Online                 | What is Observability?                                      | [Event](https://tanzu.vmware.com/developer/tv/enlightning/) |
