@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Connection Test</title>
+  <script type="text/javascript">
+    window.addEventListener('load', async (event) => await setStatus());
+    window.addEventListener('load', async (event) => await setTime());
+    setInterval(setStatus, 3000);
+    setInterval(setTime, 3000);
+
+    async function setStatus() {
+      document.getElementById('status').textContent = await isOnline() ? 'online' : 'offline';
+    }
+
+    async function isOnline() {
+      try {
+        const response = await fetch('https://develotters.com/robots.txt');
+        return response.status >= 200 && response.status < 300;
+      }
+      catch (error) {
+        console.error(error);
+        return false;
+      }
+    }
+
+    async function setTime() {
+      document.getElementById('time').textContent = await getTime();
+    }
+
+    async function getTime() {
+      try {
+        const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+        return await fetch(`https://worldtimeapi.org/api/timezone/${timeZone}`)
+          .then(response => response.json())
+          .then(json => json.datetime);
+      }
+      catch (error) {
+        console.error(error);
+        return 'unknown';
+      }
+    }
+  </script>
+</head>
+<body>
+  <pre id="status"></pre>
+  <pre id="time"></pre>
+</body>
+</html>
