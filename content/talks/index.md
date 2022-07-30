@@ -16,13 +16,14 @@ tags: []
 
 | Date       | Event                     | Location               | Talk                                                        | Links                                       |
 |------------|---------------------------|------------------------|-------------------------------------------------------------|---------------------------------------------|
+| 2022-08-15 | BCAK                      | Online                 | TBD                                                         | [Event](https://tanzu.vmware.com/developer/tv/bcak/) |
 | 2022-07-13 | SpringOne Tour Seattle    | Seattle,<br>WA, USA    | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://tanzu.vmware.com/developer/springone-tour/2022/seattle/) |
 | 2022-06-29 | SpringOne Tour New York   | New York,<br>NY, USA   | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://tanzu.vmware.com/developer/springone-tour/2022/new-york/) |
 | 2022-06-08 | SpringOne Tour Toronto    | Toronto,<br>Canada     | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://tanzu.vmware.com/developer/springone-tour/2022/toronto/) |
 | 2022-05-23 | ϟ Enlightning             | Online                 | What is Observability?                                      | [Event](https://tanzu.vmware.com/developer/tv/enlightning/)<br>[Video](https://www.youtube.com/watch?v=-fCOxnu6FYA)|
 | 2022-05-02 | Komputertan meetup        | Online                 | Prometheus + Metrics                                        | [Event](https://ern0.github.io/komputertan.html) |
 | 2022-04-27 | SpringOne Tour Chicago    | Chicago,<br>IL, USA    | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://tanzu.vmware.com/developer/springone-tour/2022/chicago/) |
-| 2022-04-12 | DevNexus                  | Atlanta,<br>GA, USA    | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://devnexus.com/speakers/2658) |
+| 2022-04-12 | Devnexus                  | Atlanta,<br>GA, USA    | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://devnexus.com/speakers/2658)<br>[Video](https://www.youtube.com/watch?v=0sV-_qPNtdA) |
 | 2022-03-31 | Observability Webinar     | Online                 | Let's talk Micrometer,<br>Sleuth, and Tanzu Observability   | [Event](https://tanzu.vmware.com/content/webinars/mar-31-lets-talk-micrometer-sleuth-and-tanzu-observability) |
 | 2021-12-07 | Komputertan meetup        | Online                 | Observability and<br>Distributed Tracing                    | [Event](https://ern0.github.io/komputertan.html) |
 | 2021-11-16 | SeaJUG                    | Online                 | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://www.meetup.com/seajug/events/281076240/)<br>[Video](https://www.youtube.com/watch?v=qw_eyZ1MQJ0) |
