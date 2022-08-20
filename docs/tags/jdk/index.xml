@@ -40,7 +40,7 @@
 &lt;li>Java Ecosystem Survey 2021&lt;/li>
 &lt;li>Java Pub House 94. Oh, put on your hat Dr. Watson, we are sleuthing this Heap Dump&lt;/li>
 &lt;li>OffHeap 58. New Year, new rules, new bans!&lt;/li>
-&lt;/ul></description></item><item><title>Clamshell: 2020-11-02</title><link>https://develotters.com/clamshell/2020-11-02/</link><pubDate>Mon, 02 Nov 2020 09:00:00 -0800</pubDate><guid>https://develotters.com/clamshell/2020-11-02/</guid><description>&lt;ul>
+&lt;/ul></description></item><item><title>Confusing Java Strings</title><link>https://develotters.com/posts/confusing-java-strings/</link><pubDate>Sun, 20 Dec 2020 15:19:46 -0800</pubDate><guid>https://develotters.com/posts/confusing-java-strings/</guid><description>&lt;p>In this article, I would like to show you a couple of confusing things in connection with Java &lt;code>String&lt;/code>s and give you a few suggestions to avoid issues with them. I also prepared a GitHub repo for you where you can find some code that you can use to try the examples out on your own: &lt;a href="https://github.com/jonatan-ivanov/java-strings-demo">github.com/jonatan-ivanov/java-strings-demo&lt;/a>.&lt;/p></description></item><item><title>Clamshell: 2020-11-02</title><link>https://develotters.com/clamshell/2020-11-02/</link><pubDate>Mon, 02 Nov 2020 09:00:00 -0800</pubDate><guid>https://develotters.com/clamshell/2020-11-02/</guid><description>&lt;ul>
 &lt;li>Proposed schedule for JDK 16&lt;/li>
 &lt;li>JEPs proposed to target JDK 16&lt;/li>
 &lt;li>Best IDEs in Java for App Development&lt;/li>
