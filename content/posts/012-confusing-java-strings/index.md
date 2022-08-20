@@ -8,7 +8,7 @@ author: "Jonatan Ivanov"
 type: post
 
 categories: ["dev"]
-tags: ["Java", "String", "Unicode", "UTF-8", "UTF-16"]
+tags: ["Java", "JDK", "String", "Unicode", "UTF-8", "UTF-16"]
 ---
 
 In this article, I would like to show you a couple of confusing things in connection with Java `String`s and give you a few suggestions to avoid issues with them. I also prepared a GitHub repo for you where you can find some code that you can use to try the examples out on your own: [github.com/jonatan-ivanov/java-strings-demo](https://github.com/jonatan-ivanov/java-strings-demo).
@@ -134,9 +134,18 @@ The tricky part of the `"𝔸BC"` String in the example is the `𝔸` character 
 If you execute the `reverse` method above, it will produce a `String` like this: `"CB\uDD38\uD835"`.  
 `C` and `B` are ok but `\uDD38\uD835` is not valid, that's why you see `??` instead. The method should not have reversed it, the valid result would be `"CB\uD835\uDD38"` (`CB𝔸`).
 
+You can also get other, quite unexpected results:
+```
+System.out.println(reverse("𝕒𝕓𝕔")); // prints ?𝕓𝕒?
+```
+
+Can you tell why we got this result?  
+(Hint: look into the Code Units of `𝕒𝕓𝕔` above and check what you get if you read them backwards.)
+
 ## Solution
 
-Usually, not writing code to solve problems is a good idea: `new StringBuilder(original).reverse().toString()`.
+Usually, not writing code to solve problems is a good idea:  
+`new StringBuilder(original).reverse().toString()`.
 
 # Emojis
 
@@ -174,6 +183,19 @@ U+1F375       // 1 Code Point
 ```
 
 So the `length` of 👩‍💻❤️🍵 is 👩‍💻(5) + ❤️(2) + 🍵(2) = 9.
+
+# String::substring
+
+If `substring` cuts into the "wrong" place, we might get an invalid character or a new (different) character or both:
+
+```
+System.out.println("𝕒𝕓𝕔".substring(0, 5)); // prints 𝕒𝕓? (invalid character)
+System.out.println("abc👩‍💻".substring(0, 5)); // prints abc👩 (new character)
+System.out.println("a👩‍💻".substring(0, 5)); // prints a👩‍? (both)
+```
+
+Can you tell why this happened?  
+(Hint: look into the Code Units above.)
 
 # Takeaway
 
