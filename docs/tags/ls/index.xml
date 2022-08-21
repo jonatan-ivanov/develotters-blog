@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ls on DevelOtters.com</title><link>https://develotters.com/tags/ls/</link><description>Recent content in ls on DevelOtters.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 30 May 2020 16:38:53 -0700</lastBuildDate><atom:link href="https://develotters.com/tags/ls/index.xml" rel="self" type="application/rss+xml"/><item><title>Terminal Fun: Basic Utils</title><link>https://develotters.com/posts/terminal-fun-basic-utils/</link><pubDate>Sat, 30 May 2020 16:38:53 -0700</pubDate><guid>https://develotters.com/posts/terminal-fun-basic-utils/</guid><description>&lt;p>This is the first post of a series where I want to give tips and trick for the Terminal/CLI, have fun:&lt;/p>
-&lt;ul>
-&lt;li>&lt;code>bat&lt;/code> and &lt;code>cat&lt;/code>&lt;/li>
-&lt;li>&lt;code>exa&lt;/code> and &lt;code>ls&lt;/code>&lt;/li>
-&lt;li>&lt;code>multitail&lt;/code> and &lt;code>tail&lt;/code>&lt;/li>
-&lt;li>&lt;code>diff-so-fancy&lt;/code>, &lt;code>delta&lt;/code> and &lt;code>git diff&lt;/code>&lt;/li>
-&lt;li>&lt;code>prettyping&lt;/code> and &lt;code>ping&lt;/code>&lt;/li>
-&lt;li>&lt;code>htop&lt;/code>/&lt;code>gtop&lt;/code>/&lt;code>vtop&lt;/code> and &lt;code>top&lt;/code>&lt;/li>
-&lt;/ul></description></item></channel></rss>
