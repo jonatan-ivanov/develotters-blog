@@ -14,10 +14,10 @@ categories: []
 tags: []
 ---
 
-| Date       | Event                          | Location               | Talk                                                        | Links                                       |
-|------------|--------------------------------|------------------------|-------------------------------------------------------------|---------------------------------------------|
-| (TBD)      | JavaOne                        | Las Vegas,<br>NV, USA  | To Production and Beyond                                    | [Event](https://www.oracle.com/cloudworld/javaone/) |
-| (TBD)      | JavaOne                        | Las Vegas,<br>NV, USA  | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://www.oracle.com/cloudworld/javaone/) |
+| Date       | Event                          | Location               | Talk                                                        | Links |
+|------------|--------------------------------|------------------------|-------------------------------------------------------------|-------|
+| 2022-10-20 | JavaOne                        | Las Vegas,<br>NV, USA  | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://reg.rf.oracle.com/flow/oracle/cloudworld/session-catalog/page/catalog?search.topic=1651238230807008ZfDn&search=LIT3834) |
+| 2022-10-19 | JavaOne                        | Las Vegas,<br>NV, USA  | To Production and Beyond:<br>Metrics with Micrometer        | [Event](https://reg.rf.oracle.com/flow/oracle/cloudworld/session-catalog/page/catalog?search.topic=1651238230807008ZfDn&search=LRN3692) |
 | 2022-08-15 | Between Chair<br> and Keyboard | Online                 | The one with Jonatan Ivanov                                 | [Event](https://tanzu.vmware.com/developer/tv/bcak/)<br>[Video](https://www.youtube.com/watch?v=WJtFW0o4Hho) |
 | 2022-08-04 | A Bootiful Podcast             | Online                 | The future of Observability<br>in Spring Boot               | [Listen](https://spring.io/blog/2022/08/04/a-bootiful-podcast-observability-guru-jonatan-ivanov-on-the-future-of-observability-in-spring-boot) |
 | 2022-07-13 | SpringOne Tour Seattle         | Seattle,<br>WA, USA    | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://tanzu.vmware.com/developer/springone-tour/2022/seattle/) |
