@@ -16,7 +16,7 @@ tags: []
 
 | Date       | Event                          | Location                    | Talk                                                        | Links |
 |------------|--------------------------------|-----------------------------|-------------------------------------------------------------|-------|
-| 2022-12-08 | SpringOne                      | San<br>Francisco<br>CA, USA | Observability Under the Covers                              | [Event](https://springone.io/2022/sessions/observability-of-your-application) |
+| 2022-12-08 | SpringOne                      | San<br>Francisco<br>CA, USA | Observability Under the Covers                              | [Event](https://springone.io/2022/sessions/observability-under-the-covers) |
 | 2022-12-07 | SpringOne                      | San<br>Francisco<br>CA, USA | Observability of Your Application                           | [Event](https://springone.io/2022/sessions/observability-of-your-application) |
 | 2022-10-20 | JavaOne                        | Las Vegas,<br>NV, USA       | Observability:<br>Beyond the three pillars<br>with Spring   | [Event](https://reg.rf.oracle.com/flow/oracle/cloudworld/session-catalog/page/catalog?search.topic=1651238230807008ZfDn&search=LIT3834) |
 | 2022-10-19 | JavaOne                        | Las Vegas,<br>NV, USA       | To Production and Beyond:<br>Metrics with Micrometer        | [Event](https://reg.rf.oracle.com/flow/oracle/cloudworld/session-catalog/page/catalog?search.topic=1651238230807008ZfDn&search=LRN3692) |
