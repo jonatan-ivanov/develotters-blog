@@ -29,7 +29,7 @@ This will result in one time series (Prometheus output):
 http_requests_total 10.0
 ```
 
-With this, you can see the number of incoming HTTP requests (2). The cardinality of this metric is 1 since you have one time series.
+With this, you can see the number of incoming HTTP requests (10). The cardinality of this metric is 1 since you have one time series.
 
 ## Increasing Cardinality
 
