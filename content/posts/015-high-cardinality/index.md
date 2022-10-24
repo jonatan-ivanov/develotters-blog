@@ -3,7 +3,7 @@ title: "High Cardinality"
 lead: "Friend or Foe?"
 description: "High Cardinality - Friend or Foe?"
 
-date: 2022-10-23T17:32:00-08:00
+date: 2022-10-23T17:40:00-07:00
 author: "Jonatan Ivanov"
 type: post
 
