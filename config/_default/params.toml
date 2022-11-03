@@ -39,3 +39,8 @@ customCSS = ["style.css"] # Include custom CSS files
   twitter = "jonatan_ivanov"
   github = "jonatan-ivanov"
   linkedin = "jonatan-ivanov"
+
+[[widgets.social.custom]]
+  title = "Mastodon"
+  url = "https://mastodon.social/@jonatan_ivanov"
+  icon = "mastodon.svg"
