@@ -3,13 +3,20 @@
 <head>
   <title>Connection Test</title>
   <script type="text/javascript">
-    window.addEventListener('load', async (event) => await setStatus());
-    window.addEventListener('load', async (event) => await setTime());
-    setInterval(setStatus, 3000);
-    setInterval(setTime, 3000);
+    const ONLINE = 'online';
+    const OFFLINE = 'offline';
 
-    async function setStatus() {
-      document.getElementById('status').textContent = await isOnline() ? 'online' : 'offline';
+    window.addEventListener('load', async (event) => await updateStatus());
+    window.addEventListener('load', async (event) => await updateTime());
+    setInterval(updateStatus, 3000);
+    setInterval(updateTime, 3000);
+
+    async function updateStatus() {
+      setStatus(await isOnline() ? ONLINE : OFFLINE);
+    }
+
+    function setStatus(status) {
+      document.getElementById('status').textContent = status;
     }
 
     async function isOnline() {
@@ -23,8 +30,12 @@
       }
     }
 
-    async function setTime() {
-      document.getElementById('time').textContent = await getTime();
+    async function updateTime() {
+      setTime(await getTime());
+    }
+
+    function setTime(time) {
+      document.getElementById('time').textContent = time;
     }
 
     async function getTime() {
