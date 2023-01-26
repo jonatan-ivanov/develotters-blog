@@ -16,6 +16,8 @@ tags: []
 
 | Date           | Event                            | Location                        | Talk                                                            | Links |
 |----------------|----------------------------------|---------------------------------|-----------------------------------------------------------------|-------|
+|   2023-04-05   | Devnexus                         | Atlanta,<br>GA, USA             | Observability for Modern<br>Spring Applications                 | [Event](https://devnexus.com/presentations/to-production-and-beyond-observability-for-modern-spring-applications) |
+|   2023-04-04   | Devnexus                         | Atlanta,<br>GA, USA             | Spring Boot 3 Workshop                                          | [Event](https://devnexus.com/presentations/spring-boot-3-workshop) |
 |   2023-01-25   | SpringOne                        | Online                          | Observability of Your Application                               | [Event](https://springone.io/2022/sessions/observability-of-your-application) |
 |   2022-10-20   | JavaOne                          | Las Vegas,<br>NV, USA           | Observability:<br>Beyond the three pillars<br>with Spring       | [Event](https://reg.rf.oracle.com/flow/oracle/cloudworld/session-catalog/page/catalog?search.topic=1651238230807008ZfDn&search=LIT3834) |
 |   2022-10-19   | JavaOne                          | Las Vegas,<br>NV, USA           | To Production and Beyond:<br>Metrics with Micrometer            | [Event](https://reg.rf.oracle.com/flow/oracle/cloudworld/session-catalog/page/catalog?search.topic=1651238230807008ZfDn&search=LRN3692) |
