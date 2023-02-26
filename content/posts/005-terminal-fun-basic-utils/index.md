@@ -63,7 +63,7 @@ alias ls='exa'
 
 # MultiTail
 
-[MultiTail](https://vanheusden.com/multitail/) is like tail but it allows you to print multiple files in multiple windows (with ncurses). It can colorize, filter and merge, check out the [list of features](https://vanheusden.com/multitail/features.php), you can install it via `homebrew`.
+[MultiTail](https://vanheusden.com/multitail/) is like tail but it allows you to print multiple files in multiple windows (with ncurses). It can colorize, filter and merge, check out the [list of features](https://vanheusden.com/multitail/features.html), you can install it via `homebrew`.
 
 
 # diff-so-fancy and delta

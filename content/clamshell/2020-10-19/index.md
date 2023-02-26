@@ -50,7 +50,7 @@ Cloudflare has recently introduced [API Shield](https://blog.cloudflare.com/intr
 
 # Java Exception Handling Examples in Open Source Projects
 
-In "Effective Java", Joshua Bloch wrote 9 tips about how to handle exceptions in Java. These tips have become the de facto standard for Java exception handling. This post lists some examples of Java exception handling in some open source projects and comments the usage by following the 9 tips of exception handling: [Java Exception Handling Examples in Open Source Projects](https://www.programcreek.com/2020/10/java-exception-handling-in-open-source-projects/).
+In "Effective Java", Joshua Bloch wrote 9 tips about how to handle exceptions in Java. These tips have become the de facto standard for Java exception handling. This post lists some examples of Java exception handling in some open source projects and comments the usage by following the 9 tips of exception handling: [Java Exception Handling Examples in Open Source Projects](https://www.programcreek.com/2016/12/java-exception-handling-in-open-source-projects/).
 
 # What is Garbage collection log, Thread dump, Heap dump?
 The JVM generates 3 critical artifacts that are useful for optimizing the performance and troubleshooting production problems. Those artifacts are:

@@ -18,7 +18,7 @@ This post is going to be a little longer so buckle-up, put your helmet on, grab 
 
 # What You Already Have
 
-I think I should have started the [previous post](/posts/terminal-fun-basic-utils/) with these, there are pretty good guides about basic Unix tools, let me show you a couple I ran into recently: [Unix ToolBox](http://cb.vu/unixtoolbox.xhtml) is a collection of commands for advanced users, also available in a nice booklet form. Additionally, I like these tweets about the basics:
+I think I should have started the [previous post](/posts/terminal-fun-basic-utils/) with these, there are pretty good guides about basic Unix tools, let me show you a couple I ran into recently: [Unix ToolBox](http://devdoc.net/linux/UnixToolbox.html) is a collection of commands for advanced users, also available in a nice booklet form. Additionally, I like these tweets about the basics:
 
 {{< tweet user="javarevisited" id="1268091886826213377">}}
 
@@ -125,7 +125,7 @@ export EDITOR='code --wait'
 
 You might have already known [`jq`](https://stedolan.github.io/jq/) but I think it's worth to check [`fx`](https://github.com/antonmedv/fx) too.
 
-![fx-demo](https://camo.githubusercontent.com/b5df8c57792e443a18a56cd9a292b1a101ba2391/68747470733a2f2f6d6564762e696f2f6173736574732f66782e676966)
+![fx-demo](https://camo.githubusercontent.com/4e824edcb650c14e547af75f954be95ff2ed42053f5ec5822e38db224ac121f2/68747470733a2f2f6d6564762e696f2f6173736574732f66782f66782d707265766965772e676966)
 
 # Posts in this series
 

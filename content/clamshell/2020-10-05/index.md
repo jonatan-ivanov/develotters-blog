@@ -30,7 +30,7 @@ tags: ["hacktoberfest", "git", "github", "open source", "Microsoft", "Windows", 
 
 It's [Hacktoberfest](https://hacktoberfest.digitalocean.com/) again but this year [maintainers drown in tsunami of pull-request spam](https://www.theregister.com/2020/10/01/digitalocean_hacktoberfest_pull_request_spam/), one could say it is [hurting Open Source](https://blog.domenic.me/hacktoberfest/). If you want a good laugh or cry (or both), check out the tweets of [@shitoberfest](https://twitter.com/shitoberfest).
 
-If you want to participate (I ecourage you, it's fun), check out the [updated rules](https://hacktoberfest.digitalocean.com/hacktoberfest-update) since the organizers needed to change them because of the enormous amunt of spam.
+If you want to participate (I ecourage you, it's fun), check out the updated rules since the organizers needed to change them because of the enormous amount of spam.
 
 # Oracle Developer Live Java 2020
 

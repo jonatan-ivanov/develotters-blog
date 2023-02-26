@@ -62,7 +62,7 @@ How to systematically secure anything - a repository about security engineering:
 
 # Open Source Security Foundation
 
-The Linux Foundation announced the formation of the Open Source Security Foundation (OpenSSF). Read the press release and learn more here: [Technology and Enterprise Leaders Combine Efforts to Improve Open Source Security](https://www.linuxfoundation.org/press-release/2020/08/technology-and-enterprise-leaders-combine-efforts-to-improve-open-source-security/).
+The Linux Foundation announced the formation of the Open Source Security Foundation (OpenSSF). Read the press release and learn more here: [Technology and Enterprise Leaders Combine Efforts to Improve Open Source Security](https://www.linuxfoundation.org/press/press-release/technology-and-enterprise-leaders-combine-efforts-to-improve-open-source-security).
 See OpenSSF on GitHub: [ossf](https://github.com/ossf) and their official site: [openssf.org](https://openssf.org/)
 
 # rbac.dev

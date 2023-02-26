@@ -45,8 +45,8 @@ Connected to the previos one, an article from Brian Goetz about [Records](https:
 
 An article about the hisory, the current state and the future of project Loom:
 
-- [State of Loom: Part 1](https://cr.openjdk.java.net/~rpressler/loom/loom/sol1_part1.html)
-- [State of Loom: Part 2](https://cr.openjdk.java.net/~rpressler/loom/loom/sol1_part2.html)
+- [State of Loom: Part 1](https://cr.openjdk.org/~rpressler/loom/loom/sol1_part1.html)
+- [State of Loom: Part 2](https://cr.openjdk.org/~rpressler/loom/loom/sol1_part2.html)
 
 # Project Loom: Modern Scalable Concurrency for the Java
 
@@ -67,4 +67,4 @@ Forthcoming update to standard Java, now in the release candidate stage and targ
 
 # Kafka Summit
 
-Discover the world of event streaming on [Kafka Summit 2020](https://events.kafka-summit.org/2020) (August 24 - 25)
+Discover the world of event streaming on [Kafka Summit 2020](https://www.kafka-summit.org/2020/) (August 24 - 25)

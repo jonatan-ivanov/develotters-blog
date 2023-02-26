@@ -49,7 +49,7 @@ Java's `CompletableFuture` is the Swiss Army Knife of concurrency. Join Java Cha
 
 # The Illustrated Children’s Guide to Kubernetes
 
-Dedicated to all the parents who try to explain software engineering to their children: [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/). Also, check out [other formats](https://www.cncf.io/phippy/)
+Dedicated to all the parents who try to explain software engineering to their children: [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/). Also, check out [other formats](https://www.cncf.io/phippy/)
 
 # Better APIs, faster tests and more resilient systems with Spring Cloud Contract
 

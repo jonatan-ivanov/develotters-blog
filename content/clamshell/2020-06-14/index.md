@@ -57,6 +57,6 @@ From space exploration to genomics, from reverse compilers to robotic controller
 - [JEP 357: Migrate from Mercurial to Git](https://openjdk.java.net/jeps/357)
 - [JEP 369: Migrate to GitHub](https://openjdk.java.net/jeps/369)
 
-and now both are proposed to target JDK 16, check out the [latest project updates](https://cr.openjdk.java.net/~rwestberg/skara/skara_status_update_2020_05_07.pdf).
+and now both are proposed to target JDK 16, check out the [latest project updates (archive)](https://web.archive.org/web/20220430105756/https://cr.openjdk.java.net/~rwestberg/skara/skara_status_update_2020_05_07.pdf).
 
 There's also an article on jaxenter if you want to read more: [Java 16: Migration to Git and GitHub gets closer](https://jaxenter.com/java-16-migration-to-git-and-github-jdk-172076.html)

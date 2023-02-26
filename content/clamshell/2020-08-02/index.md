@@ -41,7 +41,7 @@ It will be held on 30th September:
 
 # Chicago Cloud Conference
 
-[Chicago Cloud Conference](https://www.chicagocloudconference.com/) is a two days virtual conference held on 21-22nd September.
+[Chicago Cloud Conference (archive)](https://web.archive.org/web/20220123154100/https://chicagocloudconference.com/) is a two days virtual conference held on 21-22nd September.
 
 # An overview of healthcheck patterns
 
@@ -59,7 +59,7 @@ CS310, Data Structures in Java at San Diego State University
 
 # Web Development Resources
 
-[Awesome Developer Resources](https://nelsonmichael.dev/awesome-developer-resources-ckcrin0gg00khpms1gbue38dz)
+[Awesome Developer Resources (archive)](https://web.archive.org/web/20210218204246/https://nelsonmichael.dev/awesome-developer-resources?guid=none&deviceId=83d61fa8-7113-4d2a-965c-a35f89f87b3d)
 
 # Design Gems
 

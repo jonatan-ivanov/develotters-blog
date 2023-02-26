@@ -34,7 +34,7 @@ tags: ["Java", "JDK", "Devnexus", "CTO", "security"]
 They ask for contact details but they will not verify if your email address is fake or not.
 
 # JDK 17 Early-Access Builds
-[Latest Build](https://jdk.java.net/17/), [Release Notes](https://jdk.java.net/17/release-notes).
+[Latest Build](https://jdk.java.net/17/), [Release Notes (archive)](https://web.archive.org/web/20220322152832/https://jdk.java.net/17/release-notes).
 
 # JEP draft: Frozen Arrays
 [JEP draft: Frozen Arrays](https://openjdk.java.net/jeps/8261007) introduces a new variation within the built-in Java array types, which is unmodifiable (shallowly immutable).  

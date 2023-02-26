@@ -79,7 +79,7 @@ A vulnerability scanner to check out what ports are open: [scan.nmap.me](http://
 
 >I Don't Always Test My Code But When I Do I Production
 
-[asserted.io](https://asserted.io/) hepls you writing uptime tests in Mocha (JavaScript)
+[asserted.io](https://docs.asserted.io/) helps you writing uptime tests in Mocha (JavaScript)
 
 # Mob Programming
 

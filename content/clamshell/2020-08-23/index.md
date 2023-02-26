@@ -54,7 +54,7 @@ Join this 30-minute on-demand webcast to:
 - Learn about many of the Java ecosystem improvements
 - Understand how to participate in and shape the future of Java
 
-[Java 15 - Innovating for modern application development](https://www.oracle.com/a/ocom/docs/dc/em/sev400074011-ww-ww-olwodoo-rwwe2-ie1a-ev.html)
+[Java 15 - Innovating for modern application development](https://go.oracle.com/LP=96777)
 
 # Researchers Exploited A Bug in Emotet to Stop the Spread of Malware
 

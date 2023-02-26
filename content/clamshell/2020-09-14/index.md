@@ -97,7 +97,7 @@ Just click through what you need (Deployment, StatefulSet, DaemonSet) and the [O
 
 # Design Bonos
 
-Directory of free resources for creatives: [designbonos.com](https://designbonos.com/)
+Directory of free resources for creatives: designbonos.com (not available anymore)
 
 # Elastic Metaspace proposed to target JDK 16
 

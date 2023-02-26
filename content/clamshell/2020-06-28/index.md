@@ -43,7 +43,7 @@ Check out the article: [IntelliJ IDEA 2020.2 EAP 5: Java 15, Related Problems, I
 
 
 # Background: how we got the generics we have
-Or, how Brian Goetz learned to stop worrying and love erasure: [How we got the generics we have by Brian Goetz](https://cr.openjdk.java.net/~briangoetz/valhalla/erasure.html)
+Or, how Brian Goetz learned to stop worrying and love erasure: [How we got the generics we have by Brian Goetz](https://cr.openjdk.org/~briangoetz/valhalla/erasure.html)
 
 # OracleJDK? OpenJDK?, Zulu? Corretto?
 

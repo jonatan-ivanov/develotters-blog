@@ -82,4 +82,4 @@ Studies about Code Quality: [In the Search of Code Quality](https://www.infoq.co
 
 # jLove
 
-Free conference for Java developers (4-5th December): [javaconf.love](https://javaconf.love/)
+Free conference for Java developers (4-5th December): [javaconf.love (archive)](https://web.archive.org/web/20201118231232/https://javaconf.love/)

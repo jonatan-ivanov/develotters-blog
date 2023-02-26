@@ -23,7 +23,7 @@ tags: ["Java", "JDK", "OpenJDK", "SQL", "DB", "git", "GitHub", "security"]
 
 # Java 16 is now available!
 Download now: [jdk.java.net/16](https://jdk.java.net/16)
-Release notes: [jdk.java.net/16/release-notes](https://jdk.java.net/16/release-notes)
+Release notes: [jdk.java.net/16/release-notes (archive)](https://web.archive.org/web/20211019122011/https://jdk.java.net/16/release-notes)
 [JDK 16 Documentation](https://docs.oracle.com/en/java/javase/16/index.html)
 
 # Java Recognized as the Favorite Programming Language
