@@ -10,6 +10,9 @@
       "pattern": "^https://blogs.oracle.com"
     },
     {
+      "pattern": "^http://www.carfey.com"
+    },
+    {
       "pattern": "^https://www.cloudflare.com"
     },
     {
