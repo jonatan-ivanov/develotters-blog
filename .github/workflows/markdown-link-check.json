@@ -7,6 +7,9 @@
       "pattern": "^https://www.baeldung.com"
     },
     {
+      "pattern": "^https://blogs.oracle.com"
+    },
+    {
       "pattern": "^https://www.cloudflare.com"
     },
     {
