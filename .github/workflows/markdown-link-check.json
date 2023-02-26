@@ -1,0 +1,39 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^http://localhost"
+    },
+    {
+      "pattern": "^https://www.baeldung.com"
+    },
+    {
+      "pattern": "^https://www.cloudflare.com"
+    },
+    {
+      "pattern": "^https://pages.jetbrains.com"
+    },
+    {
+      "pattern": "^https://www.linkedin.com"
+    },
+    {
+      "pattern": "^https://micrometer.io"
+    }
+  ],
+  "replacementPatterns": [
+    {
+      "pattern": "^/",
+      "replacement": "https://develotters.com/"
+    }
+  ],
+  "httpHeaders": [
+    {
+      "urls": [
+        "https://github.com",
+        "https://develotters.com"
+      ],
+      "headers": {
+        "Accept-Encoding": "zstd, br, gzip, deflate"
+      }
+    }
+  ]
+}
