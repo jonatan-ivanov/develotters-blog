@@ -44,3 +44,4 @@ customCSS = ["style.css"] # Include custom CSS files
   title = "Mastodon"
   url = "https://mastodon.social/@jonatan_ivanov"
   icon = "mastodon.svg"
+  rel = "noopener noreferrer me"
