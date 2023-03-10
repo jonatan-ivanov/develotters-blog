@@ -57,7 +57,7 @@ A security researcher has demonstrated that sensitive data could be exfiltrated 
 [bettercap](https://www.bettercap.org/intro/) is a powerful, easily extensible and portable framework written in Go which aims to offer to security researchers, red teamers and reverse engineers an easy to use, all-in-one solution with all the features they might possibly need for performing reconnaissance and attacking WiFi networks, Bluetooth Low Energy devices, wireless HID devices and Ethernet networks.
 
 # tmpsms
-[tmpsms](https://github.com/sdushantha/tmpsms) is a command line utility written in POSIX `sh` that allows you to get a temporary phone number and receive SMSes. It uses [Upmasked](https://upmasked.com/) temporary SMS service in order to receive the messages. This is a very useful tool for those testing applications during bug bounty hunting or who just need some privacy and don't want to use a personal phone number. This is easy to use with simple outputs. tmpsms can be integrated with other scripts to improve your workflow.
+[tmpsms](https://github.com/sdushantha/tmpsms) is a command line utility written in POSIX `sh` that allows you to get a temporary phone number and receive SMSes. It uses [Upmasked(archive)](https://web.archive.org/web/20210222035242/https://upmasked.com/) temporary SMS service in order to receive the messages. This is a very useful tool for those testing applications during bug bounty hunting or who just need some privacy and don't want to use a personal phone number. This is easy to use with simple outputs. tmpsms can be integrated with other scripts to improve your workflow.
 
 # Naming Cheatsheet
 Naming things is hard. [This cheatsheet](https://github.com/kettanaito/naming-cheatsheet) attempts to make it easier.
