@@ -26,9 +26,9 @@ Including The Best of the JDK Face-Off, Java Magazine 2020 May, Free eBooks from
 >- Runtime
 >You’ll have the opportunity to cast your vote via a Twitter poll that will run 24 hours for each posted matchup. Each progressive day will offer a new matchup until there are only two finalists to face off against each other. This competition will run socially over @Java through the next several weeks until there’s one feature left standing!
 
-# JCoice
+# JChoice
 
-Choose an OpenJDK distribution: [http://www.jchoice.eu/](http://www.jchoice.eu/)
+Choose an OpenJDK distribution: [http://www.jchoice.eu/ (archive)](https://web.archive.org/web/20220704142521/http://jchoice.eu/)
 
 # Java Magazine 2020 May
 

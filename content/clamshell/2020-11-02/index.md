@@ -41,7 +41,7 @@ See email thread: [Proposed schedule for JDK 16](https://mail.openjdk.java.net/p
 
 # Best IDEs in Java for App Development
 
-This post talks about what is an IDE, why to use one, and some of the best Java IDEs to choose from: [Best IDEs in Java for App Development 2020](https://dzone.com/articles/best-ides-in-java-for-app-development-2020).
+This post talks about what is an IDE, why to use one, and some of the best Java IDEs to choose from: [Best IDEs in Java for App Development 2020 (archive)](https://web.archive.org/web/20201123165830/https://dzone.com/articles/best-ides-in-java-for-app-development-2020).
 
 # Java Futures with Brian Goetz
 
