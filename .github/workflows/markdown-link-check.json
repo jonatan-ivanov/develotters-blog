@@ -29,6 +29,9 @@
     },
     {
       "pattern": "^https://www.kafka-summit.org"
+    },
+    {
+      "pattern": "^https://azure.microsoft.com"
     }
   ],
   "replacementPatterns": [
