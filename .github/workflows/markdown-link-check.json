@@ -23,6 +23,12 @@
     },
     {
       "pattern": "^https://micrometer.io"
+    },
+    {
+      "pattern": "^https://duc.zevv.nl"
+    },
+    {
+      "pattern": "^https://www.kafka-summit.org"
     }
   ],
   "replacementPatterns": [
