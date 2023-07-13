@@ -95,4 +95,4 @@ A vulnerability scanner to check out what ports are open: [scan.nmap.me](http://
 >
 >There are also some rare publications with a more sober look at microservices. This article is my attempt to amplify this voice of wisdom.
 
-[Don't Do Microservices If You Can on DZone](https://dzone.com/articles/dont-do-microservices-if-you-can)
+[Don't Do Microservices If You Can on DZone](https://web.archive.org/web/20220925030701/https://dzone.com/articles/dont-do-microservices-if-you-can)
