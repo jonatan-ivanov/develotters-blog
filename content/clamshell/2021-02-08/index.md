@@ -51,7 +51,7 @@ Check out the [announcement](https://github.blog/2020-12-08-new-from-universe-20
 A security researcher has demonstrated that sensitive data could be exfiltrated from air-gapped computers via a novel technique that leverages Wi-Fi signals as a covert channel—surprisingly, without requiring the presence of Wi-Fi hardware on the targeted systems: [Exfiltrating Data from Air-Gapped Computers via Wi-Fi Signals (Without Wi-Fi Hardware)](https://thehackernews.com/2020/12/exfiltrating-data-from-air-gapped.html)
 
 # Electronic CS textbooks
-[Colin S. Gordon's list](https://csgordon.github.io/books.html) is a loosely-categorized collection of links to CS textbooks in a variety of areas that are freely available online.
+[Colin S. Gordon's list (archive)](https://web.archive.org/web/20230519162111/https://csgordon.github.io/books.html) is a loosely-categorized collection of links to CS textbooks in a variety of areas that are freely available online.
 
 # bettercap
 [bettercap](https://www.bettercap.org/intro/) is a powerful, easily extensible and portable framework written in Go which aims to offer to security researchers, red teamers and reverse engineers an easy to use, all-in-one solution with all the features they might possibly need for performing reconnaissance and attacking WiFi networks, Bluetooth Low Energy devices, wireless HID devices and Ethernet networks.
