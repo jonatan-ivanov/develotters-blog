@@ -61,7 +61,7 @@ As the market capitalization of crypto currencies grows, it's becoming profitabl
 See the whole [YouTube playlist](https://www.youtube.com/playlist?list=PL6ed-L7Ni0yRnaN8-l2wfA0u3ILmyJMkz).
 
 # Fig
-[Fig](https://withfig.com/) adds VSCode-style autocomplete to your existing Terminal.
+[Fig](https://fig.io/) adds VSCode-style autocomplete to your existing Terminal.
 
 # Starship
 [Starship](https://starship.rs/) minimal, fast, and customizable cross-shell prompt.
