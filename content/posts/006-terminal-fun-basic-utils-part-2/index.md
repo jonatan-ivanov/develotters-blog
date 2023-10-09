@@ -123,7 +123,7 @@ export EDITOR='code --wait'
 
 # JSON
 
-You might have already known [`jq`](https://stedolan.github.io/jq/) but I think it's worth to check [`fx`](https://github.com/antonmedv/fx) too.
+You might have already known [`jq`](https://stedolan.github.io/jq/) but I think it's worth to check [`fx`](https://fx.wtf/) too.
 
 ![fx-demo](https://camo.githubusercontent.com/4e824edcb650c14e547af75f954be95ff2ed42053f5ec5822e38db224ac121f2/68747470733a2f2f6d6564762e696f2f6173736574732f66782f66782d707265766965772e676966)
 
