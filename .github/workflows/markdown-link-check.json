@@ -32,6 +32,9 @@
     },
     {
       "pattern": "^https://azure.microsoft.com"
+    },
+    {
+      "pattern": "^https://dl.acm.org"
     }
   ],
   "replacementPatterns": [
