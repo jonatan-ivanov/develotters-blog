@@ -16,7 +16,7 @@ tags: []
 
 | Date           | Event                            | Location                        | Talk                                                                              | Links |
 |----------------|----------------------------------|---------------------------------|-----------------------------------------------------------------------------------|-------|
-|   2023-11-06   | VMware Explore BCN               | Barcelona,<br>Spain             | How to Be an<br>Open Source Rock Star<br>(Or at Least a Local Celebrity)          | TBD   |
+|   2023-11-06   | VMware Explore BCN               | Barcelona,<br>Spain             | How to Be an<br>Open Source Rock Star<br>(Or at Least a Local Celebrity)          | [Event](https://event.vmware.com/flow/vmware/explore2023bcn/content/page/catalog?search=%22Jonatan%20Ivanov%22&tab.contentcatalogtabs=1627421929827001vRXW) |
 | ~~2023-11-02~~ | ~~SpringOne Tour Tel Aviv~~      | ~~Tel Aviv,<br>Israel~~         | ~~Application Observability<br>with Micrometer and Spring~~                       | [~~Event~~](https://connect.tanzu.vmware.com/EMEA_P7_DG_FE_Q424_Event_S1TourTelAviv_TanzuLP-AltS1TBanner.html) |
 |   2023-10-17   | SpringOne Tour Virtual           | Online                          | Observability for Modern<br>Spring Applications                                   | [Event](https://springonetour.io/sessions/observability-for-modern-spring-applications) |
 |   2023-08-24   | SpringOne                        | Las Vegas,<br>NV, USA           | Application Observability<br>with the Micrometer<br>and Spring Observability Team | [Event](https://springone.io/sessions/application-observability-with-the-micrometer-and-spring-observability-team) |
