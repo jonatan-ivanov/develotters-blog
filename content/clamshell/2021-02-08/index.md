@@ -32,7 +32,7 @@ tags: ["Java", "OpenJDK", "GitHub", "monitoring", "books", "security", "Wasm"]
 [A collection of predictions about Java in 2021](https://marxsoftware.blogspot.com/2020/12/java-predictions-for-2021-on-foojay.html) from members of the Java community.
 
 # JVM JIT 101
-JIT compilation and HotSpot are with no doubt some very complex topics. [JVM JIT 101](https://dzone.com/articles/jvm-jit-101) is a short article touching on JIT.
+JIT compilation and HotSpot are with no doubt some very complex topics. [JVM JIT 101](https://web.archive.org/web/20210227194154/https://dzone.com/articles/jvm-jit-101) is a short article touching on JIT.
 
 # News from GitHub Universe
 - GitHub Sponsors for companies
