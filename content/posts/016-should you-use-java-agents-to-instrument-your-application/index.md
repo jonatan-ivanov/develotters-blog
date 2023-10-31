@@ -41,7 +41,7 @@ This is the consequence of the above: agents using reflection and modifying the 
 
 Here's one example from Spring Boot: [HTTP Method overridden with the 3 first letters of the first cookie (#33921)](https://github.com/spring-projects/spring-boot/issues/33921). I highly recommend reading this, you might find it funny but I doubt the person who needed to troubleshoot this did. In a nutshell, the agent somehow replaced the HTTP method in the request with the first 3 characters of the first cookie. In this case: `GET` -> `hDz`. 🤷
 
-If you check the comments on the issue or other issues like [#33735](https://github.com/spring-projects/spring-boot/issues/33735) or [#33974](https://github.com/spring-projects/spring-boot/issues/33974), you will see that lots of people have issues with agents like Datadog, Microsoft Azure Monitor/Application Insights, or OpenTelemetry (this list is probably much broader).
+If you check the comments on the issue or other issues like [#33735](https://github.com/spring-projects/spring-boot/issues/33735), [#33974](https://github.com/spring-projects/spring-boot/issues/33974), or [#31528](https://github.com/spring-projects/spring-framework/issues/31528), you will see that lots of people have issues with agents like Datadog, Microsoft Azure Monitor/Application Insights, or OpenTelemetry (this list is probably much broader).
 
 ## What should I do then?
 *Disclaimer: I'm a member of the Spring OSS Engineering team and I work on [Micrometer](https://micrometer.io/) and [Spring Cloud Sleuth](https://spring.io/projects/spring-cloud-sleuth).*
