@@ -56,7 +56,8 @@
     {
       "urls": [ "https://twitter.com" ],
       "headers": {
-        "cookie": "guest_id_marketing=v1%123456789012345678; guest_id_ads=v1%123456789012345678; personalization_id=\"v1_aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1kUXc0dzlXZ1hjUQ==\"; guest_id=v1%123456789012345678"
+        "x-guest-token": "1110004443330000222",
+        "User-Agent": "Mozilla/5.0 (Linux) Chrome/100.0.0.0"
       }
     }
   ]
