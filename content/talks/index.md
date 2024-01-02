@@ -16,6 +16,8 @@ tags: []
 
 | Date           | Event                            | Location                        | Talk                                                                              | Links |
 |----------------|----------------------------------|---------------------------------|-----------------------------------------------------------------------------------|-------|
+|   2024-02-23   | ConFoo                           | Montreal,<br>Canada             | Observability for Modern<br>JVM Applications                                         | [Event](https://confoo.ca/en/2024/session/observability-for-modern-jvm-applications) |
+|   2024-01-09   | Epam Observability Event         | Szeged,<br>Hungary              | Observability and Spring Boot 3                                                   | - |
 |   2023-11-06   | VMware Explore BCN               | Barcelona,<br>Spain             | How to Be an<br>Open Source Rock Star<br>(Or at Least a Local Celebrity)          | [Event](https://event.vmware.com/flow/vmware/explore2023bcn/content/page/catalog?search=%22Jonatan%20Ivanov%22&tab.contentcatalogtabs=1627421929827001vRXW) |
 | ~~2023-11-02~~ | ~~SpringOne Tour Tel Aviv~~      | ~~Tel Aviv,<br>Israel~~         | ~~Application Observability<br>with Micrometer and Spring~~                       | [~~Event~~](https://connect.tanzu.vmware.com/EMEA_P7_DG_FE_Q424_Event_S1TourTelAviv_TanzuLP-AltS1TBanner.html) |
 |   2023-10-17   | SpringOne Tour Virtual           | Online                          | Observability for Modern<br>Spring Applications                                   | [Event](https://springonetour.io/sessions/observability-for-modern-spring-applications) |
