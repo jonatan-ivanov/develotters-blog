@@ -38,6 +38,12 @@
     },
     {
       "pattern": "^https://www.raspberrypi.org"
+    },
+    {
+      "pattern": "^https://insights.stackoverflow.com"
+    },
+    {
+      "pattern": "^https://theoverlap.substack.com"
     }
   ],
   "replacementPatterns": [
