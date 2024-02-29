@@ -49,7 +49,7 @@ I think I should have started the [previous post](/posts/terminal-fun-basic-util
 
 `peco` is a simple interactive filtering tool, check out its [readme](https://github.com/peco/peco).
 
-![peco-demo](https://camo.githubusercontent.com/1523226c8977248f270ab4c4feff9f943c283bd5/687474703a2f2f7065636f2e6769746875622e696f2f696d616765732f7065636f2d64656d6f2d66696c656e616d652e676966)
+![peco-demo](https://camo.githubusercontent.com/e89d3654d5bbe9dafd54d6b273d7780ffc711533c2497e5d364dd250a8de6326/687474703a2f2f7065636f2e6769746875622e696f2f696d616765732f7065636f2d64656d6f2d70732e676966)
 
 If you were missing FZF from this list, there will be a separate post for it. :)
 
@@ -61,7 +61,7 @@ You might be familiar with `mc` ([Midnight Commander](https://www.midnight-comma
 
 `nnn` is a terminal file manager; it's small, simple and offers great performance, check out the features in the [readme](https://github.com/jarun/nnn)
 
-![nnn-demo](https://camo.githubusercontent.com/d7abd98b23e90b9b4c295e2b15b7150b53cdd5a0/68747470733a2f2f692e696d6775722e636f6d2f4d5057706d6f732e706e67)
+![nnn-demo](https://i.imgur.com/kOld6HT.gif)
 
 {{< youtube U2n5aGqou9E >}}
 <br>
@@ -125,7 +125,7 @@ export EDITOR='code --wait'
 
 You might have already known [`jq`](https://stedolan.github.io/jq/) but I think it's worth to check [`fx`](https://fx.wtf/) too.
 
-![fx-demo](https://camo.githubusercontent.com/4e824edcb650c14e547af75f954be95ff2ed42053f5ec5822e38db224ac121f2/68747470733a2f2f6d6564762e696f2f6173736574732f66782f66782d707265766965772e676966)
+![fx-demo](https://github.com/antonmedv/fx/raw/master/.github/images/preview.gif)
 
 # Posts in this series
 
