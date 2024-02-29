@@ -35,6 +35,9 @@
     },
     {
       "pattern": "^https://dl.acm.org"
+    },
+    {
+      "pattern": "^https://www.raspberrypi.org"
     }
   ],
   "replacementPatterns": [
