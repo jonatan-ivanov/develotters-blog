@@ -9,8 +9,6 @@ enableRobotsTXT = true
 enableEmoji = true
 enableGitInfo = true
 enableInlineShortcodes = true
-disqusShortname = "develotters"
-googleAnalytics = "G-HHVCZ9S2W5"
 
 [permalinks]
   posts = "/:section/:slug/"
@@ -39,3 +37,8 @@ googleAnalytics = "G-HHVCZ9S2W5"
   name = "Jonatan Ivanov"
   bio = "I'm a Software Engineer working int the [Spring Engineering Team](https://spring.io/team), [see more](/about)"
   avatar = "img/avatar.jpg"
+
+[services.disqus]
+  shortname = "develotters"
+[services.googleAnalytics]
+  ID = "G-HHVCZ9S2W5"

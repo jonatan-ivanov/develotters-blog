@@ -1,4 +1,3 @@
-subtitle = "A tech blog for develotters by develotters"
 description = "A tech blog for develotters by develotters"
 images = ["img/develOtter-1200x628.png", "img/develOtter.png"]
 copyright = "Jonatan Ivanov"
@@ -24,6 +23,7 @@ customCSS = ["style.css"] # Include custom CSS files
 
 [logo]
   image = "img/develOtter.png"
+  subtitle = "A tech blog for develotters by develotters"
 
 [sidebar]
   home = "right"
