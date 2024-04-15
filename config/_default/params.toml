@@ -18,6 +18,9 @@ dateformat = "2006-01-02"
 customCSS = ["style.css"] # Include custom CSS files
 # customJS = ["js/custom.js"] # Include custom JS files
 
+[author]
+  name = "Jonatan Ivanov"
+
 [style.vars]
   highlightColor = "#80151a"
 

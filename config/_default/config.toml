@@ -1,6 +1,5 @@
 baseurl = "https://develotters.com/"
 title = "DevelOtters.com"
-author = "Jonatan Ivanov"
 languageCode = "en-us"
 theme = "mainroad"
 
