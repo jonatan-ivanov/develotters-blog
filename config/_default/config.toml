@@ -34,7 +34,7 @@ enableInlineShortcodes = true
 
 [Author]
   name = "Jonatan Ivanov"
-  bio = "I'm a Software Engineer working int the [Spring Engineering Team](https://spring.io/team), [see more](/about)"
+  bio = "I'm a Software Engineer working in the [Spring Engineering Team](https://spring.io/team), [see more](/about)"
   avatar = "img/avatar.jpg"
 
 [services.disqus]
