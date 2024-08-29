@@ -46,7 +46,7 @@ This article, looks at how distributed applications can be used, which architect
 
 # Project Loom Early Access builds are available
 
-See the original [announcement](https://mail.openjdk.java.net/pipermail/loom-dev/2020-June/001436.html) and the [Project Wiki](https://wiki.openjdk.java.net/display/loom/Main) if you want to know more about [Project Loom](https://jdk.java.net/loom/)
+See the original [announcement](https://mail.openjdk.org/pipermail/loom-dev/2020-June/001436.html) and the [Project Wiki](https://wiki.openjdk.org/display/loom/Main) if you want to know more about [Project Loom](https://jdk.java.net/loom/)
 
 # How Did Vim Become So Popular?
 

@@ -27,11 +27,11 @@ tags: ["Java", "OpenJDK", "git", "GitHub", "records", "Project Loom", "RSocket",
 
 # OpenJDK is moving to GitHub
 
-[As I mentioned earlier](../2020-06-14/#javas-migration-to-github), OpenJDK is moving to GitHub, now the exact target date for the transition of the `jdk/jdk` repository is [set to Saturday September 5, 2020](https://mail.openjdk.java.net/pipermail/jdk-dev/2020-August/004588.html). Here you can find the repo on GitHub: [openjdk/jdk](https://github.com/openjdk/jdk) and here is the project page: [Skara](https://wiki.openjdk.java.net/display/SKARA/Skara).
+[As I mentioned earlier](../2020-06-14/#javas-migration-to-github), OpenJDK is moving to GitHub, now the exact target date for the transition of the `jdk/jdk` repository is [set to Saturday September 5, 2020](https://mail.openjdk.org/pipermail/jdk-dev/2020-August/004588.html). Here you can find the repo on GitHub: [openjdk/jdk](https://github.com/openjdk/jdk) and here is the project page: [Skara](https://wiki.openjdk.org/display/SKARA/Skara).
 
 # A peek at the roadmap for pattern matching and more
 
-Brian Goetz sketched out a rough roadmap for pattern matching, [see it on the Amber Expert Group mailing list](https://mail.openjdk.java.net/pipermail/amber-spec-experts/2020-August/002318.html).
+Brian Goetz sketched out a rough roadmap for pattern matching, [see it on the Amber Expert Group mailing list](https://mail.openjdk.org/pipermail/amber-spec-experts/2020-August/002318.html).
 
 # Serializable Records
 

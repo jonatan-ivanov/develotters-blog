@@ -44,7 +44,7 @@ Hidden classes, sealed classes, text blocks, records, and EdDSA: There’s lots 
 
 # Finalizing in JDK 16: Pattern matching for instanceof
 
-In JDK 16, [pattern matching for instanceof](https://mail.openjdk.java.net/pipermail/amber-spec-experts/2020-August/002433.html) is planned to be finalized.
+In JDK 16, [pattern matching for instanceof](https://mail.openjdk.org/pipermail/amber-spec-experts/2020-August/002433.html) is planned to be finalized.
 
 # Creating Efficient Docker Images with Spring Boot 2.3
 

@@ -37,7 +37,7 @@ They ask for contact details but they will not verify if your email address is f
 [Latest Build](https://jdk.java.net/17/), [Release Notes (archive)](https://web.archive.org/web/20220322152832/https://jdk.java.net/17/release-notes).
 
 # JEP draft: Frozen Arrays
-[JEP draft: Frozen Arrays](https://openjdk.java.net/jeps/8261007) introduces a new variation within the built-in Java array types, which is unmodifiable (shallowly immutable).  
+[JEP draft: Frozen Arrays](https://openjdk.org/jeps/8261007) introduces a new variation within the built-in Java array types, which is unmodifiable (shallowly immutable).  
 Frozen arrays can be safely shared without coordination or risk of unexpected modification. Freezing is a more efficient alternative to defensive copying, in that the copy can frequently be optimized away by the runtime.
 
 # Deciphering the stack trace in JVM crash logs

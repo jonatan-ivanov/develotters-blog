@@ -42,7 +42,7 @@ Here's the official announcement: [AdoptOpenJDK to join the Eclipse Foundation](
 
 # JDK 15 is now in Rampdown Phase One
 
-JDK 15 has been forked from the main line and is now [it is in Rampdown Phase One](https://mail.openjdk.java.net/pipermail/jdk-dev/2020-June/004401.html)
+JDK 15 has been forked from the main line and is now [it is in Rampdown Phase One](https://mail.openjdk.org/pipermail/jdk-dev/2020-June/004401.html)
 
 # A history of the Groovy programming language
 

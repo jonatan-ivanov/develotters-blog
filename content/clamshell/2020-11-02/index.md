@@ -29,15 +29,15 @@ tags: ["Java", "JDK", "IDE", "HashiCorp", "Quality", "Security", "vi", "git"]
 
 # Proposed schedule for JDK 16
 
-See email thread: [Proposed schedule for JDK 16](https://mail.openjdk.java.net/pipermail/jdk-dev/2020-October/004862.html)
+See email thread: [Proposed schedule for JDK 16](https://mail.openjdk.org/pipermail/jdk-dev/2020-October/004862.html)
 
 # JEPs proposed to target JDK 16
 
-- [380: Unix-Domain Socket Channels](https://mail.openjdk.java.net/pipermail/jdk-dev/2020-October/004869.html)
-- [392: Packaging Tool](https://mail.openjdk.java.net/pipermail/jdk-dev/2020-October/004872.html)
-- [393: Foreign-Memory Access API](https://mail.openjdk.java.net/pipermail/jdk-dev/2020-October/004874.html)
-- [394: Pattern Matching for instanceof](https://mail.openjdk.java.net/pipermail/jdk-dev/2020-October/004877.html)
-- [395: Records](https://mail.openjdk.java.net/pipermail/jdk-dev/2020-October/004870.html)
+- [380: Unix-Domain Socket Channels](https://mail.openjdk.org/pipermail/jdk-dev/2020-October/004869.html)
+- [392: Packaging Tool](https://mail.openjdk.org/pipermail/jdk-dev/2020-October/004872.html)
+- [393: Foreign-Memory Access API](https://mail.openjdk.org/pipermail/jdk-dev/2020-October/004874.html)
+- [394: Pattern Matching for instanceof](https://mail.openjdk.org/pipermail/jdk-dev/2020-October/004877.html)
+- [395: Records](https://mail.openjdk.org/pipermail/jdk-dev/2020-October/004870.html)
 
 # Best IDEs in Java for App Development
 

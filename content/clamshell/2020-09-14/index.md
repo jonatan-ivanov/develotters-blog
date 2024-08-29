@@ -31,7 +31,7 @@ tags: ["Java", "JDK", "OpenJDK", "lazy", "Functional Programming", "OOP", "JetBr
 
 # Java 15 GA Release
 
-Java 15 General Availability Release will go out in 2020-09-15: [JDK 15](https://openjdk.java.net/projects/jdk/15/).  
+Java 15 General Availability Release will go out in 2020-09-15: [JDK 15](https://openjdk.org/projects/jdk/15/).  
 [Check out the new features in Java 15](https://www.infoworld.com/article/3534133/jdk-15-the-new-features-in-java-15.html).
 
 # NYJavaSIG 25th Anniversary Event
@@ -76,7 +76,7 @@ foojay’s key features:
 
 # Vector API is proposed to target JDK 16
 
-The goal of the [Vector API](https://openjdk.java.net/jeps/338) is expressing vector computations that reliably compile at runtime to optimal vector hardware instructions on supported CPU architectures and thus achieve superior performance to equivalent scalar computations. This API is [targeted to JDK 16](https://mail.openjdk.java.net/pipermail/jdk-dev/2020-August/004646.html).
+The goal of the [Vector API](https://openjdk.org/jeps/338) is expressing vector computations that reliably compile at runtime to optimal vector hardware instructions on supported CPU architectures and thus achieve superior performance to equivalent scalar computations. This API is [targeted to JDK 16](https://mail.openjdk.org/pipermail/jdk-dev/2020-August/004646.html).
 
 # Developing Micronaut Applications With IntelliJ IDEA
 
@@ -101,7 +101,7 @@ Directory of free resources for creatives: designbonos.com (not available anymor
 
 # Elastic Metaspace proposed to target JDK 16
 
-[JEP 387: Elastic Metaspace proposed to target JDK 16](https://mail.openjdk.java.net/pipermail/jdk-dev/2020-September/004726.html)
+[JEP 387: Elastic Metaspace proposed to target JDK 16](https://mail.openjdk.org/pipermail/jdk-dev/2020-September/004726.html)
 
 # JDK 15 G1/Parallel GC changes
 

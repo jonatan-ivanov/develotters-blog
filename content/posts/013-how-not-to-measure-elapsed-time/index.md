@@ -83,7 +83,7 @@ Response handleRequest(Request request) {
 ```
 Doing this can be ok but this is the point where that rabbit hole goes infinitely deep so I do not recommend doing this if you want to measure latency. There are lots of other problems you can run into (see later) so what I recommend instead is using the right tool for the job:
 
-- If you are doing (nano/micro/milli/macro) benchmarking: [JMH](https://openjdk.java.net/projects/code-tools/jmh/)
+- If you are doing (nano/micro/milli/macro) benchmarking: [JMH](https://openjdk.org/projects/code-tools/jmh/)
 - If you want to collect metrics for your application: [Micrometer](https://micrometer.io/)
 - If you want to perf-test your web service: [Gatling](https://gatling.io/open-source/)
 

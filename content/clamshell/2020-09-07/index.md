@@ -32,7 +32,7 @@ tags: ["OpenJDK", "JDK", "Java", "Spring", "GitHub", "Docker", "JetBrains", "Fon
 
 # OpenJDK was transitioned to GitHub
 
-It is available at [openjdk/jdk](https://github.com/openjdk/jdk). Check the announcement: [jdk/jdk repository transition to Git, GitHub and Skara is done](https://mail.openjdk.java.net/pipermail/jdk-dev/2020-September/004694.html)
+It is available at [openjdk/jdk](https://github.com/openjdk/jdk). Check the announcement: [jdk/jdk repository transition to Git, GitHub and Skara is done](https://mail.openjdk.org/pipermail/jdk-dev/2020-September/004694.html)
 
 # Spring One highlights are online
 

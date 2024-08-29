@@ -53,10 +53,10 @@ From space exploration to genomics, from reverse compilers to robotic controller
 
 # Java's Migration to GitHub
 
-[Project Skara](https://openjdk.java.net/projects/skara/)(see: [wiki](https://wiki.openjdk.java.net/display/SKARA)) was created to investigate alternative SCM and code review options for the JDK source code, including options based upon Git rather than Mercurial. Two connected JEPs were also created:
-- [JEP 357: Migrate from Mercurial to Git](https://openjdk.java.net/jeps/357)
-- [JEP 369: Migrate to GitHub](https://openjdk.java.net/jeps/369)
+[Project Skara](https://openjdk.org/projects/skara/)(see: [wiki](https://wiki.openjdk.org/display/SKARA)) was created to investigate alternative SCM and code review options for the JDK source code, including options based upon Git rather than Mercurial. Two connected JEPs were also created:
+- [JEP 357: Migrate from Mercurial to Git](https://openjdk.org/jeps/357)
+- [JEP 369: Migrate to GitHub](https://openjdk.org/jeps/369)
 
-and now both are proposed to target JDK 16, check out the [latest project updates (archive)](https://web.archive.org/web/20220430105756/https://cr.openjdk.java.net/~rwestberg/skara/skara_status_update_2020_05_07.pdf).
+and now both are proposed to target JDK 16, check out the [latest project updates (archive)](https://web.archive.org/web/20220430105756/https://cr.openjdk.org/~rwestberg/skara/skara_status_update_2020_05_07.pdf).
 
 There's also an article on jaxenter if you want to read more: [Java 16: Migration to Git and GitHub gets closer](https://jaxenter.com/java-16-migration-to-git-and-github-jdk-172076.html)

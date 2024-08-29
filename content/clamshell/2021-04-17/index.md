@@ -27,7 +27,7 @@ tags: ["Java", "JDK", "Gradle", "Git", "security", "GraalVM", "cognitive biases"
 <!--more-->
 
 # Proposed schedule for JDK 17
-Mark Reinhold proposed the [release schedule](https://mail.openjdk.java.net/pipermail/jdk-dev/2021-March/005266.html) for JDK 17.
+Mark Reinhold proposed the [release schedule](https://mail.openjdk.org/pipermail/jdk-dev/2021-March/005266.html) for JDK 17.
 
 # Gradle 7.0
 [Gradle 7.0](https://docs.gradle.org/7.0/release-notes.html) was released with a ton of new features/improvements/fixes and maybe most importantly: Java 16 support.
