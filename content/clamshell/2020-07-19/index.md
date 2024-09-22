@@ -26,7 +26,7 @@ tags: ["twitter", "hack", "security", "stack overflow", "terminal", "CLI", "Java
 
 # The Story of the Twitter Attack
 
-Several people involved in the events that took down Twitter this week spoke with The Times, giving the first account of what happened as a pursuit of Bitcoin spun out of control: [Hackers Tell the Story of the Twitter Attack From the Inside](https://www.nytimes.com/2020/07/17/technology/twitter-hackers-interview.html)
+Several people involved in the events that took down Twitter this week spoke with The Times, giving the first account of what happened as a pursuit of Bitcoin spun out of control: [Hackers Tell the Story of the Twitter Attack From the Inside](https://web.archive.org/web/20200717210005/https://www.nytimes.com/2020/07/17/technology/twitter-hackers-interview.html)
 
 # Signs Your Software is Rotting
 
