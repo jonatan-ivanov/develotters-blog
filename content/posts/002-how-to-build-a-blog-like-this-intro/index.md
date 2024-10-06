@@ -34,7 +34,7 @@ It has a couple of [advantages](https://jamstack.org/) ([maybe these too](https:
 
 Maybe this is the hardest part, you need to pick a [Static Site Generator](https://www.staticgen.com/) which is a bigger challenge than it sounds, just follow the link and see. :)
 Right now the most popular Static Site Generators are:
-- [Gatsby](https://www.gatsbyjs.org/) (JavaScript + React)
+- [Gatsby](https://github.com/gatsbyjs/gatsby) (JavaScript + React)
 - [Hexo](https://hexo.io/) (JavaScript + various templates)
 - [Hugo](https://gohugo.io/) (Go)
 - [Jekyll](https://jekyllrb.com/) (Ruby + Liquid)

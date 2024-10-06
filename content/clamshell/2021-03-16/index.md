@@ -42,4 +42,4 @@ DZone (one of the world’s largest publishers of knowledge resources for softwa
 [basic-computer-games](https://github.com/coding-horror/basic-computer-games) is an updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages.
 
 # yawkat/code-browser
-[yawkat/code-browser](https://code.yawk.at/) is an online browser for java open-source projects. Aims to replace the now-defunct grepcode. See [its GitHub repo](https://github.com/yawkat/code-browser) too.
+[yawkat/code-browser](https://github.com/yawkat/code-browser) is an online browser for java open-source projects. Aims to replace the now-defunct grepcode.
