@@ -18,8 +18,10 @@ dateformat = "2006-01-02"
 customCSS = ["style.css"] # Include custom CSS files
 # customJS = ["js/custom.js"] # Include custom JS files
 
-[author]
+[Author]
   name = "Jonatan Ivanov"
+  bio = "I'm a Software Engineer working in the [Spring Engineering Team](https://spring.io/team), [see more](/about)"
+  avatar = "img/avatar.jpg"
 
 [style.vars]
   highlightColor = "#80151a"

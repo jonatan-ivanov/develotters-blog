@@ -32,11 +32,6 @@ enableInlineShortcodes = true
   identifier = "rss"
   url = "/index.xml"
 
-[Author]
-  name = "Jonatan Ivanov"
-  bio = "I'm a Software Engineer working in the [Spring Engineering Team](https://spring.io/team), [see more](/about)"
-  avatar = "img/avatar.jpg"
-
 [services.disqus]
   shortname = "develotters"
 [services.googleAnalytics]
