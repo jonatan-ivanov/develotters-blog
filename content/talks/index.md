@@ -16,6 +16,7 @@ tags: []
 
 | Date           | Event                            | Location                        | Talk                                                                                         | Links |
 |----------------|----------------------------------|---------------------------------|----------------------------------------------------------------------------------------------|-------|
+|   2025-03-05   | Devnexus                         | Atlanta,<br>GA, USA             | Micrometer Mastery:<br>Unleash Advanced Observability<br>in your JVM Apps                    | [Event](https://devnexus.com/presentations/micrometer-mastery-unleash-advanced-observability-in-your-jvm-apps/) |
 |   2025-02-26   | ConFoo                           | Montreal,<br>Canada             | Application Observability<br>like you've never heard before                                  | [Event](https://confoo.ca/en/2025/session/application-observability-like-you-ve-never-heard-before) |
 |   2025-02-26   | ConFoo                           | Montreal,<br>Canada             | A Million Ways<br>to Fail in Production                                                      | [Event](https://confoo.ca/en/2025/session/a-million-ways-to-fail-in-production) |
 |   2024-10-02   | dev2next                         | Lone Tree,<br>CO, USA           | Application Observability<br>like you've never heard before                                  | [Event](https://www.dev2next.com/speaker/33c746aee6a341ef867a6362596d4ec7) |
