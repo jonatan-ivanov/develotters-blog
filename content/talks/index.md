@@ -16,6 +16,7 @@ tags: []
 
 | Date           | Event                            | Location                        | Talk                                                                                         | Links |
 |----------------|----------------------------------|---------------------------------|----------------------------------------------------------------------------------------------|-------|
+|   2025-04-02   | Desjardins Spring Days           | Online                          | Dive into Observability<br>with Micrometer<br>and Spring Boot 3                              | -     |
 |   2025-03-06   | Devnexus                         | Atlanta,<br>GA, USA             | Micrometer Mastery:<br>Unleash Advanced Observability<br>in your JVM Apps                    | [Event](https://devnexus.com/presentations/micrometer-mastery-unleash-advanced-observability-in-your-jvm-apps/) |
 |   2025-02-28   | ConFoo                           | Montreal,<br>Canada             | A Million Ways<br>to Fail in Production                                                      | [Event](https://confoo.ca/en/2025/session/a-million-ways-to-fail-in-production) |
 |   2025-02-27   | Coffee + Software                | Online                          | Observability                                                                                | [Video](https://www.youtube.com/watch?v=qGJ5f6mKBrw) |
