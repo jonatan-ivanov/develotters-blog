@@ -37,7 +37,7 @@ Check out the [Announcement](https://devblogs.microsoft.com/commandline/windows-
 
 # Ubuntu Touch OTA Release
 
-{{< tweet user="UBports" id="1260684739201175556">}}
+{{< x user="UBports" id="1260684739201175556">}}
 Ubuntu Touch Home: https://ubuntu-touch.io/  
 Supported Devices: https://devices.ubuntu-touch.io/  
 Check out the [Announcement](https://ubports.com/blog/ubports-blog-1/post/ubuntu-touch-ota-12-release-276)

@@ -26,13 +26,13 @@ tags: ["Windows", "Linux", "Java", "Doker", "Spring Boot", "Configuration", "Ser
 
 # The Start menu is 25 years old
 
-{{< tweet user="windowsinsider" id="1297942302254653443">}}
+{{< x user="windowsinsider" id="1297942302254653443">}}
 
 [Looking back - The 25th Anniversary of Windows 95](https://blogs.windows.com/windows-insider/2020/08/24/looking-back-the-25th-anniversary-of-windows-95/)
 
 # The Linux Kernel is 29 years old
 
-{{< tweet user="LPIConnect" id="1298237704833052672">}}
+{{< x user="LPIConnect" id="1298237704833052672">}}
 
 # Java in 2020
 

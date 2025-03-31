@@ -40,7 +40,7 @@ In this article, Matt Belcher explores why software rot is an issue, outlines so
 
 # Best of the JDK Feature Face-Off Results
 
-{{< tweet user="java" id="1281595323685703683">}}
+{{< x user="java" id="1281595323685703683">}}
 
 # The journey of the world’s open source code to the Arctic
 

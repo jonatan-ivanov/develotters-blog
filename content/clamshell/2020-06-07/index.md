@@ -73,7 +73,7 @@ A vulnerability scanner to check out what ports are open: [scan.nmap.me](http://
 
 # TIL: break, const, goto in Java
 
-{{< tweet user="jonatan_ivanov" id="1270017413984030720">}}
+{{< x user="jonatan_ivanov" id="1270017413984030720">}}
 
 # asserted.io
 

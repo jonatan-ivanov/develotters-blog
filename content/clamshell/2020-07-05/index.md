@@ -62,8 +62,8 @@ It supports Python and has a Scratch-based environment too, see the [announcemen
 
 # Add README.md to your GitHub profile
 
-{{< tweet user="Caneco" id="1279434881253154817">}}
+{{< x user="Caneco" id="1279434881253154817">}}
 
 # Best of the JDK Feature Face-Off final vote
 
-{{< tweet user="java" id="1280153444037169153">}}
+{{< x user="java" id="1280153444037169153">}}
