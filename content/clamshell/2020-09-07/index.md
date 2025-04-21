@@ -105,4 +105,4 @@ As Java turns 25 this year, you can continue to advance your developer skills by
 
 # Pock
 
-Display macOS Dock in Touch Bar: [pock.dev](https://pock.dev/), GitHub repo: [pigigaldi/Pock](https://github.com/pigigaldi/Pock).
+Display macOS Dock in Touch Bar: [pock.dev](https://pock.app/), GitHub repo: [pigigaldi/Pock](https://github.com/pigigaldi/Pock).

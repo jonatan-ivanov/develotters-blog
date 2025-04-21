@@ -71,7 +71,7 @@ A site dedicated to good practices and tooling around Kubernetes RBAC: [rbac.dev
 
 # What is the best way to write a PRD?
 
-PRD examples from companies you look upto: [What is the best way to write a PRD?](https://www.vindhyac.com/posts/best-prd-templates-from-companies-we-adore/)
+PRD examples from companies you look upto: [What is the best way to write a PRD?](https://web.archive.org/web/20241117193614/https://www.vindhyac.com/posts/best-prd-templates-from-companies-we-adore/)
 
 # bpytop
 

@@ -53,7 +53,7 @@ alias cat='bat'
 - Tree view
 
 If you want to use the original ls command: `command ls`  
-Check out the [readme](https://github.com/ogham/exa), the man page and the [official website](https://the.exa.website/), you can install it via `homebrew`.
+Check out the [readme](https://github.com/ogham/exa), the man page and the [official website](https://web.archive.org/web/20241128134034/https://the.exa.website/), you can install it via `homebrew`.
 
 **Setup tip:**  
 {{< highlight shell >}}
