@@ -44,6 +44,18 @@
     },
     {
       "pattern": "^https://theoverlap.substack.com"
+    },
+    {
+      "pattern": "^https://www.robotstxt.org"
+    },
+    {
+      "pattern": "^https://news.microsoft.com"
+    },
+    {
+      "pattern": "^https://blogs.windows.com"
+    },
+    {
+      "pattern": "^https://blog.mozilla.org"
     }
   ],
   "replacementPatterns": [
