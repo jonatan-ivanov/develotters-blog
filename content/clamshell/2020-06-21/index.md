@@ -75,4 +75,4 @@ The supported languages are: Objective-C, Swift, and Java.
 # Spotify Backstage
 
 [Backstage](https://backstage.io/) is an open-source developer portal with a unified frontend for infrastructure tooling, services, and documentation. It gives developers a uniform overview of all their resources, regardless of how and where they are running, as well as an easy way to onboard and start using those tools. It also allows the creation of new resources, such as backend services running in Kubernetes.
-Check out the announcement: [What the Heck is Backstage Anyway?](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/) and their [GitHub Repo](https://github.com/spotify/backstage).
+Check out the announcement: [What the Heck is Backstage Anyway?](https://web.archive.org/web/20241229001925/https://engineering.atspotify.com/2020/03/what-the-heck-is-backstage-anyway/) and their [GitHub Repo](https://github.com/spotify/backstage).

@@ -132,7 +132,7 @@ Since writing `volatile` variables are atomic, you can either make the `value` v
 
 # Tests
 
-I created tests for the first two issues: [`CounterTest.java`](https://github.com/jonatan-ivanov/concurrency-basics/blob/master/src/test/java/org/example/concurrent/CounterTest.java).
+I created tests for the first two issues: [`CounterTest.java`](https://github.com/jonatan-ivanov/concurrency-basics/blob/main/src/test/java/org/example/concurrent/CounterTest.java).
 Please feel free to clone/fork the repo and play with the code. You can modify the implementations (or add new ones) and watch if the tests are failing. Try to play with `synchronized`, `volatile`, and `Lock`s.
 Understanding the tests could also be a fun exercise, I will write about them to in the next post. :)
 
