@@ -16,6 +16,7 @@ tags: []
 
 | Date           | Event                                | Location                        | Talk                                                                                         | Links |
 |----------------|--------------------------------------|---------------------------------|----------------------------------------------------------------------------------------------|-------|
+|   2025-10-01   | VerboseMode                          | Colorado<br>Springs,<br>CO, USA | Observability<br>with Jonatan Ivanov                                                         | [Video](https://www.youtube.com/watch?v=Tg6ff3URyV4) |
 |   2025-09-30   | dev2next                             | Colorado<br>Springs,<br>CO, USA | From Mystery to Mastery:<br>Decoding the JVM<br>with Observability Tools                     | [Event](https://www.dev2next.com/speaker/da6b6b211587445bbfddd6a1b9cf1e95) |
 |   2025-09-30   | dev2next                             | Colorado<br>Springs,<br>CO, USA | A Million Ways<br>to Fail in Production                                                      | [Event](https://www.dev2next.com/speaker/da6b6b211587445bbfddd6a1b9cf1e95) |
 |   2025-07-22   | Spring Office Hours:<br>Mastercard   | Online                          | Observability                                                                                | -     |
