@@ -16,9 +16,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
       - name: Restore Cache
-        uses: actions/cache@v5
+        id: cache-restore
+        uses: actions/cache/restore@v5
         with:
-          save-always: true
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
           restore-keys: cache-lychee-
@@ -27,3 +27,10 @@ jobs:
         with:
           args: --cache --verbose --no-progress --config './.github/workflows/lychee-config.toml' './content/posts' './content/talks' './content/about'
           format: json
+      - name: Save Cache
+        id: cache-save
+        uses: actions/cache/save@v5
+        if: always()
+        with:
+          path: .lycheecache
+          key: ${{ steps.cache-restore.outputs.cache-primary-key }}
