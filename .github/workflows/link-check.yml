@@ -1,0 +1,28 @@
+name: Check Links
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # Run everyday at 9:00
+    - cron: 0 9 * * *
+  workflow_dispatch:
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Restore Cache
+        uses: actions/cache@v5
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+      - name: Link Check
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --root-dir "$(pwd)" --cache --verbose --no-progress --config './.github/workflows/lychee-config.toml' './content/posts' './content/talks' './content/about'
+          format: json

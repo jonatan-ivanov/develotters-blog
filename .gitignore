@@ -3,3 +3,4 @@ notes/
 
 public/
 .hugo_build.lock
+.lycheecache

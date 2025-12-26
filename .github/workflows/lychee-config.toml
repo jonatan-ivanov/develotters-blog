@@ -1,0 +1,10 @@
+# verbose = "error" # error, warn, info, debug, trace
+# format = "compact" # compact, detailed, json, markdown, raw (default: compact)
+# mode = "color" # plain, color, emoji, task (default: color)
+
+base_url = "https://develotters.com"
+
+exclude = [
+  '^https://www.npmjs.com/package/.*$',
+  '^https://duc.zevv.nl/$'
+]

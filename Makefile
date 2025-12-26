@@ -17,7 +17,4 @@ update:
 	git submodule update --recursive --remote
 
 link-check:
-	# npm install -g markdown-link-check
-	# echo 'http://localhost:8080' | markdown-link-check --config .github/workflows/markdown-link-check.json
-	@echo 'Checking links...'
-	find content -name \*.md -print0 | xargs -0 -n1 markdown-link-check --config .github/workflows/markdown-link-check.json --quiet
+	lychee --config './.github/workflows/lychee-config.toml' './content/posts' './content/talks' './content/about'
