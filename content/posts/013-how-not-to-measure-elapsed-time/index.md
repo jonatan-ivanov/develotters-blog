@@ -112,7 +112,7 @@ Response handleRequest(Request request) {
     }
 }
 ```
-But there is so much more you can do, please check the [docs](https://micrometer.io/docs/concepts).
+But there is so much more you can do, please check the [docs](https://docs.micrometer.io/micrometer/reference/concepts.html).
 
 # What else can go wrong?
 Everything. :) Here are a few things I recommend watching and reading to dig deeper:

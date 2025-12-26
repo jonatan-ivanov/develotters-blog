@@ -17,7 +17,7 @@ Glad you asked, the answer is *everything*. :)
 
 ## HTTP Example
 
-Let's say you want to count the incoming HTTP requests to your web service so that you are aware of the traffic patterns/throughput. If you create a `Counter` and increment it when your service receives an incoming request, that would look something like this ([Micrometer](https://micrometer.io/docs/concepts) example):
+Let's say you want to count the incoming HTTP requests to your web service so that you are aware of the traffic patterns/throughput. If you create a `Counter` and increment it when your service receives an incoming request, that would look something like this ([Micrometer](https://docs.micrometer.io/micrometer/reference/concepts.html) example):
 ```java
 Counter.builder("http.requests")
     .register(registry)
@@ -39,7 +39,7 @@ This is great but you might want more, for example tracking the traffic patterns
 - How many `POST` + `DELETE` requests did the service receive?
 - How many requests did the service receive?
 
-Doing this would look something like this ([Micrometer](https://micrometer.io/docs/concepts) example):
+Doing this would look something like this ([Micrometer](https://docs.micrometer.io/micrometer/reference/concepts.html) example):
 ```java
 Counter.builder("http.requests")
     .tag("method", method)
