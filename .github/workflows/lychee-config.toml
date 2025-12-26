@@ -8,5 +8,6 @@ exclude = [
   '^https://www.npmjs.com/package/.*$',
   '^https://duc.zevv.nl/$',
   '^https://www.cloudflare.com/.*$',
+  '^https://www.gnu.org/.*$',
   '^https://confoo.ca/.*$'
 ]
