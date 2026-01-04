@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v6
       - name: Restore Cache
         id: cache-restore
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v5
         with:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
@@ -29,7 +29,7 @@ jobs:
           format: json
       - name: Save Cache
         id: cache-save
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v5
         if: always()
         with:
           path: .lycheecache
