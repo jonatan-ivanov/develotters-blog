@@ -3,7 +3,7 @@ title: "Talks"
 lead: ""
 description: "Talks"
 
-date: 2025-05-18T10:37:00-07:00
+date: 2026-04-22T18:48:00-07:00
 author: "Jonatan Ivanov"
 type: page
 menu:
@@ -17,6 +17,7 @@ tags: []
 | Date           | Event                                | Location                        | Talk                                                                                         | Links |
 |----------------|--------------------------------------|---------------------------------|----------------------------------------------------------------------------------------------|-------|
 |   2026-04-15   | Spring I/O                           | Barcelona,<br>Spain             | I Can See Clearly Now:<br>Observability of JVM<br>& Spring Boot 2-3-4 apps                   | [Event](https://2026.springio.net/sessions/i-can-see-clearly-now-observability-of-jvm-and-spring-boot-2-3-4-apps/) |
+|   2026-04-15   | Spring I/O                           | Barcelona,<br>Spain             | AMA with the Spring Team                                                                     | [Event](https://2026.springio.net/sessions/ama-with-the-spring-team/) |
 |   2026-04-13   | Spring I/O                           | Barcelona,<br>Spain             | Observability with<br>Micrometer and<br>Spring Boot 3 and 4                                  | [Event](https://2026.springio.net/workshops/observability-with-micrometer-and-spring-boot-3-and-4/) |
 |   2026-03-06   | Devnexus                             | Atlanta,<br>GA, USA             | I Can See Clearly Now:<br>Observability of JVM<br>& Spring Boot 2-3-4 apps                   | [Event](https://devnexus.com/events/i-can-see-clearly-now-observability-of-jvm-spring-boot-2-3-4-apps) |
 |   2025-12-12   | A Bootiful Podcast                   | Online                          | How to measure all the things<br>with Micrometer                                             | [Listen](https://spring.io/blog/2026/01/15/a-bootiful-podcast-jonatan-ivanov) |
