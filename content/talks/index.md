@@ -16,6 +16,8 @@ tags: []
 
 | Date           | Event                                | Location                        | Talk                                                                                         | Links |
 |----------------|--------------------------------------|---------------------------------|----------------------------------------------------------------------------------------------|-------|
+|   2026-05-26   | Vancouver JUG                        | Vancou-<br>ver, BC,<br>Canada   | Observability of JVM<br>& Spring Boot 2-3-4 apps                                             | [Event](https://luma.com/sltushdc) |
+|   2026-05-19   | Spring Vanguard<br>Community Meeting | Online                          | I Can See Clearly Now:<br>Observability of JVM<br>& Spring Boot 2-3-4 apps                   | -     |
 |   2026-04-15   | Spring I/O                           | Barcelona,<br>Spain             | I Can See Clearly Now:<br>Observability of JVM<br>& Spring Boot 2-3-4 apps                   | [Event](https://2026.springio.net/sessions/i-can-see-clearly-now-observability-of-jvm-and-spring-boot-2-3-4-apps/) |
 |   2026-04-15   | Spring I/O                           | Barcelona,<br>Spain             | AMA with the Spring Team                                                                     | [Event](https://2026.springio.net/sessions/ama-with-the-spring-team/) |
 |   2026-04-13   | Spring I/O                           | Barcelona,<br>Spain             | Observability with<br>Micrometer and<br>Spring Boot 3 and 4                                  | [Event](https://2026.springio.net/workshops/observability-with-micrometer-and-spring-boot-3-and-4/) |
