@@ -41,7 +41,7 @@
     async function getTime() {
       try {
         const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
-        return await fetch(`https://worldtimeapi.org/api/timezone/${timeZone}`)
+        return await fetch(`https://time.now/developer/api/timezone/${timeZone}`)
           .then(response => response.json())
           .then(json => json.datetime);
       }
