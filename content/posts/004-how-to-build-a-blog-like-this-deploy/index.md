@@ -54,7 +54,7 @@ GitHub can also create a certificate using [Let's Encrypt](https://letsencrypt.o
 # A few things to check after your site is up
 
 - Valid cert
-- [`sitemap.xml`](/sitemap.xml) (see [sitemaps.org](https://www.sitemaps.org/))
+- [`sitemap.xml`](/sitemap.xml) (see [sitemaps.org](https://web.archive.org/web/20260602023216/https://www.sitemaps.org/))
 - [`robots.txt`](/robots.txt) (see [robotstxt.org](https://www.robotstxt.org/))
 - RSS: [`index.xml`](/index.xml) (see [wiki](https://en.wikipedia.org/wiki/RSS))
 - Google Analytics?
