@@ -25,6 +25,7 @@ jobs:
       - name: Link Check
         uses: lycheeverse/lychee-action@v2
         with:
+          lycheeVersion: v0.24.2
           args: --cache --verbose --no-progress --config './.github/workflows/lychee-config.toml' './content/posts' './content/talks' './content/about'
           format: json
       - name: Save Cache
