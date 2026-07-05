@@ -9,5 +9,6 @@ exclude = [
   '^https://duc.zevv.nl/$',
   '^https://www.cloudflare.com/.*$',
   '^https://www.gnu.org/.*$',
-  '^https://confoo.ca/.*$'
+  '^https://confoo.ca/.*$',
+  '^https://asciinema.org/.*$'
 ]
