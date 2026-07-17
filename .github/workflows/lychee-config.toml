@@ -5,6 +5,7 @@
 base_url = "https://develotters.com"
 
 exclude = [
+  '^https://web.archive.org/.*$',
   '^https://www.npmjs.com/package/.*$',
   '^https://duc.zevv.nl/$',
   '^https://www.cloudflare.com/.*$',
