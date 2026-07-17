@@ -18,7 +18,7 @@ This post is going to be a little longer so buckle-up, put your helmet on, grab 
 
 # What You Already Have
 
-I think I should have started the [previous post](/posts/terminal-fun-basic-utils/) with these, there are pretty good guides about basic Unix tools, let me show you a couple I ran into recently: [Unix ToolBox](http://devdoc.net/linux/UnixToolbox.html) is a collection of commands for advanced users, also available in a nice booklet form. Additionally, I like these tweets about the basics:
+I think I should have started the [previous post](/posts/terminal-fun-basic-utils/) with these, there are pretty good guides about basic Unix tools, let me show you a couple I ran into recently: [Unix ToolBox](https://web.archive.org/web/20260209172952/https://www.devdoc.net/linux/UnixToolbox.html) is a collection of commands for advanced users, also available in a nice booklet form. Additionally, I like these tweets about the basics:
 
 {{< x user="javarevisited" id="1268091886826213377">}}
 
