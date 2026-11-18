@@ -49,7 +49,7 @@ I think I should have started the [previous post](/posts/terminal-fun-basic-util
 
 `peco` is a simple interactive filtering tool, check out its [readme](https://github.com/peco/peco).
 
-![peco-demo](https://camo.githubusercontent.com/80e51a5d9cefe352115013ba8125fefdf6e0bb6a9152a61408e069f645bcac88/687474703a2f2f7065636f2e6769746875622e696f2f696d616765732f7065636f2d64656d6f2d70732e676966)
+![peco-demo](https://raw.githubusercontent.com/peco/peco.github.io/0f7400290a6c75784ae02c23d76645001d5d97ee/images/peco-demo-ps.gif)
 
 If you were missing FZF from this list, there will be a separate post for it. :)
 
